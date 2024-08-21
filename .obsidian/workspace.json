@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/Productivity.md",
+                "file": "Business/Books list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ed0ce8bd3dcbdd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books notes/Business Model Generation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/Productivity.md",
+                "file": "Books notes/Business Model Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/Productivity.md",
+                "file": "Books notes/Business Model Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity/Productivity.md"
+                "file": "Books notes/Business Model Generation.md"
               }
             }
           }
@@ -155,17 +167,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5ed1ada085a8b2a0",
+  "active": "8ed0ce8bd3dcbdd3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Business Model Generation.pdf",
+    "Books notes",
+    "Business/Books list.md",
+    "Books notes/Business Model Generation.md",
+    "Untitled Kanban.md",
     "Productivity/Productivity.md",
+    "conflict-files-obsidian-git.md",
     "Learning resources/Stealing.md",
     "Learning resources/Bricks Builder.md",
     "Learning resources/Animation.md",
-    "Business/Books.md",
     "Business",
     "Productivity",
     "obsidian/Hello.md",
