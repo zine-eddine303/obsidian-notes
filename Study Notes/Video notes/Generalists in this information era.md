@@ -8,4 +8,4 @@
 - they delve deep in a task (like learning a new skill) for hours without feeling tired or bored, this mode is called flowstate, when it feels like you're playing instead of doing a job. You don't want to compete against someone who's playing and doing what he loves, while you are working.  
 - They can self educate, if you need someone to tell you what to learn and how to learn something then you are in a severe disadvantage in the digital age. 
 # What to learn to survive this era? 
-Everything that allows for *Permissionless leverage*, it means where you dont need other people or money or resources to do a task or work, mainly digital skills
+Everything that allows for *Permissionless leverage*, it means where you dont need other people or money or resources to do a task or work -- where you dont need other people's permission to do something, mainly digtial skills like coding, youtubing, podcast... Code is is a *permissionless leverage*, all billionaires of the current era are code base leverage.
