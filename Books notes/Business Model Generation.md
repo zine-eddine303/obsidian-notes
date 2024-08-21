@@ -21,6 +21,13 @@ Our primitive custommer segmets could be:
 ## 2. Value Propositions: 
 It seeks to solve customer problems and satisfy customer needs with value propositions.
 The Value Propositions Building Block describes the bundle of products and services that create value for a specific Customer Segment The Value Proposition is the reason why customers turn to one company over another. It solves a customer problem or satisfi es a customer need. Each Value Proposition consists of a selected bundle of products and/or services that caters to the requirements of a specifi c Customer Segment. In this sense, the Value Proposition is an aggregation, or bundle, of benefits that a company offers customers. Some Value Propositions may be innovative and represent a new or disruptive offer. Others may be similar to existing market offers, but with added features and attributes.
+
+```
+There are many types of value proposition (view page 29), in our case our service could have these types:
+- Customization
+- Design
+- Cost reduction (the custommer can get a website designed, )
+```
 ## 3. Channels: 
 Value propositions are delivered to customers through communication, distribution, and sales Channels.
 ## 4. Customer Relationships: 
