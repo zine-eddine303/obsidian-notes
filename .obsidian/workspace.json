@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ade6a0e5d1199228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity/Productivity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ed1ada085a8b2a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business/Books list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ed0ce8bd3dcbdd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,14 +146,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8ed0ce8bd3dcbdd3",
+  "active": "5ed1ada085a8b2a0",
   "lastOpenFiles": [
-    "Business Model Generation.pdf",
-    "Books notes",
+    "Pasted image 20240821171406.png",
     "Business/Books list.md",
     "Books notes/Business Model Generation.md",
-    "Untitled Kanban.md",
     "Productivity/Productivity.md",
+    "Inspiration/Websites.md",
+    "Business Model Generation.pdf",
+    "Books notes",
+    "Untitled Kanban.md",
     "conflict-files-obsidian-git.md",
     "Learning resources/Stealing.md",
     "Learning resources/Bricks Builder.md",
@@ -189,7 +166,6 @@
     "obsidian",
     "2024-08-19.md",
     "Inspiration/Made with Bricks.md",
-    "Inspiration/Websites.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Inspiration",
