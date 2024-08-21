@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books notes/Business Model Generation.md",
+                "file": "Productivity/Productivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90ec1a6f7f085c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Notes/Video notes/Generalists in this information era.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b5e6727def924bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Notes/Video notes/Generalists in this information era.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books notes/Business Model Generation.md",
+                "file": "Study Notes/Video notes/Generalists in this information era.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books notes/Business Model Generation.md",
+                "file": "Study Notes/Video notes/Generalists in this information era.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books notes/Business Model Generation.md"
+                "file": "Study Notes/Video notes/Generalists in this information era.md"
               }
             }
           }
@@ -146,16 +171,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5ed1ada085a8b2a0",
+  "active": "3b5e6727def924bf",
   "lastOpenFiles": [
-    "Pasted image 20240821171406.png",
-    "Business/Books list.md",
-    "Books notes/Business Model Generation.md",
+    "Study Notes/Video notes/The future of work.md",
+    "Study Notes/Video notes/Generalists in this information era.md",
     "Productivity/Productivity.md",
-    "Inspiration/Websites.md",
-    "Business Model Generation.pdf",
-    "Books notes",
+    "Study Notes/Books notes",
+    "Assets/Pasted image 20240821171406.png",
+    "Study Notes/Video notes",
+    "Study Notes/Books notes/Business Model Generation.md",
     "Untitled Kanban.md",
+    "Assets",
+    "Business Model Generation.pdf",
+    "Business/Books list.md",
+    "Inspiration/Websites.md",
+    "Study Notes",
     "conflict-files-obsidian-git.md",
     "Learning resources/Stealing.md",
     "Learning resources/Bricks Builder.md",
