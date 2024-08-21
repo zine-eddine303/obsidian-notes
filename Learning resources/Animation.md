@@ -1,0 +1,7 @@
+- [Bricks Builder + Bricksforge: GSAP Animations & Timelines (youtube.com)](https://www.youtube.com/watch?v=eWQNGn-MrAg&list=WL&index=3)
+- [GSAP in Wordpress Bricks Builder for beginners - File Set Up - Episode #1 (youtube.com)](https://www.youtube.com/watch?v=dW9QLJ1UNhw&list=PLfLpqkYmL7OsxB8bURurqSLRw91eP-ivB)
+- [Learn GSAP In 23 Minutes - YouTube](https://www.youtube.com/watch?v=m6PDUIF24v4&list=WL&index=10)
+- [My Top 5 Techniques for Web Animation (youtube.com)](https://www.youtube.com/watch?v=9eHEOAn2FOA&list=WL&index=12&t=417s)
+- [My Top 10 Resources for Web Animations (youtube.com)](https://www.youtube.com/watch?v=wQA8vi9z5cU&list=WL&index=11)
+- [JavaScript DOM Manipulation – Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=5fb2aPlgoys&list=WL&index=23&t=1s&pp=gAQBiAQB)
+- [Motion Design for the Web | FREE COURSE - YouTube](https://www.youtube.com/watch?v=vqXLGX0szIQ) IMPORTANT

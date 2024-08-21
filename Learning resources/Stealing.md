@@ -1,0 +1,6 @@
+- [How to Steal From Web Designs (youtube.com)](https://www.youtube.com/watch?v=fsPuLR36wOU)
+- [Stealing Your Way to Original Designs | by Dan Mall | Medium](https://medium.com/@danielmall/stealing-your-way-to-original-designs-49291150c999)
+- [The Art of Stealing: How to Become a Master Designer | Toptal®](https://www.toptal.com/designers/ui/the-art-of-stealing-how-to-become-a-master-designer)
+- [Copying, stealing, or inspiration when it comes to UX Design | by Courtney Fortin | SI 410: Ethics and Information Technology | Medium](https://medium.com/si-410-ethics-and-information-technology/copying-stealing-or-inspiration-when-it-comes-to-ux-design-86607064cb43)
+- [How to Steal Designs Like a PRO | End-to-end Process (youtube.com)](https://www.youtube.com/watch?v=wLdWwoBDrNg)
+- [How to Steal From Web Designs (youtube.com)](https://www.youtube.com/watch?v=fsPuLR36wOU)
