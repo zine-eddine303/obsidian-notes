@@ -2,10 +2,15 @@
 
 - we are in a new renaissance, the digital renaissance  
 - heroes of the old renaissance (renaissance men) were generalists (polymaths), they had a large se t of skills and knowledge in many fields and have deep understanding in desperate areas, wchich help them solve problems in creative ways  
-- "the future belongs to those who learn more skills and combine them in creative ways"  
+- "the future belongs to those who learn more skills and combine them in creative ways" 
 # Habbits of renaissance men  
 - exercise  
 - they delve deep in a task (like learning a new skill) for hours without feeling tired or bored, this mode is called flowstate, when it feels like you're playing instead of doing a job. You don't want to compete against someone who's playing and doing what he loves, while you are working.  
 - They can self educate, if you need someone to tell you what to learn and how to learn something then you are in a severe disadvantage in the digital age. 
+- They write
 # What to learn to survive this era? 
-Everything that allows for *Permissionless leverage*, it means where you dont need other people or money or resources to do a task or work -- where you dont need other people's permission to do something, mainly digtial skills like coding, youtubing, podcast... Code is is a *permissionless leverage*, all billionaires of the current era are code base leverage.
+* Everything that allows for *Permissionless leverage*, it means where you dont need other people or money or resources to do a task or work -- where you dont need other people's permission to do something, mainly digtial skills like coding, youtubing, podcast... Code is is a *permissionless leverage*, all billionaires of the current era are code base leverage.
+* **Digital literacy**, basically being "good with computers" 
+
+# Circle of accelerated Adaptation
+![[Pasted image 20240822115505.png]]
