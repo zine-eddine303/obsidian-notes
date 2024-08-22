@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal thoughts/Personal.md",
+                "file": "Study Notes/Books notes/Business Model Generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal thoughts/Personal.md",
+                "file": "Study Notes/Books notes/Business Model Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal thoughts/Personal.md",
+                "file": "Study Notes/Books notes/Business Model Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,11 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal thoughts/Personal.md"
+                "file": "Study Notes/Books notes/Business Model Generation.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,30 +156,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "90ec1a6f7f085c05",
   "lastOpenFiles": [
+    "Business/Inspiration.md",
+    "Business/Books list.md",
+    "Personal thoughts/Personal.md",
     "Personal thoughts/Business related.md",
+    "Stuff I need to learn/Untitled.md",
+    "Study Notes/Video notes/The future of work.md",
+    "Study Notes/Books notes/Business Model Generation.md",
+    "Business Model Generation.pdf.md",
     "Productivity/Productivity.md",
     "Study Notes/Video notes/Generalists in this information era.md",
-    "Stuff I need to learn/Untitled.md",
     "Assets/Pasted image 20240822115505.png",
     "Assets/Pasted image 20240821171406.png",
-    "Study Notes/Video notes/The future of work.md",
-    "Personal thoughts/Personal.md",
     "Stuff I need to learn",
-    "Business/Inspiration.md",
     "Personal thoughts",
     "Inspiration/Websites.md",
     "Study Notes/Books notes",
     "Study Notes/Video notes",
-    "Study Notes/Books notes/Business Model Generation.md",
     "Untitled Kanban.md",
     "Assets",
     "Business Model Generation.pdf",
-    "Business/Books list.md",
     "Study Notes",
     "conflict-files-obsidian-git.md",
     "Learning resources/Stealing.md",

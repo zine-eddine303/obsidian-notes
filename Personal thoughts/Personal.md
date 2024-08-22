@@ -9,3 +9,10 @@ Originated from:
 [[Generalists in this information era]]
 
 ---
+I gotta divide my time, its chaotic right now
+there's a lot of things that i should do: learning technical things, learning business management, working on the business, learning productivity..
+
+lets say i have 6h a day of productivity:
+2h of technical learning (like how to use gsap) 
+2h of business learning (like business model)
+2h of actual work on the business (preparation, design, portfolio...)

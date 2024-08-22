@@ -12,6 +12,6 @@
   
 1. Future proof work  
 "Traditional education and hyperspecialization is the way to make people subservient to the dominant system. Study the general principals of nature and be a deep generalist "  
-- pirates give a great example on entrepreneurship, they knew the sea, the land, ships, biology, geography, navigation, astronomy, treasures, crew management... And their crew were chosen stupid on purpose, so they are narrow minded and do as they are told, and get assigned roles, for example "royal treasurer", they become happy when given the title and narrow their mindes even more, becoming specialists and lose the ability to do their own thing because they lack the other skills.  
+- pirates give a great example on entrepreneurship, they knew the sea, the land, ships, biology, geography, navigation, astronomy, treasures, crew management... And their crew were chosen stupid on purpose, so they are narrow minded and do as they are told, and get assigned roles, for example "royal treasurer", they become happy when given the title and narrow their minds even more, becoming specialists and lose the ability to do their own thing because they lack the other skills.  
 Land people know only the land, and believe what pirates say, pirates can lie and control both land and sea because they r generalists, land people cant because they are specialists.  
 - schools were created to enslave the brightest minds promising them the prestige of specialization, so the remain narrow minded and lack the ability to overthrow those who assigned to them their purpose

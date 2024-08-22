@@ -1,4 +1,3 @@
-[[Business Model Generation.pdf]]
 -------
 # Chapter 1
 We believe a business model can best be described through nine basic building blocks that show the logic of how a company intends to make money. The nine blocks cover the four main areas of a business: customers, offer, infrastructure, and financial viability. The business model is like a blueprint for a strategy to be implemented through organizational structures, processes, and systems.
@@ -19,7 +18,7 @@ Our primitive custommer segmets could be:
 ```
 ## 2. Value Propositions: 
 It seeks to solve customer problems and satisfy customer needs with value propositions.
-The Value Propositions Building Block describes the bundle of products and services that create value for a specific Customer Segment The Value Proposition is the reason why customers turn to one company over another. It solves a customer problem or satisfi es a customer need. Each Value Proposition consists of a selected bundle of products and/or services that caters to the requirements of a specifi c Customer Segment. In this sense, the Value Proposition is an aggregation, or bundle, of benefits that a company offers customers. Some Value Propositions may be innovative and represent a new or disruptive offer. Others may be similar to existing market offers, but with added features and attributes.
+The Value Propositions Building Block describes the bundle of products and services that create value for a specific Customer Segment The Value Proposition is the reason why customers turn to one company over another. It solves a customer problem or satisfies a customer need. Each Value Proposition consists of a selected bundle of products and/or services that caters to the requirements of a specific Customer Segment. In this sense, the Value Proposition is an aggregation, or bundle, of benefits that a company offers customers. Some Value Propositions may be innovative and represent a new or disruptive offer. Others may be similar to existing market offers, but with added features and attributes.
 
 ```
 There are many types of value proposition (view page 29), in our case our service could have these types:
