@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/Video notes/Generalists in this information era.md",
+                "file": "Business/Inspiration.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Notes/Video notes/Generalists in this information era.md",
+                "file": "Business/Inspiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/Video notes/Generalists in this information era.md",
+                "file": "Business/Inspiration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/Video notes/Generalists in this information era.md"
+                "file": "Business/Inspiration.md"
               }
             }
           }
@@ -173,8 +173,10 @@
   },
   "active": "3b5e6727def924bf",
   "lastOpenFiles": [
-    "Study Notes/Video notes/The future of work.md",
+    "Inspiration/Websites.md",
+    "Business/Inspiration.md",
     "Study Notes/Video notes/Generalists in this information era.md",
+    "Study Notes/Video notes/The future of work.md",
     "Productivity/Productivity.md",
     "Study Notes/Books notes",
     "Assets/Pasted image 20240821171406.png",
@@ -184,7 +186,6 @@
     "Assets",
     "Business Model Generation.pdf",
     "Business/Books list.md",
-    "Inspiration/Websites.md",
     "Study Notes",
     "conflict-files-obsidian-git.md",
     "Learning resources/Stealing.md",
