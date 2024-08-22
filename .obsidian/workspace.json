@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Inspiration.md",
+                "file": "Stuff I need to learn/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Inspiration.md",
+                "file": "Stuff I need to learn/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Inspiration.md",
+                "file": "Stuff I need to learn/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Inspiration.md"
+                "file": "Stuff I need to learn/Untitled.md"
               }
             }
           }
@@ -173,8 +173,12 @@
   },
   "active": "3b5e6727def924bf",
   "lastOpenFiles": [
-    "Inspiration/Websites.md",
+    "Personal thoughts/Business related.md",
+    "Stuff I need to learn/Untitled.md",
+    "Stuff I need to learn",
     "Business/Inspiration.md",
+    "Personal thoughts",
+    "Inspiration/Websites.md",
     "Study Notes/Video notes/Generalists in this information era.md",
     "Study Notes/Video notes/The future of work.md",
     "Productivity/Productivity.md",
@@ -199,8 +203,6 @@
     "Inspiration/Made with Bricks.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Inspiration",
-    "Learning resources",
     "Welcome.md"
   ]
 }
