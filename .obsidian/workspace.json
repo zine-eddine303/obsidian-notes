@@ -11,15 +11,11 @@
             "id": "5aecbfcfd4e90874",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tasks/Business model canvas Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "Study Notes/Waitlist/Videos.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -113,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Business model canvas Kanban.md",
+                "file": "Study Notes/Waitlist/Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Business model canvas Kanban.md",
+                "file": "Study Notes/Waitlist/Videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Business model canvas Kanban.md"
+                "file": "Study Notes/Waitlist/Videos.md"
               }
             }
           }
@@ -176,10 +172,23 @@
   },
   "active": "5aecbfcfd4e90874",
   "lastOpenFiles": [
+    "Study Notes/Video notes/Essential Business Concepts for Case Interviews.md",
+    "Assets/Pasted image 20240825224414.png",
+    "Assets/Pasted image 20240825224143.png",
+    "Assets/Pasted image 20240825224118.png",
+    "Assets/Pasted image 20240825224105.png",
+    "Assets/Pasted image 20240825224033.png",
+    "Assets/Pasted image 20240825224012.png",
+    "Assets/Pasted image 20240825223953.png",
+    "Assets/Pasted image 20240825223928.png",
+    "Assets/Pasted image 20240825223837.png",
+    "Study Notes/Waitlist/Videos.md",
+    "Study Notes/Waitlist",
+    "Stuff I need to learn/Untitled.md",
+    "Tasks/Business model canvas Kanban.md",
     "Tasks/Website business related.md",
     "Study Notes/Books notes/Business Model Generation.md",
     "Tasks/General business related.md",
-    "Tasks/Business model canvas Kanban.md",
     "Tasks/Productivity.md",
     "Tasks/Websites to design.md",
     "Business/Books list.md",
@@ -195,12 +204,10 @@
     "Websites to design",
     "Learning resources/Animation.md",
     "Personal thoughts/Personal.md",
-    "Stuff I need to learn/Untitled.md",
     "Business Model Generation.pdf.md",
     "Productivity/Productivity.md",
     "Study Notes/Video notes/Generalists in this information era.md",
     "Assets/Pasted image 20240822115505.png",
-    "Assets/Pasted image 20240821171406.png",
     "Stuff I need to learn",
     "Personal thoughts",
     "Inspiration/Websites.md",
@@ -210,10 +217,6 @@
     "Business Model Generation.pdf",
     "Study Notes",
     "conflict-files-obsidian-git.md",
-    "Learning resources/Stealing.md",
-    "Learning resources/Bricks Builder.md",
-    "Business",
-    "obsidian/Hello.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
