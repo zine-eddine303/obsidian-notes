@@ -1,0 +1,3 @@
+- [ ] Study the local market pricing (what the opponents are charging for the same service)
+- [ ] Study the global market on how they operate, how they charge, what they offer and how they make clients keep paying
+- [ ] Farm for local competitors and prices

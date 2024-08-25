@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90ec1a6f7f085c05",
+            "id": "5aecbfcfd4e90874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Business related.md",
+                "file": "Study Notes/Books notes/Business Model Generation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9a27993b5b9205c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal thoughts/Business related.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Business related.md",
+                "file": "Tasks/General business related.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Business related.md",
+                "file": "Study Notes/Books notes/Business Model Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Business related.md",
+                "file": "Study Notes/Books notes/Business Model Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Business related.md"
+                "file": "Study Notes/Books notes/Business Model Generation.md"
               }
             }
           }
@@ -160,15 +171,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "eb793f2f3dfe9d47",
+  "active": "5aecbfcfd4e90874",
   "lastOpenFiles": [
-    "Websites to design/Untitled.md",
+    "Tasks/General business related.md",
+    "Tasks/Website business related.md",
     "Personal thoughts/Business related.md",
-    "Tasks/Business related.md",
+    "Study Notes/Books notes/Business Model Generation.md",
+    "Websites to design/Untitled.md",
     "Tasks",
     "Business/Competitors.md",
     "Business/Inspiration.md",
-    "Study Notes/Books notes/Business Model Generation.md",
     "Websites to design",
     "Learning resources/Animation.md",
     "Business/Books list.md",
