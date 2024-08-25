@@ -10,6 +10,7 @@ Customer groups represent separate segments if:
 - They require different types of relationships 
 - They have substantially different profitabilities 
 - They are willing to pay for different aspects of the offer
+/
 
 	Our primitive custommer segmets could be:
 	- Merchants who need ecommerce websites
@@ -105,10 +106,25 @@ Business models designed with a platform as a Key Resource are dominated by plat
 
 **For software maker Microsoft, Key Activities include software development. For PC manufacturer Dell, Key Activities include supply chain management. *For consultancy McKinsey, Key Activities include problem solving.***
 ## 8. Key Partnerships (KP)
-Some activities are outsourced and some resources are acquired outside the enterprise.
-Companies forge partnerships for many reasons, and partnerships are becoming a cornerstone of many business models. Companies create alliances to optimize their business models, reduce risk, or acquire resources. We can distinguish between four diΩerent types of partnerships: 1. Strategic alliances between non-competitors 2. Coopetition: strategic partnerships between competitors 3. Joint ventures to develop new businesses 4. Buyer-supplier relationships to assure reliable supplies
 
-	In our case, we have Hosting as a sort of a partner, as they  
+^8ac589
+
+Some activities are outsourced and some resources are acquired outside the enterprise.
+Companies forge partnerships for many reasons, and partnerships are becoming a cornerstone of many business models. Companies create alliances to optimize their business models, reduce risk, or acquire resources. We can distinguish between four different types of partnerships: 1. Strategic alliances between non-competitors 2. Coopetition: strategic partnerships between competitors 3. Joint ventures to develop new businesses 4. Buyer-supplier relationships to assure reliable supplies
+
+The reasons for a partnership could be:
+### Optimization and economy of scale
+buyer-supplier relationship is designed to optimize the allocation of resources and activities. It is illogical for a company to own all resources or perform every activity by itself. Optimization and economy of scale partnerships are usually formed to reduce costs, and often involve outsourcing or sharing infrastructure.
+### Reduction of risk and uncertainty
+Partnership with competitors
+### Acquisition of particular resources and activities
+Few companies own all the resources or perform all the activities described by their business models. Rather, ==they extend their own capabilities by relying on other firms to furnish particular resources or perform certain activities.== Such partnerships can be motivated by needs to acquire knowledge, licenses, or access to customers. ==A mobile phone manufacturer, for example, may license an operating system for its handsets rather than developing one in-house.== An insurer may choose to rely on independent brokers to sell its policies rather than develop its own sales force.
+
+	In our case, we have Hosting services as a sort of a partner or a supplier, because they host the websites that we create for our clients. and maybe Facebook ads, wordpress, Bricks builder too!
+	It falls under "Acquisition of particular resources and activities"
+	  
 ## 9. Cost Structure (C$)
 The business model elements result in the cost structure
 
+# Assignment 1
+- [ ] Fill the Business model canvas

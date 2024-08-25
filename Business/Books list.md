@@ -6,7 +6,7 @@ While these books aren't specifically about website development, they offer inva
 
 - **The Lean Startup** by Eric Ries: This book introduces the concept of "build, measure, learn," emphasizing rapid experimentation and customer feedback to validate business ideas.
 - **The $100 Startup** by Chris Guillebeau: This book explores the idea of starting a business with minimal investment, focusing on leveraging existing skills and resources.
-- **Business Model Generation** by Alexander Osterwalder and Yves Pigneur: This book provides a framework for understanding and designing your business model, including customer segments, value proposition, and revenue streams.
+- [ ] **[[Business Model Generation]]** by Alexander Osterwalder and Yves Pigneur: This book provides a framework for understanding and designing your business model, including customer segments, value proposition, and revenue streams.
 
 ### Marketing and Sales:
 

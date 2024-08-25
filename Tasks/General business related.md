@@ -1,1 +1,2 @@
 - [ ] Learn basic business principles and terminologies 
+- [ ] 

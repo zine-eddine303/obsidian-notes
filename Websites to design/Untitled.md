@@ -1,2 +1,0 @@
-* Proteses dentaires (ramy)
-* 

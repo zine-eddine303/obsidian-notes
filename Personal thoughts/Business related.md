@@ -4,10 +4,12 @@ From looking at algerian web developers, i noticed that they lack the design asp
 Just a thought: make the websites a monthly subscription instead of a one time payment, or instead find a way to keep the customer hooked and make him pay you for other services or features
 
 ---
-i must study the market pricing (what the opponents are charging for the same service)
+I must study the market pricing (what the opponents are charging for the same service)
 
 ---
 We could make multiple revenue sources, like a monthly service to actual customers 
 
 ---
-From what we learned from key partners in 
+We learned from key partners in [[Business Model Generation#^8ac589]] that *maybe* [Hostinger]([Hostinger - Bring Your Idea Online With a Website](https://www.hostinger.com/)) is considered a partner, so maybe we can find if they offer a deal for developers like me, or an affiliate thing! ^54fa86
+
+---
