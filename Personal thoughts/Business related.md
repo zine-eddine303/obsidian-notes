@@ -8,3 +8,6 @@ i must study the market pricing (what the opponents are charging for the same se
 
 ---
 We could make multiple revenue sources, like a monthly service to actual customers 
+
+---
+From what we learned from key partners in 
