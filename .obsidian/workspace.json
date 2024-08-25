@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md",
+                "file": "Tasks/Business related.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e736a1f7ed736a9b",
+            "id": "eb793f2f3dfe9d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Websites to design/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a604e6c450ef2aac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stuff I need to learn/Untitled.md",
+                "file": "Tasks/Business related.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md",
+                "file": "Tasks/Business related.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md",
+                "file": "Tasks/Business related.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md"
+                "file": "Tasks/Business related.md"
               }
             }
           }
@@ -172,16 +160,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "89b402b9bf102bd2",
+  "active": "eb793f2f3dfe9d47",
   "lastOpenFiles": [
-    "Study Notes/Books notes/Business Model Generation.md",
     "Websites to design/Untitled.md",
+    "Personal thoughts/Business related.md",
+    "Tasks/Business related.md",
+    "Tasks",
+    "Business/Competitors.md",
+    "Business/Inspiration.md",
+    "Study Notes/Books notes/Business Model Generation.md",
     "Websites to design",
     "Learning resources/Animation.md",
-    "Business/Inspiration.md",
     "Business/Books list.md",
     "Personal thoughts/Personal.md",
-    "Personal thoughts/Business related.md",
     "Stuff I need to learn/Untitled.md",
     "Study Notes/Video notes/The future of work.md",
     "Business Model Generation.pdf.md",
@@ -202,7 +193,6 @@
     "Learning resources/Stealing.md",
     "Learning resources/Bricks Builder.md",
     "Business",
-    "Productivity",
     "obsidian/Hello.md",
     "2024-08-19.md",
     "Inspiration/Made with Bricks.md",

@@ -1,0 +1,2 @@
+- [ ] study the market pricing (what the opponents are charging for the same service)
+- [ ] Stud

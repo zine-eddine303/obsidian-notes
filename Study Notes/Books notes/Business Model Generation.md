@@ -42,7 +42,9 @@ An organization can choose between reaching its customers through its own Channe
 
 ![[Pasted image 20240821171406.png]]
 ## 4. Customer Relationships: 
-Customer relationships are established and maintained with each Customer Segment.
+The Customer Relationships Building Block describes the types of relationships a company establishes with specific Customer Segments
+Example: In the early days, mobile network operators focused on acquiring new customers. They offered incentives like free mobile phones to attract as many users as possible. This aggressive acquisition strategy led to rapid market growth. As the market became saturated, it became more difficult to attract new customers. Operators realized that retaining existing customers was more profitable. They shifted their focus to customer retention and increasing average revenue per customer (ARPU). This meant offering additional services, like data plans or premium content, to encourage customers to spend more. The type of customer relationship a company cultivates depends on its business model. For example, a company that relies on recurring revenue (like a subscription service) will focus on building long-term relationships with customers. On the other hand, a company that sells one-time products may prioritize customer satisfaction but not necessarily long-term loyalty.
+
 ## 5. Revenue Streams:
 Revenue streams result from value propositions successfully offered to customers.
 ## 6. Key Resources:
