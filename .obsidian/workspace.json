@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Websites to design/Untitled.md",
+                "file": "Study Notes/Books notes/Business Model Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Websites to design/Untitled.md",
+                "file": "Study Notes/Books notes/Business Model Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Websites to design/Untitled.md"
+                "file": "Study Notes/Books notes/Business Model Generation.md"
               }
             }
           }
@@ -169,8 +169,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "89b402b9bf102bd2",
