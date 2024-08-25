@@ -11,11 +11,15 @@
             "id": "5aecbfcfd4e90874",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md",
-                "mode": "source",
-                "source": false
+                "file": "Tasks/Business model canvas Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
               }
             }
           },
@@ -109,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md",
+                "file": "Tasks/Business model canvas Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md",
+                "file": "Tasks/Business model canvas Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md"
+                "file": "Tasks/Business model canvas Kanban.md"
               }
             }
           }
@@ -172,9 +176,11 @@
   },
   "active": "5aecbfcfd4e90874",
   "lastOpenFiles": [
-    "Tasks/General business related.md",
     "Tasks/Website business related.md",
     "Study Notes/Books notes/Business Model Generation.md",
+    "Tasks/General business related.md",
+    "Tasks/Business model canvas Kanban.md",
+    "Tasks/Productivity.md",
     "Tasks/Websites to design.md",
     "Business/Books list.md",
     "Personal thoughts/Business related.md",
@@ -182,7 +188,6 @@
     "www.hostinger.com.md",
     "hostinger.com.md",
     "Study Notes/Video notes/8 Core Business Concepts You Need To Know (10min MBA).md",
-    "Tasks/Productivity.md",
     "Study Notes/Video notes/The future of work.md",
     "Tasks",
     "Business/Competitors.md",
@@ -201,7 +206,6 @@
     "Inspiration/Websites.md",
     "Study Notes/Books notes",
     "Study Notes/Video notes",
-    "Untitled Kanban.md",
     "Assets",
     "Business Model Generation.pdf",
     "Study Notes",
