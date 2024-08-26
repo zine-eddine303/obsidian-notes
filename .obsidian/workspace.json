@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ff6ee0ae1eaa878e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/Competitors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aa1e1d09ce0f6f78",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Website business related.md",
+                "file": "Business/Competitors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Website business related.md",
+                "file": "Business/Competitors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Website business related.md"
+                "file": "Business/Competitors.md"
               }
             }
           }
@@ -183,10 +196,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5aecbfcfd4e90874",
+  "active": "ff6ee0ae1eaa878e",
   "lastOpenFiles": [
-    "Thoughts/Business related.md",
+    "Inspiration/Websites.md",
     "Tasks/Website business related.md",
+    "Thoughts/Business related.md",
     "Thoughts/Personal.md",
     "Study Notes/Books notes/Business Model Generation.md",
     "Tasks/General business related.md",
@@ -223,7 +237,6 @@
     "Assets/Pasted image 20240822115505.png",
     "Stuff I need to learn",
     "Thoughts",
-    "Inspiration/Websites.md",
     "Study Notes/Books notes",
     "Study Notes/Video notes",
     "Assets",
