@@ -132,6 +132,22 @@ Naturally enough, costs should be minimized in every business model. But low Cos
 ### Cost driven 
 Cost-driven business models focus on minimizing costs wherever possible. This approach aims at creating and maintaining the leanest possible Cost Structure, using low price Value Propositions, maximum automation, and extensive outsourcing. No frills airlines, such as Southwest, easyJet, and Ryanair typify cost-driven business models
 
+	Our case seems to be cost driven
+### Value-driven
+Some companies are less concerned with the cost implications of a particular business model design, and instead focus on value creation. Premium Value Propositions and a high degree of personalized service usually characterize value-driven business models. Luxury hotels, with their lavish facilities and exclusive services, fall into this category.
+
+*Cost Structures can have the following characteristics:*
+### Fixed costs
+Costs that remain the same despite the volume of goods or services produced. Examples include salaries, rents, and physical manufacturing facilities. Some businesses, such as manufacturing companies, are characterized by a high proportion of fixed costs. 
+### Variable costs 
+Costs that vary proportionally with the volume of goods or services produced. Some businesses, such as music festivals, are characterized by a high proportion of variable costs.
+### Economies of scale
+Cost advantages that a business enjoys as its output expands. Larger companies, for instance, benefit from lower bulk purchase rates. This and other factors cause average cost per unit to fall as output rises.
+### Economies of scope
+Cost advantages that a business enjoys due to a larger scope of operations. In a large enterprise, for example, the same marketing activities or Distribution Channels may support multiple products.
+
+# Conclusion 
+These 9 blocks make the "business model canvas" 
 # Assignment 1
 - [ ] Fill the Business model canvas. **Task:** [[Website business related#^6241e5]] **Kanban:** [[Business model canvas Kanban]] **Figjam file:** [Figjam file](https://www.figma.com/board/dyV2WWAJ1ANFHxahkc61G5/Website-Business-Model-Canvas?node-id=0-1&t=0tvopElWuv129otn-1)
 

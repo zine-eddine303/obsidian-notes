@@ -122,7 +122,7 @@
               "type": "backlink",
               "state": {
                 "file": "Study Notes/Books notes/Business Model Generation.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -165,7 +165,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5aecbfcfd4e90874",
+  "active": "a66e7c7c154bedb5",
   "lastOpenFiles": [
     "Tasks/General business related.md",
     "Study Notes/Books notes/Business Model Generation.md",
