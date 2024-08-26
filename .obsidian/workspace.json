@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md",
+                "file": "Tasks/Website business related.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal thoughts/Business related.md",
+                "file": "Thoughts/Business related.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md",
+                "file": "Tasks/Website business related.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md",
+                "file": "Tasks/Website business related.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md"
+                "file": "Tasks/Website business related.md"
               }
             }
           }
@@ -185,9 +185,11 @@
   },
   "active": "5aecbfcfd4e90874",
   "lastOpenFiles": [
-    "Tasks/General business related.md",
-    "Study Notes/Books notes/Business Model Generation.md",
+    "Thoughts/Business related.md",
     "Tasks/Website business related.md",
+    "Thoughts/Personal.md",
+    "Study Notes/Books notes/Business Model Generation.md",
+    "Tasks/General business related.md",
     "Tasks/Business model canvas Kanban.md",
     "Stuff I need to learn/Untitled.md",
     "Study Notes/Waitlist/Videos.md",
@@ -205,7 +207,6 @@
     "Tasks/Productivity.md",
     "Tasks/Websites to design.md",
     "Business/Books list.md",
-    "Personal thoughts/Business related.md",
     "[Hostinger.md",
     "www.hostinger.com.md",
     "hostinger.com.md",
@@ -216,13 +217,12 @@
     "Business/Inspiration.md",
     "Websites to design",
     "Learning resources/Animation.md",
-    "Personal thoughts/Personal.md",
     "Business Model Generation.pdf.md",
     "Productivity/Productivity.md",
     "Study Notes/Video notes/Generalists in this information era.md",
     "Assets/Pasted image 20240822115505.png",
     "Stuff I need to learn",
-    "Personal thoughts",
+    "Thoughts",
     "Inspiration/Websites.md",
     "Study Notes/Books notes",
     "Study Notes/Video notes",

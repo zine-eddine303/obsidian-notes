@@ -1,6 +1,7 @@
 - [ ] Study the local market pricing (what the opponents are charging for the same service)
 - [ ] Study the global market on how they operate, how they charge, what they offer and how they make clients keep paying
 - [ ] Farm for local competitors and prices
-- [ ] Do this [[Business related#^54fa86]]
-- [ ] Do the business model canvas. Kanban: [[Business model canvas Kanban]]  ^6241e5 **Figjam file:** [Figjam file](https://www.figma.com/board/dyV2WWAJ1ANFHxahkc61G5/Website-Business-Model-Canvas?node-id=0-1&t=0tvopElWuv129otn-1)
-- [ ] 
+- [x] Do this [[Business related#^54fa86]]
+- [x] Do the business model canvas. Kanban: [[Business model canvas Kanban]]  ^6241e5 **Figjam file:** [Figjam file](https://www.figma.com/board/dyV2WWAJ1ANFHxahkc61G5/Website-Business-Model-Canvas?node-id=0-1&t=0tvopElWuv129otn-1)
+- [ ] Do this [[Business related#^ee0cb3]]
+- [ ] Do this [[Business related#^8c49c6]]

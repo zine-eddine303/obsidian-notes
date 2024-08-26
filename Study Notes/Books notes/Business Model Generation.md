@@ -153,5 +153,5 @@ Cost advantages that a business enjoys due to a larger scope of operations. In a
 # Conclusion 
 These 9 blocks make the "business model canvas" 
 # Assignment 1
-- [ ] Fill the Business model canvas. **Task:** [[Website business related#^6241e5]] **Kanban:** [[Business model canvas Kanban]] **Figjam file:** [Figjam file](https://www.figma.com/board/dyV2WWAJ1ANFHxahkc61G5/Website-Business-Model-Canvas?node-id=0-1&t=0tvopElWuv129otn-1)
+- [x] Fill the Business model canvas. **Task:** [[Website business related#^6241e5]] **Kanban:** [[Business model canvas Kanban]] **Figjam file:** [Figjam file](https://www.figma.com/board/dyV2WWAJ1ANFHxahkc61G5/Website-Business-Model-Canvas?node-id=0-1&t=0tvopElWuv129otn-1)
 
