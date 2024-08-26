@@ -85,7 +85,11 @@ The Key Resources Building Block describes the most important assets required to
 Key Resources can be categorized as follows:
 Physical, Human, Intellectual, Financial 
 
-	- [ ]  Need to understand how this relates to our case
+	Our case:
+	- Designer and developer (Me)
+	- Design and developement software
+	- Hardware (laptop, mouse, screen, desk)
+	- Internet connection
 ## 7. Key Activities (KA)
 . . . by performing a number of Key Activities.
 The Key Activities Building Block describes the most important things a company must do to make its business model work Every business model calls for a number of Key Activities.
@@ -99,7 +103,7 @@ These activities relate to designing, making, and delivering a product in substa
 ### Problem solving
 Key Activities of this type relate to coming up with new solutions to individual customer problems. The operations of consultancies, hospitals, and other service organizations are typically dominated by problem solving activities. Their business models call for activities such as knowledge management and continuous training.
 ### Platform/network
-Business models designed with a platform as a Key Resource are dominated by platform or network related Key Activities. Networks, matchmaking platforms, software, and even brands can function as a platform. eBay’s business model requires that the company continually develop and maintain its plat form: the Web site at eBay.com. Visa’s business model requires activities related to its Visa® credit card transaction platform for merchants, customers, and banks. Microsoft’s business model requires managing the interface between other vendors’ software and its Windows® operating system platform. Key Activities in this category relate to platform management, service provisioning, and platform promotion
+Business models designed with a platform as a Key Resource are dominated by platform or network related Key Activities. Networks, matchmaking platforms, software, and even brands can function as a platform. eBay’s business model requires that the company continually develop and maintain its platform: the Web site at eBay.com. Visa’s business model requires activities related to its Visa® credit card transaction platform for merchants, customers, and banks. Microsoft’s business model requires managing the interface between other vendors’ software and its Windows® operating system platform. Key Activities in this category relate to platform management, service provisioning, and platform promotion
 
 	Our case falls under problem solving, 
 	- [ ] We need to understand more the "platform/network" category bc maybe it falls under it too
@@ -120,7 +124,7 @@ Partnership with competitors
 ### Acquisition of particular resources and activities
 Few companies own all the resources or perform all the activities described by their business models. Rather, ==they extend their own capabilities by relying on other firms to furnish particular resources or perform certain activities.== Such partnerships can be motivated by needs to acquire knowledge, licenses, or access to customers. ==A mobile phone manufacturer, for example, may license an operating system for its handsets rather than developing one in-house.== An insurer may choose to rely on independent brokers to sell its policies rather than develop its own sales force.
 
-	In our case, we have Hosting services as a sort of a partner or a supplier, because they host the websites that we create for our clients. and maybe Facebook ads, wordpress, Bricks builder too!
+	In our case, we have Hosting services as a partner/supplier, because they host the websites that we create for our clients. and maybe Facebook ads, wordpress, Bricks builder too!
 	It falls under "Acquisition of particular resources and activities"
 
 	We should provide hosting services as ours, we dont have to tell the client about who's the host, we just give them the deals available and maybe add a finders fee to it 
