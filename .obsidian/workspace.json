@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Competitors.md",
+                "file": "Thoughts/Business related.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Competitors.md",
+                "file": "Thoughts/Business related.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Competitors.md",
+                "file": "Thoughts/Business related.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Competitors.md"
+                "file": "Thoughts/Business related.md"
               }
             }
           }
@@ -199,6 +199,8 @@
   "active": "ff6ee0ae1eaa878e",
   "lastOpenFiles": [
     "Inspiration/Websites.md",
+    "Business/Inspiration.md",
+    "Business/Competitors.md",
     "Tasks/Website business related.md",
     "Thoughts/Business related.md",
     "Thoughts/Personal.md",
@@ -227,8 +229,6 @@
     "Study Notes/Video notes/8 Core Business Concepts You Need To Know (10min MBA).md",
     "Study Notes/Video notes/The future of work.md",
     "Tasks",
-    "Business/Competitors.md",
-    "Business/Inspiration.md",
     "Websites to design",
     "Learning resources/Animation.md",
     "Business Model Generation.pdf.md",
