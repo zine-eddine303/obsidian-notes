@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "aa1e1d09ce0f6f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/General business related.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eb793f2f3dfe9d47",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md",
+                "file": "Tasks/General business related.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md",
+                "file": "Tasks/General business related.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/Books notes/Business Model Generation.md"
+                "file": "Tasks/General business related.md"
               }
             }
           }
@@ -170,8 +183,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5aecbfcfd4e90874",
+  "active": "aa1e1d09ce0f6f78",
   "lastOpenFiles": [
+    "Study Notes/Books notes/Business Model Generation.md",
     "Tasks/Website business related.md",
     "Tasks/Business model canvas Kanban.md",
     "Stuff I need to learn/Untitled.md",
@@ -188,7 +202,6 @@
     "Assets/Pasted image 20240825223928.png",
     "Assets/Pasted image 20240825223837.png",
     "Study Notes/Waitlist",
-    "Study Notes/Books notes/Business Model Generation.md",
     "Tasks/Productivity.md",
     "Tasks/Websites to design.md",
     "Business/Books list.md",
