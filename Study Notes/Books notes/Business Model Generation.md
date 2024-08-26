@@ -126,6 +126,11 @@ Few companies own all the resources or perform all the activities described by t
 	We should provide hosting services as ours, we dont have to tell the client about who's the host, we just give them the deals available and maybe add a finders fee to it 
 ## 9. Cost Structure (C$)
 The business model elements result in the cost structure
+Creating and delivering value, maintaining Customer Relationships, and generating revenue all incur costs. Such costs can be calculated relatively easily after defi ning Key Resources, Key Activities, and Key Partnerships. Some business models, though, are more cost-driven than others. So-called “no frills” airlines, for instance, have built business models entirely around low Cost Structures.
+
+Naturally enough, costs should be minimized in every business model. But low Cost Structures are more important to some business models than to others. Therefore it can be useful to distinguish between two broad classes of business model Cost Structures: cost-driven and value-driven (many business models fall in between these two extremes):
+### Cost driven 
+Cost-driven business models focus on minimizing costs wherever possible. This approach aims at creating and maintaining the leanest possible Cost Structure, using low price Value Propositions, maximum automation, and extensive outsourcing. No frills airlines, such as Southwest, easyJet, and Ryanair typify cost-driven business models
 
 # Assignment 1
 - [ ] Fill the Business model canvas. **Task:** [[Website business related#^6241e5]] **Kanban:** [[Business model canvas Kanban]] **Figjam file:** [Figjam file](https://www.figma.com/board/dyV2WWAJ1ANFHxahkc61G5/Website-Business-Model-Canvas?node-id=0-1&t=0tvopElWuv129otn-1)

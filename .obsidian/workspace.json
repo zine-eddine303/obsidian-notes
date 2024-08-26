@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/General business related.md",
+                "file": "Study Notes/Books notes/Business Model Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/General business related.md",
+                "file": "Study Notes/Books notes/Business Model Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/General business related.md"
+                "file": "Study Notes/Books notes/Business Model Generation.md"
               }
             }
           }
@@ -183,14 +182,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa1e1d09ce0f6f78",
+  "active": "5aecbfcfd4e90874",
   "lastOpenFiles": [
+    "Tasks/General business related.md",
     "Study Notes/Books notes/Business Model Generation.md",
     "Tasks/Website business related.md",
     "Tasks/Business model canvas Kanban.md",
     "Stuff I need to learn/Untitled.md",
     "Study Notes/Waitlist/Videos.md",
-    "Tasks/General business related.md",
     "Study Notes/Video notes/Essential Business Concepts for Case Interviews.md",
     "Assets/Pasted image 20240825224414.png",
     "Assets/Pasted image 20240825224143.png",
