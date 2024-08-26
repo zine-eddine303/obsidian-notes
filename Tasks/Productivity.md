@@ -1,3 +1,3 @@
 - [ ] finish the video [[The future of work]]
 - [ ] Watch the video [[8 Core Business Concepts You Need To Know (10min MBA)]]
-- [ ] 
+- [ ] Study the renaissance 

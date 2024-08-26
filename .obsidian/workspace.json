@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Website business related.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff6ee0ae1eaa878e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts/Business related.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa1e1d09ce0f6f78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/General business related.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb793f2f3dfe9d47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/General business related.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8631059b51c15ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts/Business related.md",
+                "file": "Study Notes/Video notes/The future of work.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/Business related.md",
+                "file": "Study Notes/Video notes/The future of work.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thoughts/Business related.md",
+                "file": "Study Notes/Video notes/The future of work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thoughts/Business related.md"
+                "file": "Study Notes/Video notes/The future of work.md"
               }
             }
           }
@@ -196,19 +147,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ff6ee0ae1eaa878e",
+  "active": "5aecbfcfd4e90874",
   "lastOpenFiles": [
+    "Tasks/Website business related.md",
+    "Tasks/Productivity.md",
+    "Tasks/General business related.md",
+    "Tasks/Websites to design.md",
+    "Tasks/Business model canvas Kanban.md",
+    "Thoughts/Business related.md",
+    "Thoughts/Personal.md",
+    "Study Notes/Video notes/The future of work.md",
+    "Study Notes/Waitlist/Videos.md",
     "Inspiration/Websites.md",
     "Business/Inspiration.md",
     "Business/Competitors.md",
-    "Tasks/Website business related.md",
-    "Thoughts/Business related.md",
-    "Thoughts/Personal.md",
     "Study Notes/Books notes/Business Model Generation.md",
-    "Tasks/General business related.md",
-    "Tasks/Business model canvas Kanban.md",
     "Stuff I need to learn/Untitled.md",
-    "Study Notes/Waitlist/Videos.md",
     "Study Notes/Video notes/Essential Business Concepts for Case Interviews.md",
     "Assets/Pasted image 20240825224414.png",
     "Assets/Pasted image 20240825224143.png",
@@ -220,14 +174,11 @@
     "Assets/Pasted image 20240825223928.png",
     "Assets/Pasted image 20240825223837.png",
     "Study Notes/Waitlist",
-    "Tasks/Productivity.md",
-    "Tasks/Websites to design.md",
     "Business/Books list.md",
     "[Hostinger.md",
     "www.hostinger.com.md",
     "hostinger.com.md",
     "Study Notes/Video notes/8 Core Business Concepts You Need To Know (10min MBA).md",
-    "Study Notes/Video notes/The future of work.md",
     "Tasks",
     "Websites to design",
     "Learning resources/Animation.md",
