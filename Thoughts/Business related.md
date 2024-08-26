@@ -19,3 +19,4 @@ Do we have to give the client access to his website?
 If it is an ecommerce website, we obviously should, ==but should be give him global access or only as a shop owner?==
 
 --- 
+==I think we should niche down for starters==, we should find a field that's thriving and in need for websites and work on some examples to showcase them, then start pitching, i need liquidity to pay for bricks, and a new laptop, new phone. then i expand. for example lawyers, travel agencies, immobilier....
