@@ -122,7 +122,8 @@ Few companies own all the resources or perform all the activities described by t
 
 	In our case, we have Hosting services as a sort of a partner or a supplier, because they host the websites that we create for our clients. and maybe Facebook ads, wordpress, Bricks builder too!
 	It falls under "Acquisition of particular resources and activities"
-	  
+
+	We should provide hosting services as ours, we dont have to tell the client about who's the host, we just give them the deals available and maybe add a finders fee to it 
 ## 9. Cost Structure (C$)
 The business model elements result in the cost structure
 
