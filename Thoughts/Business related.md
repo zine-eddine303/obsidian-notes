@@ -29,3 +29,6 @@ The only problem is how to reach the Decision Makers "DM".
 
 ---
 Scrapping Google maps is a smart move to gain time
+
+---
+We can call businesses in usa with a us number by using a service that provides a us phone number, like this guy is doing: [(61) How i book 3-5 meetings a day (web design cold calling) - YouTube](https://www.youtube.com/watch?v=kmp4iFCf8Jo&list=WL&index=8&t=183s)

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inspiration/Websites.md",
+                "file": "Thoughts/Business related.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inspiration/Websites.md",
+                "file": "Thoughts/Business related.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inspiration/Websites.md",
+                "file": "Thoughts/Business related.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inspiration/Websites.md"
+                "file": "Thoughts/Business related.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "30dc77749963f7bd",
   "lastOpenFiles": [
+    "Inspiration/Websites.md",
     "Tasks/Websites to design.md",
     "Thoughts/Business related.md",
-    "Inspiration/Websites.md",
     "Study Notes/Video notes/The future of work.md",
     "Tasks/Website business related.md",
     "Tasks/Productivity.md",
