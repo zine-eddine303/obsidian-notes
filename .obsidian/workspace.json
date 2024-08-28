@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Website business related.md",
+                "file": "Tasks/Websites to design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Website business related.md",
+                "file": "Tasks/Websites to design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Website business related.md"
+                "file": "Tasks/Websites to design.md"
               }
             }
           }
@@ -160,13 +159,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "30dc77749963f7bd",
+  "active": "5aecbfcfd4e90874",
   "lastOpenFiles": [
+    "Tasks/Website business related.md",
     "Tasks/Websites to design.md",
     "Inspiration/Websites.md",
     "Thoughts/Business related.md",
     "Study Notes/Video notes/The future of work.md",
-    "Tasks/Website business related.md",
     "Tasks/Productivity.md",
     "Tasks/General business related.md",
     "Tasks/Business model canvas Kanban.md",
