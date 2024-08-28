@@ -20,3 +20,9 @@ If it is an ecommerce website, we obviously should, ==but should be give him glo
 
 --- 
 ==I think we should niche down for starters==, we should find a field that's thriving and in need for websites and work on some examples to showcase them, then start pitching, i need liquidity to pay for bricks, and a new laptop, new phone. then i expand. for example lawyers, travel agencies, immobilier....
+
+---
+Kiddy park is a good business that doesn't have a website, we can inspire from websites like aquapark bourj el kiffan, and hanibal, cartage land...
+There's a lot of pictures that we can use from their maps, they have a logo
+The only problem is how to reach the Decision Makers "DM".
+==NVM they have a website that's down==
