@@ -9,3 +9,7 @@
 
 # Dentists
 [Dentisterie Réstauratrice – Cabinet Dentaire DR Debeche](https://www.drdebeche.com/index.php/services/restorative-dentistry/)
+
+
+# Lawyers
+[FAQ Page - Mebarki Law Firm (algerian-business-lawyer.com)](https://algerian-business-lawyer.com/faq-page/)

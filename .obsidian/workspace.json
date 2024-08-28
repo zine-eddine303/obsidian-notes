@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30dc77749963f7bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inspiration/Websites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Websites to design.md",
+                "file": "Inspiration/Websites.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Websites to design.md",
+                "file": "Inspiration/Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Websites to design.md"
+                "file": "Inspiration/Websites.md"
               }
             }
           }
@@ -147,15 +160,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5aecbfcfd4e90874",
+  "active": "30dc77749963f7bd",
   "lastOpenFiles": [
+    "Tasks/Websites to design.md",
     "Thoughts/Business related.md",
     "Inspiration/Websites.md",
     "Study Notes/Video notes/The future of work.md",
     "Tasks/Website business related.md",
     "Tasks/Productivity.md",
     "Tasks/General business related.md",
-    "Tasks/Websites to design.md",
     "Tasks/Business model canvas Kanban.md",
     "Thoughts/Personal.md",
     "Study Notes/Waitlist/Videos.md",
