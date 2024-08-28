@@ -2,3 +2,6 @@
 - [ ] A template for lawyers 
 - [ ] A template for dentists
 - [ ] A template for nail salons
+- [ ] A template for "les instituts"
+- [ ] Website for "le baron coiffeur" (talk to hakim)
+- [ ] 
