@@ -20,6 +20,36 @@
             }
           },
           {
+            "id": "f3b738be0e67bac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Websites to design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56b745222544238f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Tasks/Websites on design/Dental clinic.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
             "id": "30dc77749963f7bd",
             "type": "leaf",
             "state": {
@@ -31,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Websites to design.md",
+                "file": "Tasks/Websites on design/Dental clinic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Websites to design.md",
+                "file": "Tasks/Websites on design/Dental clinic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Websites to design.md"
+                "file": "Tasks/Websites on design/Dental clinic.md"
               }
             }
           }
@@ -159,11 +190,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5aecbfcfd4e90874",
+  "active": "56b745222544238f",
   "lastOpenFiles": [
-    "Tasks/Website business related.md",
     "Tasks/Websites to design.md",
+    "Tasks/Websites on design/Dental clinic.md",
+    "Tasks/Websites on design",
     "Inspiration/Websites.md",
+    "Business/Inspiration.md",
+    "Tasks/Website business related.md",
     "Thoughts/Business related.md",
     "Study Notes/Video notes/The future of work.md",
     "Tasks/Productivity.md",
@@ -171,7 +205,6 @@
     "Tasks/Business model canvas Kanban.md",
     "Thoughts/Personal.md",
     "Study Notes/Waitlist/Videos.md",
-    "Business/Inspiration.md",
     "Business/Competitors.md",
     "Study Notes/Books notes/Business Model Generation.md",
     "Stuff I need to learn/Untitled.md",
@@ -204,7 +237,6 @@
     "Study Notes/Video notes",
     "Assets",
     "Business Model Generation.pdf",
-    "Study Notes",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
