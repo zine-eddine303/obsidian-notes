@@ -4,4 +4,5 @@
 - [ ] A template for nail salons
 - [ ] A template for "les instituts"
 - [ ] Website for "le baron coiffeur" (talk to hakim)
-- [ ] 
+- [ ] Template for vet
+- [ ] Template for pet store
