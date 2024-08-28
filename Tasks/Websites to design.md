@@ -1,1 +1,4 @@
 - [ ] Proteses dentaires (ramy)
+- [ ] A template for lawyers 
+- [ ] A template for dentists
+- [ ] A template for nail salons

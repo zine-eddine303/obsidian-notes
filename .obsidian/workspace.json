@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts/Business related.md",
+                "file": "Tasks/Websites to design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/Business related.md",
+                "file": "Tasks/Websites to design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thoughts/Business related.md",
+                "file": "Tasks/Websites to design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thoughts/Business related.md"
+                "file": "Tasks/Websites to design.md"
               }
             }
           }
@@ -149,16 +149,16 @@
   },
   "active": "5aecbfcfd4e90874",
   "lastOpenFiles": [
+    "Thoughts/Business related.md",
+    "Inspiration/Websites.md",
     "Study Notes/Video notes/The future of work.md",
     "Tasks/Website business related.md",
     "Tasks/Productivity.md",
     "Tasks/General business related.md",
     "Tasks/Websites to design.md",
     "Tasks/Business model canvas Kanban.md",
-    "Thoughts/Business related.md",
     "Thoughts/Personal.md",
     "Study Notes/Waitlist/Videos.md",
-    "Inspiration/Websites.md",
     "Business/Inspiration.md",
     "Business/Competitors.md",
     "Study Notes/Books notes/Business Model Generation.md",

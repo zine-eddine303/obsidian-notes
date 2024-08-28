@@ -26,3 +26,6 @@ Kiddy park is a good business that doesn't have a website, we can inspire from w
 There's a lot of pictures that we can use from their maps, they have a logo
 The only problem is how to reach the Decision Makers "DM".
 ==NVM they have a website that's down==
+
+---
+Scrapping Google maps is a smart move to gain time
