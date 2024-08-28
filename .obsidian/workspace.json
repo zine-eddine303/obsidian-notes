@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Websites to design.md",
+                "file": "Tasks/Websites on design/Dental clinic.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Websites to design.md",
+                "file": "Tasks/Websites on design/Dental clinic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Websites to design.md"
+                "file": "Tasks/Websites on design/Dental clinic.md"
               }
             }
           }
@@ -190,10 +190,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f3b738be0e67bac2",
+  "active": "56b745222544238f",
   "lastOpenFiles": [
-    "Tasks/Websites on design/Dental clinic.md",
     "Tasks/Websites to design.md",
+    "Tasks/Websites on design/Dental clinic.md",
     "Tasks/Websites on design",
     "Inspiration/Websites.md",
     "Business/Inspiration.md",

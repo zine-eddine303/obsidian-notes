@@ -6,15 +6,17 @@ kanban-plugin: board
 
 ## todo
 
+- [ ] testemonials
 
 
 ## doing
 
-- [ ] Home page wireframe
+- [ ] hero section
 
 
 ## done
 
+- [ ] Home page wireframe
 
 
 
