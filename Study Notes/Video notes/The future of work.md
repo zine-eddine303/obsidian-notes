@@ -42,7 +42,7 @@ To learn these, we can learn these following skills that require these liberatin
 if you don't know how to attract and persuade, you will never get what you want, and the only option for you is for an employer (or the government) to give it to you.
 **(Rhetoric, psychology)**
 ### 2. Writing and thinking
-The ability to communicate the value in your unique mind. The foundation of getting in front of other people.
+The ability to communicate the value in your unique mind. The foundation of getting in front of other people. 
 **(Logic, research)**
 ### 3. Entrepreneurship
 The process of taking any future into your own hands, hunting for your survival and building products that you want to see in the world (that others care about).
@@ -62,3 +62,16 @@ Note the similarities between each and double down on them
 ### Create your own process 
 Tailor what you learn to your unique lifestyle and situation
 ### Contribute to true education by passing it down
+Give people education that they cant get in schools, also teaching something makes you understand it in more perspectives
+### True education is about discovery, not memorization 
+You dive into something that interests you and discover it, it's not being told of forced to do something that you don't like or that don't care about that serves a goal that you didn't choose to pursue.
+
+### With writing and thinking:
+You attract like-minded people
+### With marketing and sales:
+You understand the minds of your customers so you can solve your own problems and create a solution for them that they will benefit from them (win win situation). Then you pursuade them that you option is better. And if it's not better, that doesn't make it a scam, it's just a product that needs to be improved.
+### With entrepreneurship 
+You make your product or solution better and profitable
+
+	18:19
+	
