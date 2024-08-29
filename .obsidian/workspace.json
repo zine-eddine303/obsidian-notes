@@ -20,32 +20,14 @@
             }
           },
           {
-            "id": "f3b738be0e67bac2",
+            "id": "56b745222544238f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Websites to design.md",
+                "file": "Inspiration/Websites.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "56b745222544238f",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Tasks/Websites on design/Dental clinic.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
               }
             }
           },
@@ -62,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Websites on design/Dental clinic.md",
+                "file": "Inspiration/Websites.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Websites on design/Dental clinic.md",
+                "file": "Inspiration/Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Websites on design/Dental clinic.md"
+                "file": "Inspiration/Websites.md"
               }
             }
           }
@@ -192,8 +174,8 @@
   },
   "active": "56b745222544238f",
   "lastOpenFiles": [
-    "Tasks/Websites to design.md",
     "Tasks/Websites on design/Dental clinic.md",
+    "Tasks/Websites to design.md",
     "Tasks/Websites on design",
     "Inspiration/Websites.md",
     "Business/Inspiration.md",
