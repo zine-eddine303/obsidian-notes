@@ -9,3 +9,10 @@
 How the model works: 
 - We create one template for one niche and re-use that for everyone 
 - We tell people that we made them a free website and ask if they want to see it
+- Book an online meeting and deliver VALUE
+- Close the deal
+- Upsell additional services like SEO, and such
+
+- Avoid perfection, it is so common in web design. Instead take IMPERFECT ACTION
+- Take action everyday - even if it's small
+- Prospecting is king - get more appointments at all costs. Y
