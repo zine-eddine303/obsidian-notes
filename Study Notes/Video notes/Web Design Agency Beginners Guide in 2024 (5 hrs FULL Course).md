@@ -1,0 +1,6 @@
+- This tutorial has a specific business model
+- It takes hard work (sometimes 10 12hr/day)
+- Dont be afraid of charging the amount that  your work deserves
+- In the US they roughly charge 1.5k-3k per website
+- The problem with this business is if you sell to a client a website, that's all the money you are getting from him, you can get 5 clients in one month and make thousands of dollars, and in the next month you have to start from zero and can make none. Which makes you work nonstop because there's not re-occuring payment and non long term clients, but if you make a way to charge clients monthly, it'll be  
+- a rough calculation for our case: if the client takes the standard offer from hostinger for 48 months, it'll cost 172$ + 48$ of the domain cost the the remaining

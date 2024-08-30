@@ -3,3 +3,4 @@
 * [ ] [(58) A Plan Is Not a Strategy - YouTube](https://www.youtube.com/watch?v=iuYlGRnC7J8)
 * [ ] [(58) 8 Core Business Concepts You Need To Know (10min MBA) - YouTube](https://www.youtube.com/watch?v=ZeEc8YCpocY)
 * [ ] [(58) How Brands Use Design & Marketing to Control Your Mind - YouTube](https://www.youtube.com/watch?v=p6aF5ma7BiM)
+* [ ] [(66) Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course) - YouTube](https://www.youtube.com/watch?v=AvH_xyNgzMw&t=263s)
