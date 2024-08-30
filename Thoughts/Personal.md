@@ -16,3 +16,6 @@ lets say i have 6h a day of productivity:
 2h of technical learning (like how to use gsap) 
 2h of business learning (like business model)
 2h of actual work on the business (preparation, design, portfolio...)
+
+---
+Not being narcissitic but ==bro I am smart==, I get things quickly and make assumptions that almost turn out to be true. Don't ask me why, but I have high potential, I just have to work it out and use it.

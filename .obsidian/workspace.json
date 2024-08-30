@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts/Business related.md",
+                "file": "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c070110a4455e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts/Personal.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/Business related.md",
+                "file": "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thoughts/Business related.md",
+                "file": "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thoughts/Business related.md"
+                "file": "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md"
               }
             }
           }
@@ -174,13 +186,14 @@
   },
   "active": "56b745222544238f",
   "lastOpenFiles": [
-    "Thoughts/Business related.md",
+    "Tasks/Websites to design.md",
+    "Thoughts/Personal.md",
     "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md",
+    "Thoughts/Business related.md",
     "Study Notes/Waitlist/Videos.md",
     "Productivity/Productivity.md",
     "Inspiration/Websites.md",
     "Tasks/Websites on design/Dental clinic.md",
-    "Tasks/Websites to design.md",
     "Tasks/Websites on design",
     "Business/Inspiration.md",
     "Tasks/Website business related.md",
@@ -188,7 +201,6 @@
     "Tasks/Productivity.md",
     "Tasks/General business related.md",
     "Tasks/Business model canvas Kanban.md",
-    "Thoughts/Personal.md",
     "Business/Competitors.md",
     "Study Notes/Books notes/Business Model Generation.md",
     "Stuff I need to learn/Untitled.md",
