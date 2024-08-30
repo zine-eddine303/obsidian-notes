@@ -1,3 +1,4 @@
+[(66) Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course) - YouTube](https://www.youtube.com/watch?v=AvH_xyNgzMw&t=263s)
 - This tutorial has a specific business model
 - It takes hard work (sometimes 10 12hr/day)
 - Dont be afraid of charging the amount that  your work deserves
@@ -15,4 +16,6 @@ How the model works:
 
 - Avoid perfection, it is so common in web design. Instead take IMPERFECT ACTION
 - Take action everyday - even if it's small
-- Prospecting is king - get more appointments at all costs. Y
+- Prospecting is king - get more appointments at all costs. You dont have to get everything figured out to start selling. Get clients, sign them up and figure it out on the way! like you did with elhoudhoud you learned a lot of things doing the work for them (hosting locally and abroad, domains, ecommerce, landing pages, automation tool "MAKE", local websit on wampserver, blocksy and more...). ==Find another client that pays you to learn in them!==
+- Fail ASAP - send a 100 message and get 3 responses saying that they're not interested, change the message and move on!
+- Get uncomfortable - go on meetings and appointments and get nervous (specially when proposing a price that you are not comfortable with), its good because that's what growth feels like (think of the gym)
