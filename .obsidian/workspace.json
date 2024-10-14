@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/AI Tools.md",
+                "file": "Business/Prospect cold calling.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/AI Tools.md",
+                "file": "Business/Prospect cold calling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/AI Tools.md",
+                "file": "Business/Prospect cold calling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/AI Tools.md"
+                "file": "Business/Prospect cold calling.md"
               }
             }
           }
@@ -186,8 +186,9 @@
   },
   "active": "56b745222544238f",
   "lastOpenFiles": [
-    "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md",
     "Tools/AI Tools.md",
+    "Business/Prospect cold calling.md",
+    "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md",
     "Tools",
     "Study Notes/Video notes/8 Core Business Concepts You Need To Know (10min MBA).md",
     "Study Notes/Video notes/Essential Business Concepts for Case Interviews.md",
@@ -225,7 +226,6 @@
     "hostinger.com.md",
     "Tasks",
     "Websites to design",
-    "Learning resources/Animation.md",
     "Assets/Pasted image 20240822115505.png",
     "Stuff I need to learn",
     "Thoughts",
