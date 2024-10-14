@@ -32,26 +32,17 @@
             }
           },
           {
-            "id": "4c070110a4455e4f",
+            "id": "a21c93d4afede459",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Thoughts/Personal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30dc77749963f7bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Website business related.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -269,
+                  "y": -20,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -186,8 +177,10 @@
   },
   "active": "56b745222544238f",
   "lastOpenFiles": [
-    "Tools/AI Tools.md",
+    "Untitled.canvas",
     "Business/Prospect cold calling.md",
+    "Untitled Kanban.md",
+    "Tools/AI Tools.md",
     "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md",
     "Tools",
     "Study Notes/Video notes/8 Core Business Concepts You Need To Know (10min MBA).md",
@@ -222,8 +215,6 @@
     "Study Notes/Waitlist",
     "Business/Books list.md",
     "[Hostinger.md",
-    "www.hostinger.com.md",
-    "hostinger.com.md",
     "Tasks",
     "Websites to design",
     "Assets/Pasted image 20240822115505.png",
@@ -232,7 +223,6 @@
     "Study Notes/Books notes",
     "Study Notes/Video notes",
     "Assets",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

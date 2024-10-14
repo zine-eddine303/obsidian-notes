@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"84d3ef5dca805a00","x":-180,"y":-360,"width":250,"height":130,"type":"text","text":"bonjour ali harbi le fondateur de AHC Consulting?"},
+		{"id":"3b57832757e31787","x":-473,"y":-138,"width":250,"height":60,"type":"text","text":"comment cava?"},
+		{"id":"aba613f62bd8434b","type":"text","text":"Ah je mexcuse, bonne journée","x":100,"y":-138,"width":250,"height":60},
+		{"id":"8dfb72d8746e07f7","type":"text","text":"comment cava?","x":-473,"y":20,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"057579d44aa6f0c7","fromNode":"84d3ef5dca805a00","fromSide":"bottom","toNode":"3b57832757e31787","toSide":"top","label":"Oui"},
+		{"id":"fec54cb6d7e4deb2","fromNode":"84d3ef5dca805a00","fromSide":"bottom","toNode":"aba613f62bd8434b","toSide":"top","label":"Non"}
+	]
+}
