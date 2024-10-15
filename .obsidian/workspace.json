@@ -8,46 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5aecbfcfd4e90874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Websites to design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "56b745222544238f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts/Personal.md",
+                "file": "Study Notes/Books notes/Digital Marketing for Dummies.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a21c93d4afede459",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -269,
-                  "y": -20,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/Personal.md",
+                "file": "Study Notes/Books notes/Digital Marketing for Dummies.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thoughts/Personal.md",
+                "file": "Study Notes/Books notes/Digital Marketing for Dummies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thoughts/Personal.md"
+                "file": "Study Notes/Books notes/Digital Marketing for Dummies.md"
               }
             }
           }
@@ -177,6 +149,10 @@
   },
   "active": "56b745222544238f",
   "lastOpenFiles": [
+    "Business/Books list.md",
+    "Study Notes/Books notes/Digital Marketing for Dummies.md",
+    "Study Notes/Books notes/Business Model Generation.md",
+    "Thoughts/Personal.md",
     "Thoughts/Business related.md",
     "Tasks/Website business related.md",
     "Tasks/Websites to design.md",
@@ -192,7 +168,6 @@
     "Productivity/Productivity.md",
     "Inspiration/Websites.md",
     "Inspiration/Made with Bricks.md",
-    "Business/Books list.md",
     "Business/Competitors.md",
     "Business/Inspiration.md",
     "Business/Prospect cold calling.md",
@@ -202,9 +177,6 @@
     "Tools",
     "Study Notes/Video notes/8 Core Business Concepts You Need To Know (10min MBA).md",
     "Study Notes/Video notes/Essential Business Concepts for Case Interviews.md",
-    "Study Notes/Video notes/Generalists in this information era.md",
-    "Study Notes/Video notes/The future of work.md",
-    "Thoughts/Personal.md",
     "Tasks/Websites on design",
     "Assets/Pasted image 20240825224414.png",
     "Assets/Pasted image 20240825224143.png",
