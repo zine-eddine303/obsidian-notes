@@ -22,10 +22,10 @@ Not being narcissitic but ==bro I am smart==, I get things quickly and make assu
 
 ---
 plan to divide my time:
+### if I don't have a website to deliver:
 6.30: wake up, pray, breakfast
 7.00: work on a new website
 9.00: make script and pitch to a prospect if there's one, or work on portfolio
-11.00: learn about marketing and selling
+11.00: learn about marketing, selling and cold calling 
 12.30: lunch and rest
-13.30: 
-
+13.30: find prospects
