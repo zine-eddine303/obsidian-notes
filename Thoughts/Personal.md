@@ -19,3 +19,13 @@ lets say i have 6h a day of productivity:
 
 ---
 Not being narcissitic but ==bro I am smart==, I get things quickly and make assumptions that almost turn out to be true. Don't ask me why, but I have high potential, I just have to work it out and use it.
+
+---
+plan to divide my time:
+6.30: wake up, pray, breakfast
+7.00: work on a new website
+9.00: make script and pitch to a prospect if there's one, or work on portfolio
+11.00: learn about marketing and selling
+12.30: lunch and rest
+13.30: 
+

@@ -39,3 +39,6 @@ if we try to sell a website to a dentist that can't scale, he wont be interested
 
 ---
 We gotta find scalable businesses, that will need a website and are not greedy
+==UPDATE: I found consulting businesses, their are scalable, they need websites, not greedy (they make a lot of money I guess), and the most important; you can talk to the owner directly by calling them (not like other businesses where you will be talking to staff)==
+
+---
