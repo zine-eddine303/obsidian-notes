@@ -4,10 +4,10 @@
 - daccord merci pour votre temp
 - alors je suis zine eddine un designer web et developeur web
 - premierement 3ndi une question: est ce que ahc consulting est toujours active? 
-- cheft votre agence de consulting enligne et j'ai remarqué que votre site web ne fonctionne plus, alors j'ai crée un autre pour votre business.
-- Si vous voulez vous pouvez jeuter un oeil sur ce site, on peut faire une rénion rapide win n9dr nwerilek le site w wech y9dr yzidlek comme valeur dans votre travail
-- Comme vous avez deja eu un site web dans le passé, vous conaisser deja les avantages d'avoir un site web
-- Un site web professionel peut aider a construire une relation solide avec vos prospects et aussi rah tkoun different 3la les concurents taw3ek, par ce que rah ykoun fih les avis ta3 vos clients, les differenct services que votre agence offre, t9dr tani t7t fih des articles wla des idées taw3k, comme un blog. en plus vos clients
+- d'accord par ce que cheft votre agence de consulting enligne et j'ai remarqué que votre site web ne fonctionne plus, alors 9olt balek lagence n'est plus active. j'ai crée un autre pour votre business.
+- Comme kan 3ndk deja un site web, vous conaisser les avantages d'avoir un site web professionel
+- il peut t'aider a construire une relation solide avec vos prospects et aussi rah tkoun different 3la les concurents taw3ek, par ce que le site ta3k rah ykoun fih les avis ta3 vos clients, les differenct services que votre agence offre, t9dr tani t7t fih des articles wla des idées taw3k, comme un blog, et bien sur vos prospects ra7 y9ro yreserviw un rendez vous m3ak, soit par un formulaire de contact li ra7 y3awnek bech twejed rohek avant entamer une consultation ou bien directement par telephone.
+- Si vous voulez vous pouvez jeuter un oeil sur ce site, on peut faire une rénion rapide win n9dr nwerilek le site w wech y9dr yzidlek comme valeur dans votre travail. w ida 3jbek vous pouvez le garder
 # Slim Consulting
 - bonjour slim Consulting cest ca? comment cava?
 - est ce que 3ndek 4 minutes pour discuter une oppurtunité de travail?
@@ -25,5 +25,9 @@
 
 
 --- 
-hosting Pricing: 
-- 4 years: 35000da
+hosting Pricing:
+
+| Storage | 100GB   |
+| ------- | ------- |
+| 4 years | 143.52$ |
+|         |         |
