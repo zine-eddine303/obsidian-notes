@@ -3,7 +3,7 @@
 - est ce que 3ndek 4 minutes pour discuter une oppurtunité de travail?
 - daccord merci pour votre temp
 - alors je suis zine eddine un designer web et developeur web
-- premierement 3ndi une question: est ce que ahc consulting est toujours active? 
+- premierement 3ndi une question: est ce que ahc consulting est toujours active?
 - d'accord par ce que cheft votre agence de consulting enligne et j'ai remarqué que votre site web ne fonctionne plus, alors 9olt balek lagence n'est plus active. j'ai crée un autre pour votre business.
 - Comme kan 3ndk deja un site web, vous conaisser les avantages d'avoir un site web professionel
 - il peut t'aider a construire une relation solide avec vos prospects et aussi rah tkoun different 3la les concurents taw3ek, par ce que le site ta3k rah ykoun fih les avis ta3 vos clients, les differenct services que votre agence offre, t9dr tani t7t fih des articles wla des idées taw3k, comme un blog, et bien sur vos prospects ra7 y9ro yreserviw un rendez vous m3ak, soit par un formulaire de contact li ra7 y3awnek bech twejed rohek avant entamer une consultation ou bien directement par telephone.
@@ -27,7 +27,8 @@
 --- 
 hosting Pricing:
 
-| Storage | 100GB   |
-| ------- | ------- |
-| 4 years | 143.52$ |
-|         |         |
+| Storage            | 100GB ($)       | 100GB (da)                            |
+| ------------------ | --------------- | ------------------------------------- |
+| 4 years + 3 months | 195$ (46$/year) | 45000da (11000da/year or 900da/month) |
+| 2 years            | 89$             |                                       |
+| 1 year             | 35.88$          |                                       |
