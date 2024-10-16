@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/Books notes/Digital Marketing for Dummies.md",
+                "file": "Thoughts/Personal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Notes/Books notes/Digital Marketing for Dummies.md",
+                "file": "Thoughts/Personal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/Books notes/Digital Marketing for Dummies.md",
+                "file": "Thoughts/Personal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/Books notes/Digital Marketing for Dummies.md"
+                "file": "Thoughts/Personal.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "56b745222544238f",
   "lastOpenFiles": [
-    "Study Notes/Books notes/Business Model Generation.md",
     "Study Notes/Books notes/Digital Marketing for Dummies.md",
+    "Study Notes/Books notes/Business Model Generation.md",
     "Business/Books list.md",
     "Thoughts/Personal.md",
     "Thoughts/Business related.md",
