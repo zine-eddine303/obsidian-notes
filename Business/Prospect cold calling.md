@@ -17,9 +17,7 @@
 - Si vous voulez vous pouvez jeuter un oeil sur ce site, n9dro ndiro une rénion rapide win n9dr nwerilek le site w wech y9dr yzidlek comme valeur dans votre travail
 - w madam rakom diro le marketing digitale comme service, c'est a dire que rakom deja t3rfo les avantages d'avoir un site web professionel
 - Un site web professionel peut aider a construire une relation solide avec vos prospects et aussi rah tkoun different 3la les concurents taw3ek, par ce que rah ykoun fih les avis ta3 vos clients, les differenct services que votre agence offre, t9dr tani t7t fih des articles wla des idées taw3k, comme un blog. en plus vos clients
-
-Si vous êtes interessé a voir le site que j'ai crée pour vous, veuillez me joindre ici: 
-[Meet - usz-mvuv-wzf (google.com)](https://meet.google.com/usz-mvuv-wzf)
+- Si vous êtes interessé a voir le site que j'ai crée pour vous, veuillez me joindre ici: [Meet - usz-mvuv-wzf (google.com)](https://meet.google.com/usz-mvuv-wzf)
 
 
 

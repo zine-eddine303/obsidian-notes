@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts/Personal.md",
+                "file": "Business/Prospect cold calling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thoughts/Personal.md",
+                "file": "Business/Prospect cold calling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thoughts/Personal.md",
+                "file": "Business/Prospect cold calling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thoughts/Personal.md"
+                "file": "Business/Prospect cold calling.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "56b745222544238f",
   "lastOpenFiles": [
+    "Thoughts/Personal.md",
     "Study Notes/Books notes/Digital Marketing for Dummies.md",
     "Study Notes/Books notes/Business Model Generation.md",
     "Business/Books list.md",
-    "Thoughts/Personal.md",
     "Thoughts/Business related.md",
     "Tasks/Website business related.md",
     "Tasks/Websites to design.md",
