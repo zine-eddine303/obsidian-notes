@@ -1,3 +1,0 @@
-How to make a cahier des charges
-How to study the market
-Writing
