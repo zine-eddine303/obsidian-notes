@@ -1,3 +1,4 @@
+Source: https://www.youtube.com/watch?v=xGtKdsVxV8A&t=1111s
 # Writing  
 ## Don'ts  
 1. Don't just read sample essays and expect to get better  
@@ -11,3 +12,7 @@
 5. Analyze grammatical structures and tenses used in the samples
 6. Broaden the vocabulary by reading the questions and the sample essays and identifying unknown vocabulary and add them to your dictionary
 7. Once you reinforce your weaknesses (by doing the tasks above), write your own essay and compare it to the sample. compare the structure,  and not the answer  
+
+## How to write introductions
+
+
