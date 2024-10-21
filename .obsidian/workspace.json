@@ -11,21 +11,14 @@
             "id": "56b745222544238f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tasks/Design system template.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    true
-                  ]
-                }
+                "file": "Study Notes/IELTS/Tips.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Design system template"
+              "icon": "lucide-file",
+              "title": "Tips"
             }
           },
           {
@@ -98,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b23dd3dcc62647d1",
@@ -114,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Design system template.md",
+                "file": "Study Notes/IELTS/Tips.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Design system template"
+              "title": "Backlinks for Tips"
             }
           },
           {
@@ -133,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Design system template.md",
+                "file": "Study Notes/IELTS/Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Design system template"
+              "title": "Outgoing links from Tips"
             }
           },
           {
@@ -160,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Design system template.md"
+                "file": "Study Notes/IELTS/Tips.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Design system template"
+              "title": "Outline of Tips"
             }
           }
         ],
@@ -171,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,13 +181,15 @@
   },
   "active": "56b745222544238f",
   "lastOpenFiles": [
-    "Stuff I need to learn/Technical.md",
+    "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md",
+    "Study Notes/IELTS/Tips.md",
     "Tasks/Design system template.md",
+    "Study Notes/IELTS",
+    "Stuff I need to learn/Technical.md",
     "Tasks/Untitled.md",
     "Stuff I need to learn/Non-Technical.md",
     "Learning resources/Bricks Builder.md",
     "Business/Prospect cold calling.md",
-    "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md",
     "Study Notes/Video notes/The future of work.md",
     "Study Notes/Video notes/Generalists in this information era.md",
     "Study Notes/Video notes/Essential Business Concepts for Case Interviews.md",
@@ -211,7 +208,6 @@
     "Learning resources/Animation.md",
     "Learning resources/Stealing.md",
     "Productivity/Productivity.md",
-    "Inspiration/Websites.md",
     "Untitled.canvas",
     "Tools",
     "Tasks/Websites on design",
@@ -232,7 +228,6 @@
     "Thoughts",
     "Study Notes/Books notes",
     "Study Notes/Video notes",
-    "Assets",
     "Untitled 1.canvas"
   ]
 }
