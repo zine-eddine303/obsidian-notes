@@ -4,13 +4,13 @@ By analyzing the essays of the question:
 
 	Some people think that parents should teach their children how to be good members of society. Others, however, believe that school is the best place to learn this. Discuss both views and give your own opinion. 
 	
-[sample writing essays.docx](E:\ELT\IELTS\sample-writing-essays.docx)
-
+Source: [sample writing essays.docx](E:\ELT\IELTS\sample-writing-essays.docx)
+My essays: [[How to be good members of society.]]
 	
  we can define the following structure:
 ### Intro
 1. Rephrase the topic/question (don't repeat the question literally, rephrase it)
-2. Express opinion in this format: "although (rejected opinion) is (features of the rejected opinion or 'could be beneficial'), I believe that (favored opinion) is (feature favored opinion)"
+2. Express opinion in this format: "although (rejected opinion) is (features of the rejected opinion or 'could be beneficial'), I believe that (favored opinion) is (favored opinion feature)"
 ### Body
 #### Paragraph 1 
 1. Explain why the rejected opinion is defended by some people  
@@ -41,6 +41,7 @@ By analyzing the essays of the question:
 - **For this reason**
 - **For instance** : to give an example
 - **This essay believes that**
+- **is better suited for to fulfill this (role)**
 # Vocabulary
 - Upbringing = raising = tarbiya
 - Offspring = children 
