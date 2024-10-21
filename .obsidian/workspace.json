@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Tips.md",
+                "file": "Study Notes/IELTS/Essays analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tips"
+              "title": "Essays analysis"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study Notes/IELTS/Tips.md",
+                "file": "Study Notes/IELTS/Essays analysis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tips"
+              "title": "Backlinks for Essays analysis"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/IELTS/Tips.md",
+                "file": "Study Notes/IELTS/Essays analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tips"
+              "title": "Outgoing links from Essays analysis"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/Tips.md"
+                "file": "Study Notes/IELTS/Essays analysis.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tips"
+              "title": "Outline of Essays analysis"
             }
           }
         ],
@@ -181,8 +181,9 @@
   },
   "active": "56b745222544238f",
   "lastOpenFiles": [
+    "Study Notes/IELTS/Tips from video.md",
+    "Study Notes/IELTS/Essays analysis.md",
     "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md",
-    "Study Notes/IELTS/Tips.md",
     "Tasks/Design system template.md",
     "Study Notes/IELTS",
     "Stuff I need to learn/Technical.md",
@@ -207,7 +208,6 @@
     "Tasks/Websites on design/Dental clinic.md",
     "Learning resources/Animation.md",
     "Learning resources/Stealing.md",
-    "Productivity/Productivity.md",
     "Untitled.canvas",
     "Tools",
     "Tasks/Websites on design",
