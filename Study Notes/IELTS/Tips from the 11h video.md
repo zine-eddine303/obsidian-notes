@@ -65,3 +65,5 @@ Is it a positive or negative developement? *Negative because it lays of a lot of
    State the same ideas using different words, you can do this using synonims and/or change the structure of the sentence
    
 2. **Briefly answer answer each question**: Use the 2 ideas that you generated in the demo and turn them into a sentence, like this for example: *This is due to advancements in technology and it should be seen as a positive developement because it reduces a person's workload*
+3. **Put it all together**: example: *Robotics increasingly play a role both in the home and the workplace. This is due to advancements in technology and it should be seen as a positive developement because it reduces a person's workload* 
+
