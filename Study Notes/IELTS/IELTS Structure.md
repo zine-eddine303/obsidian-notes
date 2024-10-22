@@ -17,8 +17,8 @@ In the IELTS (International English Language Testing System) exam, there are fou
 
 - **Duration**: 60 minutes.
 - This section includes two tasks (commonly referred to as **Task 1** and **Task 2**):
-    - **Task 1:** You’ll describe visual information (graphs, charts, maps, diagrams).
-    - **Task 2**: This is an essay. This is the longer of the two tasks (at least 250 words), and you should spend around 40 minutes on it. You are asked to respond to:
+    - **Task 1:** You’ll describe visual information (graphs, charts, maps, diagrams). you should spend around **20 minutes** on it
+    - **Task 2**: This is an essay. This is the longer of the two tasks (at least 250 words), and you should spend around **40 minutes** on it. You are asked to respond to:
 	    - Opinion : Do you aggree or disagree? Do you think x?
 	    - Discussion: Discuss both views and give your opinion
 	    - Causes/ problems and solutions: what are the causes of x? What are some possible solutions?

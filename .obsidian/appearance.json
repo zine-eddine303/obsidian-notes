@@ -1,4 +1,6 @@
 {
   "accentColor": "#49ab55",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "textFontFamily": "Helvetica Neue",
+  "interfaceFontFamily": "Helvetica Neue"
 }

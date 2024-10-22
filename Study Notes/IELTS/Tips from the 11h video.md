@@ -25,21 +25,35 @@ Example:
 	Why do you think this is happening?
 	Is it a positive or negative developement?
 
-## How to analyse a question?
-1. Find the topic: like here its technology
-2. Find the keywords: here its: robots working for humans.
-3. Understand the instruction: what does the examiner want you to do? like here he wants us to give our opinion
-## How to decide the answer?
-1. You have to think about your answer before you start writing 
-2. ==Writing is a reflection of your thinking==, if your thinking is complicated, your answer is going to be complicated
-3. Keep it simple, the simplest most straightforward answer is the best answer 
-4. Write about the things that you can write about (the things that you have a bit of knowledge on them)
-5. If you are asked something like this example: Is it a positive or negative developement?
-
-### How to write introductions?
-The structure of the essay of a double question is the following:
-1. Introcution: introduce the topic: Nowadays more task at home and work are being performed by robots.
+### Double question essay structure
+1. Introduction: introduce the topic: Nowadays more task at home and work are being performed by robots.
 2. Main body 1: answer 1st question: I think it is happening because
 3. Main body 2: answer 2st question: I believe that is is a positive/negative
 4. Conclusion: summarize the above
+### How to analyse a question?
+1. Find the topic: like here its technology
+2. Find the keywords: here its: robots working for humans.
+3. Understand the instruction: what does the examiner want you to do? like here he wants us to give our opinion
+### How to decide the answer?
+1. You have to think about your answer before you start writing 
+2. ==Writing is a reflection of your thinking==, if your thinking is complicated, your answer is going to be complicated
+3. ==Keep it simple==, the simplest most straightforward answer is the best answer 
+4. Write about the things that you can write about (the things that you have a bit of knowledge on them)
+5. If you are asked something like this example: "Is it a positive or negative developement?", ==chose anyone of them== and go with them, pick the easiest one.
+### How to generate ideas?
+1. You already primed your brain to think of ideas in a logical way that will lead to clear ideas
+2.  The most obvious ideas are the best ones
+3. There's no extra mark for 'amazing' ideas, what matters is: 
+	-  Are your ideas relevant to the question (which reflects the degree of understanding of the question)
+	-  How well do you develop the ideas
+	-  Is your language correct...
+4. ==Ask yourself direct, specific questions about the question==, this will generate specific and relevant ideas in a short amount of time
+5. ==The first ideas you think of are nomally the best==
+Example of direct questions that you should ask: Is it a positive or negative developement? => why is it a positive developement? (assuming that you chose to say its positive)
 
+### Demo 
+Nowadays more tasks at home and work are being performed by robots.
+Why do you think this is happening?
+Is it a positive or negative developement?
+
+### How to write introductions?

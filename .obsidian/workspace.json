@@ -155,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/IELTS Structure.md"
+                "file": "Study Notes/IELTS/Tips from the 11h video.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of IELTS Structure"
+              "title": "Outline of Tips from the 11h video"
             }
           }
         ],
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
