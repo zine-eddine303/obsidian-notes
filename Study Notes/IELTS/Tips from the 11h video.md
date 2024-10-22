@@ -16,7 +16,6 @@
 5. Analyze grammatical structures and tenses used in the samples
 6. Broaden the vocabulary by reading the questions and the sample essays and identifying unknown vocabulary and add them to your dictionary
 7. Once you reinforce your weaknesses (by doing the tasks above), write your own essay and compare it to the sample. compare the structure,  and not the answer  
-
 ## How to write a task 2 essay
 We are going to treat **double questions** only, a lot of the things that we are going to do are doable for tall the other types of questions.
 Example: 
@@ -24,7 +23,6 @@ Example:
 	Nowadays more task at home and work are being performed by robots.
 	Why do you think this is happening?
 	Is it a positive or negative developement?
-
 ### Double question essay structure
 1. Introduction: introduce the topic: Nowadays more task at home and work are being performed by robots.
 2. Main body 1: answer 1st question: I think it is happening because
@@ -50,10 +48,20 @@ Example:
 4. ==Ask yourself direct, specific questions about the question==, this will generate specific and relevant ideas in a short amount of time
 5. ==The first ideas you think of are nomally the best==
 Example of direct questions that you should ask: Is it a positive or negative developement? => why is it a positive developement? (assuming that you chose to say its positive)
-
 ### Demo 
-Nowadays more tasks at home and work are being performed by robots.
-Why do you think this is happening?
-Is it a positive or negative developement?
-
-### How to write introductions?
+Nowadays more ==tasks== at ==home and work== are being performed by ==robots==.
+Why do you think this is happening? *Because of the technological advancement*
+Is it a positive or negative developement? *Negative because it lays of a lot of people from their jobs / Positive because it reduces the amount of work that we have to do.*
+### What is an introduction?
+- Tells the reader what to expect. ALWAYS THINK OF THE READER
+- Helps the reader follow the rest of your essay
+- Helps you get your thoughts in order. Like a mini plan that wil help you write a better essay
+### What IS NOT an introduction?
+- IT IS NOT a chance to show the examiner how amazing your language is, if you make a vocalbulary or gramatical mistake, it's a bad start and the examiner will judge you badly. ==Keep it as simple as possible.==
+- IT IS NOT A CHANCE to hook the reader 
+### Structure of DOUBLE QUESTION introduction
+*This is only applicable to this type of task 2 questions*
+1. **Paraphrase the question statement (this is th question statement => "Nowadays more task at home and work are being performed by robots")**: 
+   State the same ideas using different words, you can do this using synonims and/or change the structure of the sentence
+   
+2. **Briefly answer answer each question**: Use the 2 ideas that you generated in the demo and turn them into a sentence, like this for example: *This is due to advancements in technology and it should be seen as a positive developement because it reduces a person's workload*

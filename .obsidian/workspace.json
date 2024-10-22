@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Study Notes/IELTS/Tips from the 11h video.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.51103591918945,
-    "collapsed": true
+    "width": 225.51103591918945
   },
   "right": {
     "id": "b23dd3dcc62647d1",
@@ -166,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
