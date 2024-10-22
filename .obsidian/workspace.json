@@ -35,7 +35,8 @@
               "title": "Tips from the 11h video"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +180,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5f00b3f02eda3039",
+  "active": "b15aee1afe221d56",
   "lastOpenFiles": [
-    "Study Notes/IELTS/Tips from the 11h video.md",
     "Study Notes/IELTS/IELTS Structure.md",
+    "Study Notes/IELTS/Tips from the 11h video.md",
     "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
     "Study Notes/IELTS/Writing/Task 2",
     "Study Notes/IELTS/Writing",
