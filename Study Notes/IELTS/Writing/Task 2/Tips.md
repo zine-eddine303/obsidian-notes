@@ -106,7 +106,7 @@ _"Nowadays, more tasks at home and work are being performed by robots."_
 
 ---
 
-## Writing the Body Paragraphs
+## Writing the Main Body Paragraphs
 
 ### What is a Body Paragraph?
 
@@ -115,8 +115,8 @@ _"Nowadays, more tasks at home and work are being performed by robots."_
 
 ### Structure of a Body Paragraph (for any question type)
 
-1. **Topic sentence**: 
-	- Introduce the main point of the paragraph. (answer the question that the paragraph is answering)
+1. **Topic sentence (main idea)**: 
+	- Introduce the main point of the paragraph. (answer the question that  the paragraph is answering)
 	- Should be short and simple
 	- Avoid repeating phrases and words multiple times, ise paraphrasing instead
 2. **Explanation**: 

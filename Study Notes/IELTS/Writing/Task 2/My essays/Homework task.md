@@ -1,8 +1,9 @@
+# Write an introduction
 ![[Pasted image 20241023172328.png]]
 
 In the last few years, we see more and more vehicles driven by artificial intelligence. This is a result of the technological advancements that's happening in all fields and I believe that this is a good thing, since it makes our lives easier and safer.
 
-# Evaluation
+## Evaluation
 - [x] Topic (technology)
 - [x] Simple ideas
 - [x] Used the ideas that I can talk about
@@ -18,4 +19,9 @@ In the last few years, we see more and more vehicles driven by artificial intell
 - [ ] Specfic and clear (not vague) ideas
 
 ## Corrected version
-==In these last years,== we see more and more vehicles driven by artificial intelligence. ==This is an attempt to solve traffic problems like accidents== and I believe that this is a good thing, ==because== it makes our lives safer and easier.
+
+==In these last years,== we see more and more vehicles driven by artificial intelligence. ==This is an attempt to solve traffic problems== and I believe that this is a good thing, ==because== it makes our lives safer and easier.
+
+# Write a main body
+
+The main goal of this new technology is to regulate traffic 
