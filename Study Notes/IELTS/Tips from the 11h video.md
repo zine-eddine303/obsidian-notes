@@ -47,7 +47,7 @@ Example:
 	-  Is your language correct...
 4. ==Ask yourself direct, specific questions about the question==, this will generate specific and relevant ideas in a short amount of time
 5. ==The first ideas you think of are nomally the best==
-Example of direct questions that you should ask: Is it a positive or negative developement? => why is it a positive developement? (assuming that you chose to say its positive)
+Example of direct questions that you should ask: Is it a positive developement? => why is it a positive developement?
 ### Demo 
 Nowadays more ==tasks== at ==home and work== are being performed by ==robots==.
 Why do you think this is happening? *Because of the technological advancement*
@@ -63,7 +63,6 @@ Is it a positive or negative developement? *Negative because it lays of a lot of
 *This is only applicable to this type of task 2 questions*
 1. **Paraphrase the question statement (this is th question statement => "Nowadays more task at home and work are being performed by robots")**: 
    State the same ideas using different words, you can do this using synonims and/or change the structure of the sentence
-   
 2. **Briefly answer answer each question**: Use the 2 ideas that you generated in the demo and turn them into a sentence, like this for example: *This is due to advancements in technology and it should be seen as a positive developement because it reduces a person's workload*
 3. **Put it all together**: example: *Robotics increasingly play a role both in the home and the workplace. This is due to advancements in technology and it should be seen as a positive developement because it reduces a person's workload* 
 
