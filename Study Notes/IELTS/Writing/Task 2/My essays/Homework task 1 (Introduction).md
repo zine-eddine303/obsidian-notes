@@ -12,6 +12,7 @@ In the last few years, we see more and more vehicles driven by artificial intell
 - [x] No complex words
 - [x] Structure respected
 - [x] Paraphrased effectively
+- [x] No vocabulary errors
 - [ ] No Grammar errors
 
 ## Corrected version
