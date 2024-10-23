@@ -24,4 +24,8 @@ In the last few years, we see more and more vehicles driven by artificial intell
 
 # Write a main body
 
-The main goal of this new technology is to regulate traffic 
+The main goal of this new technology is to solve traffic related problems. Artificial intellignece driven cars use a system that allows them to move more effectively and create an error-free traffic, which helps reduce accidents and traffic jams. For example, Tesla cars can detect anomalies in the road and rapidly makes decisions to avoid crashing, or reduce casualties if crashing is inevitable.
+
+This technology should be viewed as a positive developement, as it increases road safety and allows for a synergic traffic which can't be achieved with traditional manual driving. A study in the 2000s suggested that using innovative road intersections and implementing more advanced traffic light systems isn't the real answer to a better traffic, the best solution to this problem are self driving cars.
+
+
