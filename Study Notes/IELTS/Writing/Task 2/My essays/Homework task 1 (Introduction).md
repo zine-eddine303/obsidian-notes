@@ -14,7 +14,11 @@ In the last few years, we see more and more vehicles driven by artificial intell
 - [x] Paraphrased effectively
 - [x] No vocabulary errors
 - [ ] No Grammar errors
+- [x] No more than 2 ideas
+- [ ] Specfic and clear (not vague) ideas
 
 ## Corrected version
-==These last years,== we see more and more vehicles driven by artificial intelligence. This is a result of the technological advancements that ==are== happening in all fields==,== and I believe that this is a good thing, ==as== it makes our lives easier and safer.
+==These last years,== we see more and more vehicles driven by artificial intelligence. This is a proposed solution to the problems that are ==,== and I believe that this is a good thing, ==as== it makes our lives safer and easier.
+
+
 

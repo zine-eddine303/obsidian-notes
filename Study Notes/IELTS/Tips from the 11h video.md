@@ -37,7 +37,7 @@ Example:
 2. ==Writing is a reflection of your thinking==, if your thinking is complicated, your answer is going to be complicated
 3. ==Keep it simple==, the simplest most straightforward answer is the best answer 
 4. Write about the things that you can write about (the things that you have a bit of knowledge on them)
-5. If you are asked something like this example: "Is it a positive or negative developement?", ==chose anyone of them== and go with them, pick the easiest one.
+6. If you are asked something like this example: "Is it a positive or negative developement?", ==chose anyone of them== and go with them, pick the easiest one.
 ### How to generate ideas?
 1. You already primed your brain to think of ideas in a logical way that will lead to clear ideas
 2.  The most obvious ideas are the best ones
@@ -63,6 +63,7 @@ Is it a positive or negative developement? *Negative because it lays of a lot of
 *This is only applicable to this type of task 2 questions*
 1. **Paraphrase the question statement (this is th question statement => "Nowadays more task at home and work are being performed by robots")**: 
    State the same ideas using different words, you can do this using synonims and/or change the structure of the sentence
-2. **Briefly answer answer each question**: Use the 2 ideas that you generated in the demo and turn them into a sentence, like this for example: *This is due to advancements in technology and it should be seen as a positive developement because it reduces a person's workload*
+2. **Briefly answer answer each question**: Use the **2 ideas** that you generated in the demo and turn them into a sentence, like this for example: *This is due to advancements in technology and it should be seen as a positive developement because it reduces a person's workload*
 3. **Put it all together**: example: *Robotics increasingly play a role both in the home and the workplace. This is due to advancements in technology and it should be seen as a positive developement because it reduces a person's workload* 
+4. ==**Don't list many ideas:**== the ideas that you mention in the intoductions must match with the ideas that are in the body, you cant list 3 or 4 ideas in the intorduction and talk about only two of them in the body, preferably pick only 1 idea per answer. 
 
