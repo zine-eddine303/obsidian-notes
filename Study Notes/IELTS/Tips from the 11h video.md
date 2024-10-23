@@ -3,67 +3,129 @@
 
 ---
 # Writing  
-## Task 2 [[IELTS Structure#3. **Writing**]]
-### Don'ts  
-1. Don't just read sample essays and expect to get better  
-2. Don't read fake sample essays  
-3. Don't try to evaluate the sample essays and compare yourself with them, you dont have an examiner's level to do so  
-### Do's  
-1. Get a sample essay from [sample writing essays.docx](E:\ELT\IELTS\sample-writing-essays.docx)  and cover the essay and only read the question, and think in your head "what is the simplest idea that answers this question ? If i asked a 100 person this question, which answer would be the most popular?" And write them down, then look at the ideas that the essay proposes and compare them with yours. If they are similar it means that you're in the right path. if their different, it doesn't mean that you're wrong, maybe your ideas are also relevant, so check if they are actually relevant or not, if they are not it means that you haven't understood the question  
-2. After seeing the ideas proposed in the sample essay, pick one and develop the idea into a body, and then compare it with the sample, and do the same evaluation as before. ==Do this to every idea, and every essay on the same question==.  
-3. Study the structure of the essays. For example if we have a question like this: some people believe that (idea 1) while others think that (idea 2), discuss both views and give your opinion. 
-4. Look for "linking words" or "cohesive devices" in the essays, like: for example, in other words, for instance, in conclusion... Dont over use them, only use a few (like 4 ones in the essay). And learn why the students used a specific linking word in that specific case, learn the correct use of each word
-5. Analyze grammatical structures and tenses used in the samples
-6. Broaden the vocabulary by reading the questions and the sample essays and identifying unknown vocabulary and add them to your dictionary
-7. Once you reinforce your weaknesses (by doing the tasks above), write your own essay and compare it to the sample. compare the structure,  and not the answer  
-## How to write a task 2 essay
-We are going to treat **double questions** only, a lot of the things that we are going to do are doable for tall the other types of questions.
-Example: 
+## Task 2: Do's and Don'ts
 
-	Nowadays more task at home and work are being performed by robots.
-	Why do you think this is happening?
-	Is it a positive or negative developement?
-### Double question essay structure
-1. Introduction: introduce the topic: Nowadays more task at home and work are being performed by robots.
-2. Main body 1: answer 1st question: I think it is happening because
-3. Main body 2: answer 2st question: I believe that is is a positive/negative
-4. Conclusion: summarize the above
-### How to analyse a question?
-1. Find the topic: like here its technology
-2. Find the keywords: here its: robots working for humans.
-3. Understand the instruction: what does the examiner want you to do? like here he wants us to give our opinion
-### How to decide the answer?
-1. You have to think about your answer before you start writing 
-2. ==Writing is a reflection of your thinking==, if your thinking is complicated, your answer is going to be complicated
-3. ==Keep it simple==, the simplest most straightforward answer is the best answer 
-4. Write about the things that you can write about (the things that you have a bit of knowledge on them)
-6. If you are asked something like this example: "Is it a positive or negative developement?", ==chose anyone of them== and go with them, pick the easiest one.
-### How to generate ideas?
-1. You already primed your brain to think of ideas in a logical way that will lead to clear ideas
-2.  The most obvious ideas are the best ones
-3. There's no extra mark for 'amazing' ideas, what matters is: 
-	-  Are your ideas relevant to the question (which reflects the degree of understanding of the question)
-	-  How well do you develop the ideas
-	-  Is your language correct...
-4. ==Ask yourself direct, specific questions about the question==, this will generate specific and relevant ideas in a short amount of time
-5. ==The first ideas you think of are nomally the best==
-Example of direct questions that you should ask: Is it a positive developement? => why is it a positive developement?
-### Demo 
-Nowadays more ==tasks== at ==home and work== are being performed by ==robots==.
-Why do you think this is happening? *Because of the technological advancement*
-Is it a positive or negative developement? *Negative because it lays of a lot of people from their jobs / Positive because it reduces the amount of work that we have to do.*
-### What is an introduction?
-- Tells the reader what to expect. ALWAYS THINK OF THE READER
-- Helps the reader follow the rest of your essay
-- Helps you get your thoughts in order. Like a mini plan that wil help you write a better essay
-### What IS NOT an introduction?
-- IT IS NOT a chance to show the examiner how amazing your language is, if you make a vocalbulary or gramatical mistake, it's a bad start and the examiner will judge you badly. ==Keep it as simple as possible.==
-- IT IS NOT A CHANCE to hook the reader 
-### Structure of DOUBLE QUESTION introduction
-*This is only applicable to this type of task 2 questions*
-1. **Paraphrase the question statement (this is th question statement => "Nowadays more task at home and work are being performed by robots")**: 
-   State the same ideas using different words, you can do this using synonims and/or change the structure of the sentence
-2. **Briefly answer answer each question**: Use the **2 ideas** that you generated in the demo and turn them into a sentence, like this for example: *This is due to advancements in technology and it should be seen as a positive developement because it reduces a person's workload*
-3. **Put it all together**: example: *Robotics increasingly play a role both in the home and the workplace. This is due to advancements in technology and it should be seen as a positive developement because it reduces a person's workload* 
-4. ==**Don't list many ideas:**== the ideas that you mention in the intoductions must match with the ideas that are in the body, you cant list 3 or 4 ideas in the intorduction and talk about only two of them in the body, preferably pick only 1 idea per answer. 
+### Don'ts
 
+1. **Don't just read sample essays** expecting to improve without practice.
+2. **Don't read fake sample essays** — always use reliable sources.
+3. **Don't try to evaluate sample essays** or compare yourself to them, as you're not at an examiner's level to make that judgment.
+
+### Do's
+
+1. **Get a sample essay** from [sample writing essays.docx](E:\ELT\IELTS\sample-writing-essays.docx). Cover the essay, read the question, and think:
+    - "What is the simplest idea that answers this question?"
+    - Imagine asking 100 people; what would the most common answer be?
+    - Write your ideas down, then compare them with the essay's ideas. If they’re similar, you're on the right track. If different, check whether your ideas are relevant to the question.
+2. **Develop one idea** from the sample essay into a body paragraph, then compare it with the sample. Evaluate the structure and logic.
+3. **Study the essay structure**:
+    - For example, in a question like: _"Some people believe that (idea 1) while others think (idea 2). Discuss both views and give your opinion."_
+4. **Look for linking words** (cohesive devices) like: _for example, in other words, for instance, in conclusion_.
+    - Use them sparingly (4 per essay is enough).
+    - Understand why they were used in that specific context.
+5. **Analyze grammatical structures and tenses** in the samples.
+6. **Broaden your vocabulary** by identifying new words in the questions and sample essays. Add these to your personal dictionary.
+7. **Reinforce weaknesses** by writing your own essay and comparing its structure (not just the content) to the sample.
+
+---
+
+## How to Write a Task 2 Essay
+
+This guide focuses on **double-question essays**. However, the some principles that we will cover here apply to other types of questions.
+
+### Example Question
+
+_"Nowadays, more tasks at home and work are being performed by robots. Why do you think this is happening? Is it a positive or negative development?"_
+
+### Double-Question Essay Structure
+
+1. **Introduction**: Introduce the topic (_"Nowadays, more tasks at home and work are being performed by robots."_).
+2. **Main Body 1**: Answer the first question (_"I think this is happening because..."_).
+3. **Main Body 2**: Answer the second question (_"I believe this is a positive/negative development because..."_).
+4. **Conclusion**: Summarize your answers.
+
+---
+
+## How to Analyze a Question
+
+1. **Find the topic**: Identify the general subject (e.g., technology).
+2. **Find the keywords**: Pinpoint the focus (e.g., robots working for humans).
+3. **Understand the instructions**: What does the examiner want you to do? For example, here they want you to give your opinion.
+
+### How to Decide Your Answer
+
+1. **Think before you start writing** — your answer reflects your thinking.
+2. **Keep it simple**: The simplest, most straightforward answer is often the best.
+3. **Write about what you know**: Focus on ideas you can expand on with some knowledge.
+4. **Choose one side**: If asked to take a stance (e.g., "positive or negative development"), pick the easier one to support.
+
+---
+
+## How to Generate Ideas
+
+1. **Prime your brain** to think logically and clearly.
+2. **The most obvious ideas** are usually the best ones.
+3. **Focus on relevance**:
+    - Are your ideas directly answering the question?
+    - Can you develop them fully?
+    - Is your language accurate?
+4. **Ask direct, specific questions about the prompt** to generate relevant ideas.
+5. **Your first ideas are often the best**.
+
+#### Example:
+
+_"Nowadays, more tasks at home and work are being performed by robots."_
+
+- **Why is this happening?** Technological advancement.
+- **Is it a positive or negative development?**
+    - Negative: It lays off people from their jobs.
+    - Positive: It reduces the amount of work humans need to do.
+
+---
+
+## Writing an Introduction
+
+### What is an Introduction?
+
+- Introduces the reader to your essay.
+- Helps the reader follow the essay.
+- Serves as a mini-plan for organizing your thoughts.
+
+### What an Introduction is NOT
+
+- **Not a showcase for fancy language**: Keep it simple to avoid mistakes that will lower the examiner's first impression.
+- **Not a hook**: You don’t need to grab attention like in creative writing.
+
+### Structure of a Double-Question Introduction
+
+1. **Paraphrase the question**: State the same ideas using synonyms and/or change the sentence structure.  
+    Example: _"Nowadays, more tasks at home and work are being performed by robots."_ can become _"Robotics increasingly play a role both at home and in the workplace."_
+2. **Briefly answer both questions**:  
+    Example: _"This is due to advancements in technology, and it should be seen as a positive development because it reduces a person’s workload."_
+3. **Put it together**:  
+    Example: _"Robotics increasingly play a role both at home and in the workplace. This is due to advancements in technology, and it should be seen as a positive development because it reduces a person’s workload."_
+4. **Don’t list too many ideas**: The ideas in the introduction must match those in the body paragraphs. Stick to one idea per question.
+
+---
+
+## Writing the Body Paragraphs
+
+### What is a Body Paragraph?
+
+- The most important part of the essay where you develop your main arguments.
+- This is where you prove your point(s).
+
+### Structure of a Body Paragraph (for any question type)
+
+1. **Topic sentence**: 
+	- Introduce the main point of the paragraph.
+	- Should be short and simple
+	- Avoid repeating phrases and words multiple times, ise paraphrasing instead
+2. **Explanation**: 
+	- The most important part of the body
+	- Never assume that the reader knows what your topic sentence means or that know how it answers the question
+	- The reader cant ask you follow up questions, so you must explain everything
+	- Pretend you are explain
+3. **Example**: 
+
+---

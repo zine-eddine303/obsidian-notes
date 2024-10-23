@@ -18,7 +18,4 @@ In the last few years, we see more and more vehicles driven by artificial intell
 - [ ] Specfic and clear (not vague) ideas
 
 ## Corrected version
-==These last years,== we see more and more vehicles driven by artificial intelligence. This is a proposed solution to the problems that are ==,== and I believe that this is a good thing, ==as== it makes our lives safer and easier.
-
-
-
+==In these last years,== we see more and more vehicles driven by artificial intelligence. ==This is an attempt to solve traffic problems like accidents== and I believe that this is a good thing, ==because== it makes our lives safer and easier.

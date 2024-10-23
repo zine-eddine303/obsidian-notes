@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a6465594ae31154f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "30d06cea3376aa2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/My essays/Homework task 1 (Introduction).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Homework task 1 (Introduction)"
-            }
-          }
-        ]
-      },
-      {
         "id": "b27af1d504d718fe",
         "type": "tabs",
         "children": [
@@ -39,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Tips from the 11h video"
+            }
+          },
+          {
+            "id": "f125315f5bfcbd68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Notes/IELTS/Tips from the 11h video 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tips from the 11h video 1"
             }
           }
         ]
@@ -160,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/My essays/Homework task 1 (Introduction).md"
+                "file": "Study Notes/IELTS/Tips from the 11h video.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Homework task 1 (Introduction)"
+              "title": "Outline of Tips from the 11h video"
             }
           }
         ],
@@ -171,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +178,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "30d06cea3376aa2e",
+  "active": "b24797d330a90984",
   "lastOpenFiles": [
+    "Study Notes/IELTS/Tips from the 11h video 1.md",
     "Study Notes/IELTS/Tips from the 11h video.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/Homework task 1 (Introduction).md",
     "Study Notes/IELTS/IELTS Structure.md",
