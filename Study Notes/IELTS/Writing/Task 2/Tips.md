@@ -2,8 +2,15 @@
 [[IELTS Structure]]
 
 ---
-# Writing  
-## Task 2: Do's and Don'ts
+# Double-question essays
+
+This guide focuses on **double-question essays**. However, the some principles that we will cover here apply to other types of questions.
+
+### Example Question
+
+_"Nowadays, more tasks at home and work are being performed by robots. Why do you think this is happening? Is it a positive or negative development?"_
+
+## Do's and Don'ts
 
 ### Don'ts
 
@@ -28,15 +35,6 @@
 7. **Reinforce weaknesses** by writing your own essay and comparing its structure (not just the content) to the sample.
 
 ---
-
-## How to Write a Task 2 Essay
-
-This guide focuses on **double-question essays**. However, the some principles that we will cover here apply to other types of questions.
-
-### Example Question
-
-_"Nowadays, more tasks at home and work are being performed by robots. Why do you think this is happening? Is it a positive or negative development?"_
-
 ### Double-Question Essay Structure
 
 1. **Introduction**: Introduce the topic (_"Nowadays, more tasks at home and work are being performed by robots."_).
@@ -118,14 +116,20 @@ _"Nowadays, more tasks at home and work are being performed by robots."_
 ### Structure of a Body Paragraph (for any question type)
 
 1. **Topic sentence**: 
-	- Introduce the main point of the paragraph.
+	- Introduce the main point of the paragraph. (answer the question that the paragraph is answering)
 	- Should be short and simple
 	- Avoid repeating phrases and words multiple times, ise paraphrasing instead
 2. **Explanation**: 
 	- The most important part of the body
 	- Never assume that the reader knows what your topic sentence means or that know how it answers the question
 	- The reader cant ask you follow up questions, so you must explain everything
-	- Pretend you are explain
+	- Pretend you are explaining to someone who doesn't know anything about the topic
+	- To know which explanations you need to make, ask direct and specific questions to the topic sentence, and pick the questions that the reader is most likely going to ask, and answer them
 3. **Example**: 
+	- The examiner wants you to demonstrate that you **know how to use examples.
+	- The examples must support or prove your main points
+	- Examples do not need to be true but they must make sense (fictional examples) 
+		Example: *"Recent research concluded that/A recent study found that......+ what you are trying to prove"*
+
 
 ---
