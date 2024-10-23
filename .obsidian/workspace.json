@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/IELTS Structure.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IELTS Structure"
+              "title": "Untitled"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Tips from the 11h video.md",
+                "file": "Habits/Study for IELTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tips from the 11h video"
+              "title": "Study for IELTS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/Tips from the 11h video.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tips from the 11h video"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -179,15 +178,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b15aee1afe221d56",
+  "active": "5f00b3f02eda3039",
   "lastOpenFiles": [
+    "Habits/Find prospects.md",
+    "Untitled.md",
+    "Habits/Work on a website (concept).md",
+    "Habits/Pray Fajr.md",
+    "Habits/Make a script and pitch to a prospect.md",
+    "Habits/Learn about marketing, Sales and cold calling.md",
     "Study Notes/IELTS/IELTS Structure.md",
+    "Habits/Study for IELTS.md",
+    "Tools/AI Tools.md",
+    "Untitled.canvas",
+    "Habits/Work on portfolio.md",
     "Study Notes/IELTS/Tips from the 11h video.md",
+    "Habits",
     "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
     "Study Notes/IELTS/Writing/Task 2",
     "Study Notes/IELTS/Writing",
     "Learning resources/Animation.md",
-    "Untitled.canvas",
     "smart-chats/UNTITLED CHAT 2024-10-21 11 09 18.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/How to be good members of society..md",
     "Study Notes/IELTS/Writing/Task 2/My essays",
@@ -204,14 +213,6 @@
     "Study Notes/Video notes/The future of work.md",
     "Study Notes/Video notes/Essential Business Concepts for Case Interviews.md",
     "Study Notes/Video notes/8 Core Business Concepts You Need To Know (10min MBA).md",
-    "Study Notes/Books notes/Business Model Generation.md",
-    "Thoughts/Business related.md",
-    "Thoughts/Personal.md",
-    "Study Notes/Books notes/Digital Marketing for Dummies.md",
-    "Business/Books list.md",
-    "Tasks/Website business related.md",
-    "Tasks/Websites to design.md",
-    "Tasks/Business model canvas Kanban.md",
     "Tools",
     "Tasks/Websites on design",
     "Assets/Pasted image 20240825224414.png",
@@ -225,7 +226,6 @@
     "Assets/Pasted image 20240825223837.png",
     "Study Notes/Waitlist",
     "Tasks",
-    "Websites to design",
     "Assets/Pasted image 20240822115505.png",
     "Untitled 1.canvas"
   ]
