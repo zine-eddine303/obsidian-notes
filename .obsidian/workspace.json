@@ -35,7 +35,8 @@
               "title": "Tips"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/My essays/Homework task.md"
+                "file": "Study Notes/IELTS/Writing/Task 2/Tips.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Homework task"
+              "title": "Outline of Tips"
             }
           }
         ],
@@ -179,10 +180,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3300d7120bdcc01b",
+  "active": "fd6699c5e30f9fce",
   "lastOpenFiles": [
-    "Study Notes/IELTS/Writing/Task 2/Tips.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/Homework task.md",
+    "Study Notes/IELTS/Writing/Task 2/Tips.md",
     "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
     "Study Notes/IELTS/Tips from the 11h video 1.md",
     "Study Notes/IELTS/IELTS Structure.md",
