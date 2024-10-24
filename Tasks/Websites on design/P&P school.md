@@ -1,15 +1,15 @@
 - [ ] gather context
 	- [ ] services
-	- [ ] contact info
+	- [x] contact info
 		- 5, lot elbouroudj, ain allah, Algérie
 		- 0560 06 09 03
 		- contact.formation@petpecole.com.
-	- [ ] Reviews
-	- [ ] Logo
+	- [x] Reviews
+	- [x] Logo
 	- [ ] Color palette
 	- [ ] an event to feature (HR CONNECT)
 	- [ ] courses
 	- [ ] Imagery
-	- [ ] team/teachers
+	- [x] team/teachers
 
 - [ ] Learn about LMS 
