@@ -149,9 +149,10 @@ _"Nowadays, more tasks at home and work are being performed by robots."_
 1. **Linking word**:
     - In conclusion
     - To conclude
-1. **Opinion**:
+2. **Opinion**:
     - Don't worry about repeating your main ideas again
     - Take the main ideas from the intorduction and paraphrase them
     - This makes you have a clear position throughout the essay
-1. **Summary of main ideas**:
+3. **Summary of main ideas**:
     - Someone should be able to read your conclusion only and tell what your main ideas are
+    - Don't worry about repeating your main ideas but paraphrase

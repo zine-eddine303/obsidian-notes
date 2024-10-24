@@ -56,3 +56,8 @@ The main goal of this new technology is to solve traffic related problems. Artif
 This technology should be viewed as a positive developement, as it increases road safety ==and allows to create a synergic traffic== which can't be achieved with traditional manual driving. A study ==in early== 2000s suggested that using innovative road intersections and implementing more ==advanced laws== isn't the real answer to a better traffic, ==while== the best solution to this problem are self driving cars.
 
 ---
+# Write a Conclusion
+
+## Conclusion
+
+In conclusion, artificial intelligence is ==dominating== cars these years as it solves most traffic problems and this new technology should be welcomed because it allows us to finally have a 
