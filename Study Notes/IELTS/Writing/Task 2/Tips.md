@@ -118,7 +118,7 @@ _"Nowadays, more tasks at home and work are being performed by robots."_
 1. **Topic sentence (main idea)**: 
 	- Introduce the main point of the paragraph. (answer the question that  the paragraph is answering)
 	- Should be short and simple
-	- Avoid repeating phrases and words multiple times, ise paraphrasing instead
+	- Avoid repeating phrases and words multiple times, use paraphrasing instead
 2. **Explanation**: 
 	- The most important part of the body
 	- Never assume that the reader knows what your topic sentence means or that know how it answers the question
@@ -129,7 +129,7 @@ _"Nowadays, more tasks at home and work are being performed by robots."_
 	- The examiner wants you to demonstrate that you **know how to use examples.
 	- The examples must support or prove your main points
 	- Examples do not need to be true but they must make sense (fictional examples) 
-		Example: *"Recent research concluded that/A recent study found that......+ what you are trying to prove"*
+		- Example: *"Recent research concluded that/A recent study found that......+ what you are trying to prove"*
 
 
 ---
