@@ -40,10 +40,14 @@ This technology should be viewed as a positive developement, as it increases roa
 - [x] Did you introduce the topic sentence for each part?
 - [ ] Is the grammar perfect?
 - [x] Did you avoid repeating words and phrases multiple times?
-- [x] Are the paragraphs distinctful? 
+- [x] Are the 2 paragraphs distinctful? 
 - [x] Did you have a clear position on the topic? 
-- [x] Did you include the ideas that you use in the introduction (cohesion)
 - [ ] Is the first example good enough?
+- [x] Is the second example good enough?
+- [x] Does your examples make sense?
+- [x] Does your examples directly support your main points?
+- [x] Does your main match what you stated in the introduction?
+- [x] Does your explanation actually explain how your main point answers the question?
 
 ## Corrected version
 

@@ -128,8 +128,30 @@ _"Nowadays, more tasks at home and work are being performed by robots."_
 3. **Example**: 
 	- The examiner wants you to demonstrate that you **know how to use examples.
 	- The examples must support or prove your main points
-	- Examples do not need to be true but they must make sense (fictional examples) 
-		- Example: *"Recent research concluded that/A recent study found that......+ what you are trying to prove"*
+	- Examples do not need to be true but they must make sense (fictional examples)
 
 
 ---
+## Writing the Conclusion
+
+### What is a conclusion?
+
+- This is where we **state our opinion**. ==But there's no opinion in this type of essay!?!==
+	- Every question is asking for your opinion
+	- What are the advantages and disadvantages?
+	- What are the problems and solutions?
+	- is it a positive or a negtive developement?
+- This is where we **summarise our main ideas**
+- 
+
+### Structure of a conclusion
+
+1. **Linking word**:
+    - In conclusion
+    - To conclude
+1. **Opinion**:
+    - Don't worry about repeating your main ideas again
+    - Take the main ideas from the intorduction and paraphrase them
+    - This makes you have a clear position throughout the essay
+1. **Summary of main ideas**:
+    - Someone should be able to read your conclusion only and tell what your main ideas are
