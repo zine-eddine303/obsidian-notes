@@ -60,4 +60,4 @@ This technology should be viewed as a positive developement, as it increases roa
 
 ## Conclusion
 
-In conclusion, artificial intelligence is ==dominating== cars these years as it solves most traffic problems and this new technology should be welcomed because it allows us to finally have a 
+In conclusion, artificial intelligence is ==dominating== cars these years as it solves most traffic problems and this new technology should be welcomed because it might allow us to finally have flawless roads, clear from accidents and errors.
