@@ -24,8 +24,9 @@ In the last few years, we see more and more vehicles driven by artificial intell
 
 ## Corrected version
 
-==In these last years,== we see more and more vehicles driven by artificial intelligence. ==This is an attempt to solve traffic problems== and I believe that this is a good thing, ==because== it makes our lives safer and easier.
+==In these last years,== we see more and more vehicles driven by artificial intelligence. ==This is an attempt to solve traffic problems== and I believe that this is a good thing, ==because== it makes our lives safer and easier. 
 
+---
 # Write a main body
 
 ## Main body
@@ -42,9 +43,12 @@ This technology should be viewed as a positive developement, as it increases roa
 - [x] Are the paragraphs distinctful? 
 - [x] Did you have a clear position on the topic? 
 - [x] Did you include the ideas that you use in the introduction (cohesion)
+- [ ] Is the first example good enough?
 
 ## Corrected version
 
 The main goal of this new technology is to solve traffic related problems. Artificial intellignece driven cars use a system that allows them to ==navigate== more effectively ==and allows to create an error-free traffic==, ==this== helps reduce accidents and traffic jams. For example, Tesla cars can ==instantly== detect anomalies in the road and rapidly makes decisions to avoid  ==collision== or reduce casualties if crashing is inevitable.
 
 This technology should be viewed as a positive developement, as it increases road safety ==and allows to create a synergic traffic== which can't be achieved with traditional manual driving. A study ==in early== 2000s suggested that using innovative road intersections and implementing more ==advanced laws== isn't the real answer to a better traffic, ==while== the best solution to this problem are self driving cars.
+
+---
