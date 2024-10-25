@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stuff I need to learn/Technical.md",
+                "file": "Business/Hosting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technical"
+              "title": "Hosting"
             }
           },
           {
@@ -173,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stuff I need to learn/Technical.md"
+                "file": "Business/Hosting.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Technical"
+              "title": "Outline of Hosting"
             }
           }
         ],
@@ -199,6 +199,8 @@
   },
   "active": "3300d7120bdcc01b",
   "lastOpenFiles": [
+    "Stuff I need to learn/Technical.md",
+    "Business/Hosting.md",
     "Business/Prospect cold calling.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/Homework task.md",
     "Study Notes/IELTS/IELTS Structure.md",
@@ -230,9 +232,7 @@
     "smart-chats",
     "Tasks/Design system template.md",
     "Study Notes/IELTS",
-    "Stuff I need to learn/Technical.md",
     "Tasks/Untitled.md",
-    "Stuff I need to learn/Non-Technical.md",
     "Tools",
     "Tasks/Websites on design",
     "Assets/Pasted image 20240825224414.png",
