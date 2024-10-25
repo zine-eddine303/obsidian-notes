@@ -20,13 +20,11 @@ Choosing the right web hosting service is crucial for a web design agency, espec
 
 - **Description**: A single physical server is divided into multiple virtual servers, each with dedicated resources.
 - **Advantages**:
-    
     - **Greater control**: Users have more customization options and can install their own software.
     - **Enhanced performance**: More reliable than shared hosting, with better resource allocation.
     - **Scalability**: Easier to upgrade resources as needed [1](https://www.geeksforgeeks.org/types-of-web-hosting/) [2](https://www.hostinger.com/tutorials/types-of-web-hosting) [4](https://elementor.com/blog/types-of-web-hosting/).
     
 - **Disadvantages**:
-    
     - **Higher cost than shared hosting**: More expensive but still cheaper than dedicated hosting.
     - **Technical knowledge required**: Users need some technical skills to manage their server effectively [3](https://www.cnet.com/tech/services-and-software/types-of-web-hosting/).
     
@@ -49,15 +47,13 @@ Choosing the right web hosting service is crucial for a web design agency, espec
 
 - **Description**: Websites are hosted across multiple interconnected servers, allowing for high scalability and flexibility.
 - **Advantages**:
-    
     - **Scalability**: Resources can be adjusted in real-time based on traffic demands.
     - **Reliability**: Redundancy across servers ensures high uptime and performance stability.
     - **Pay-as-you-go pricing model**: Costs are based on actual resource usage, which can be economical for fluctuating traffic [1](https://www.geeksforgeeks.org/types-of-web-hosting/) [2](https://www.hostinger.com/tutorials/types-of-web-hosting) [3](https://www.cnet.com/tech/services-and-software/types-of-web-hosting/).
     
 - **Disadvantages**:
-    
     - **Complex configuration**: More intricate than traditional hosting setups.
-    - **Potential cost escalation**: If not monitored, expenses can increase significantly [4](https://elementor.com/blog/types-of-web-hosting/).
+    - **Potential cost escalation**: If not monitored, expenses can increase significantly [4](https://elementor.com/blog/types-of-web-hosting/)
     
 
 ## **5. Managed WordPress Hosting**
@@ -133,4 +129,5 @@ Selecting a web hosting service involves balancing performance, scalability, sup
 # Good hosting candidates
 - https://www.dreamhost.com/
 - https://www.cloudways.com
+	- a managed vps plan (vps features minus the headache of configurations and installation) 
 - 
