@@ -130,4 +130,3 @@ Selecting a web hosting service involves balancing performance, scalability, sup
 - https://www.dreamhost.com/
 - https://www.cloudways.com
 	- a managed vps plan (vps features minus the headache of configurations and installation) 
-- 
