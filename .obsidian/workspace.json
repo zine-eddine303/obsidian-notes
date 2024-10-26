@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "56616243098385e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/Domain name.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain name"
+            }
+          },
+          {
             "id": "25c3c446dccec334",
             "type": "leaf",
             "state": {
@@ -33,26 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "IELTS Structure"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4a551a711074e540",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ca0d818c0190cd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/Tips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tips"
             }
           }
         ]

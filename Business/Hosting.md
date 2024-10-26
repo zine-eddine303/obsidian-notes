@@ -130,3 +130,31 @@ Selecting a web hosting service involves balancing performance, scalability, sup
 - https://www.dreamhost.com/
 - https://www.cloudways.com
 	- a managed vps plan (vps features minus the headache of configurations and installation) 
+
+
+
+# How to host client's websites
+
+- Host them at your plan
+- Sell them your service with free hosting for 1 year for example (to hook them), and then start collecting hosting fees every year or month
+- Charge them a price for the website which will cover your fee + the hosting fee for one year
+- If they already have a domain, then they renew it by themselves yearly. if they dont have a domain then add a fee for that and do it yourself
+
+1$ = 245da
+
+## Costs
+
+|         | **Multiple websites Hosting/year** | **1 Domain/year** |
+| ------- | ---------------------------------- | ----------------- |
+| **$**   | 30*                                | 10.44**           |
+| **DZD** | 7350                               | 2558              |
+'* hostinger Premium Web Hosting (4 years plan)
+'** cloudflare '.com'
+
+## Reselling fees
+
+
+|         | **Website** | Hosting |
+| ------- | ----------- | ------- |
+| **$**   |             |         |
+| **DZD** |             |         |
