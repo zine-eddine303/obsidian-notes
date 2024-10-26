@@ -1,5 +1,7 @@
 {
   "attachmentFolderPath": "Assets",
   "alwaysUpdateLinks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "showLineNumber": false,
+  "readableLineLength": true
 }

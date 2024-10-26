@@ -153,8 +153,16 @@ Selecting a web hosting service involves balancing performance, scalability, sup
 
 ## Reselling fees
 
+|         | Website/lifetime | Hosting/year | Domain/year (optional) | Total  | Total without domain |
+| ------- | ---------------- | ------------ | ---------------------- | ------ | -------------------- |
+| **DZD** | 50.000           | 6,000        | 3,000                  | 59,000 | 56,000               |
 
-|         | **Website** | Hosting |
-| ------- | ----------- | ------- |
-| **$**   |             |         |
-| **DZD** |             |         |
+### Services details
+#### Website
+
+- Custom website using your brand if existing/will create one if it doesn't exist
+- Fully copywrited pages
+- Responsive accross all platforms
+- Maxed out loading speed
+- Contact forms linked directly to email inbox
+- 
