@@ -1,0 +1,3 @@
+A lot of people spend most of their lives in jobs that they are not passionate about or jobs that their not good at. This could be a result of the absence of work positions. This phenomenon could have significant consequences, like unhappiness of these workers, and the poor performance of the latter which weakens the economy.
+
+The main reason for this phenomenon is the absence of jobs. People get fraustrated when they face this reality, and become desperate to find a job which pushes them to take any offer they stumble uppon. For example  

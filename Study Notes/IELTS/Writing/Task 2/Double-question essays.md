@@ -93,7 +93,7 @@ _"Nowadays, more tasks at home and work are being performed by robots."_
 - **Not a showcase for fancy language**: Keep it simple to avoid mistakes that will lower the examiner's first impression.
 - **Not a hook**: You don’t need to grab attention like in creative writing.
 
-### Structure of a Double-Question Introduction
+### Structure of the Introduction
 
 1. **Paraphrase the question**: State the same ideas using synonyms and/or change the sentence structure.  
     Example: _"Nowadays, more tasks at home and work are being performed by robots."_ can become _"Robotics increasingly play a role both at home and in the workplace."_
@@ -112,8 +112,9 @@ _"Nowadays, more tasks at home and work are being performed by robots."_
 - The most important part of the essay where you develop your main arguments.
 - This is where you prove your point(s).
 
-### Structure of a Body Paragraph (for any question type)
+### Structure of a Body Paragraph
 
+*This applies to both paragraph of the body*
 1. **Topic sentence (main idea)**: 
 	- Introduce the main point of the paragraph. (answer the question that  the paragraph is answering)
 	- Should be short and simple
