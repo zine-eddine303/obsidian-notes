@@ -2,7 +2,6 @@
 [[IELTS Structure]]
 
 ---
-# Double-question essays
 
 This guide focuses on **double-question essays**. However, the some principles that we will cover here apply to other types of questions.
 

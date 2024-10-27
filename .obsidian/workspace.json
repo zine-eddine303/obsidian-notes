@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Auto entrepreneur.md"
+                "file": "Study Notes/IELTS/IELTS Structure.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Auto entrepreneur"
+              "title": "Outline of IELTS Structure"
             }
           }
         ],
@@ -206,17 +206,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0883b66ff48ddf60",
+  "active": "25c3c446dccec334",
   "lastOpenFiles": [
-    "Business/Hosting.md",
+    "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
+    "Study Notes/IELTS/Writing/Task 2/Double-question essays.md",
+    "Study Notes/IELTS/IELTS Structure.md",
     "Auto entrepreneur.md",
+    "Business/Hosting.md",
     "Business/Domain name.md",
     "Stuff I need to learn/Technical.md",
     "Business/Prospect cold calling.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/Homework task.md",
-    "Study Notes/IELTS/IELTS Structure.md",
-    "Study Notes/IELTS/Writing/Task 2/Tips.md",
-    "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
     "Tasks/Websites on design/P&P school.md",
     "Productivity/Productivity.md",
     "Study Notes/IELTS/Tips from the 11h video 1.md",
