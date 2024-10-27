@@ -1,8 +1,0 @@
-A lot of people spend most of their lives working in jobs that they are not passionate about or jobs that they are not good at. This could be a result of the scarcity of work positions. The consequences of this situation could be significant, like the unhappiness of these workers, and their poor performance which threatens society and the economy.
-
-One of the main reasons for this phenomenon is the absence of jobs. People get fraustrated when they face this reality and become desperate to find a job which eventually pushes them to take any offer that they stumble uppon. For example most people who work in the fast food industry don't enjoy what they do because they don't have any other other choice.
-
-This phenomenon could lead to serious problems. When a person hates what he does, he will most likely be unhappy. This makes him perform poorly on his tasks and would make fatal mistakes, which may hurt people and economy.
-Let's take truck drivers as an example. Driving a truck needs focus and vigilance, if the driver isn't competent enough, and even worst if doesn't like this task, he insrisk both his life and people's lives, or at least, hurt the business that he's working for.
-
-In conlcusion, the lack of jobs could be one of the biggest reasons why we find a large portion of workers who don't enjoy their jobs, or who are incompetent. This potentially creates a considerable danger to society, and economy.
