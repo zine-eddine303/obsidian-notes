@@ -6,8 +6,47 @@ Summarise the information by selecting and reporting the main features, adn make
 
 ![[Pasted image 20241028140046.png]]
 
-# Remarks
+# Don'ts
 
-- We don't have to know what "foreign direct investment" is
-- hey are not asking for your opinion on this thing
-- It
+- You dont have to understand what the topic is, like here it's "foreign direct investment"
+- They are not asking for your opinion on this topic
+- Don't be very detailed in you analysis, they only need a superficial analysis. Remember, you are not a data analyst or an economist
+- Don't complicate it
+
+# Do's
+
+- They are asking you to ==understand== the data and ==report== it appropriately and make ==relevant comparisons==
+- They are asking you to "summarise", and select the most important features and report them
+- Keep it simple
+
+# Steps to do before writing
+
+1. Think about the purpose of the chart to understand the data. for our example there are 2 purposes
+	- A comparison between china and india in foreign direct investment
+	- A trend over time of foreign direct investment
+
+2. Understand the general trends (is it incresing, decreasing, steady or fluctuating...)
+	- **For china**: the trend is decreasing, with a sudden peak in 2018, but its generally decreasing
+	- **For India:** It is fluctuating, no significant changes
+
+3. Look for points of comparison
+	- China had a major peak in 2018
+	- Overall the foreign direct investment in China is greater than in India
+
+# Structure of essay
+
+1. **Introduction**
+	- Paraphrase the paragraph that introduces the chart 
+		- When you mention the topic (like in this case it's "foreign direct investment"), if you really know a synonym of it then use it, if not, DON'T. You are not obliged to know these topics
+	- It's always normally one sentence paragraph
+
+2. **Overview** (1)
+	- Starts with "Overall"
+	- 
+
+
+
+
+# Definitions
+
+1. Overview: In writing, particularly for tasks like essays or reports, an overview introduces the reader to the key ideas or themes that will be explored, often acting as a summary of the main points. It helps the reader understand what to expect.
