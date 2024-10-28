@@ -1,0 +1,5 @@
+*Some people think that the teenage years are the happiest time of most people’s lives. Others think that adult life brings more happiness, in spite of greater responsibility. Discuss both views and give your own opinion.*
+
+There has always been a debate between people about which phase the person is happier, his teenage phase or his adulthood. This essay agrees that adult years are more joyfull than teenage years.
+
+A large portion of people genuinly believe that they are happier than they were in their teenage years, and find themselves enjoy their time more than the past inspite of the diffuclty of the ad Being a grown up allows you to have more control over your life, you get to do your own choices and make your own decisions. Furthermore, you will most likely have money to do the things that you love. In addition, you can raise a family which could bring most happiness to your life. 
