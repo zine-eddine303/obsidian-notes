@@ -32,26 +32,41 @@
 ## Comma ","
 
 ### Don'ts
+
 - You can't use a comma to replace a full stop in order to create a longer complex sentence
 - You can't use a comma after a Linking word/Cohesive device that is in the middle of the sentence. If you want to do so, use a semicolon before the linking word and then put the comma after the linking word
 	- example: ...... ; however, .....
+
 ### Do's
+
 - Use it between a list of items
 	- example: I bought a coat, a hat and a shirt when I wasa at the mall
+
 -  Use after Linking words/Cohesive devices that are in the begining of the sentence
 	- **In conclusion**, I believe that ....
 	- is going. **In addition**, we have the...
+
 - Use after an introductory adverb (unfortunately, accordingly, basically)
+
 - Use before conjunctions (and, but, for, or, not, so, yet) to link up two **independent clauses**
 	- (independent clause) > ==We felt tiered== **, so** ==we went to bed earlier== < (independent clause)
 	- (independent clause) > There was heavy traffic **, and** the weather was getting hot < (independent clause)
 	- CAUTION: "then" is not a conjunction. You should use a conjunction before it 
 		- ❌ We stopped a taxi, **then** we went to the party.
 		- ✅ We stopped a taxi, **and then** we went to the party.
+
 - Use before extra information in the sentence,  extra information is a part in the sentence that if you remove, the meaning of the sentence wont change
 	- The new bag==, which I bought yeaterday,== is extremely expensive in this city
-- Use after a **dependent clause** when they start a sentence
-	- Although I was in the shopping center
+
+- Use after a **dependent clause** when they start a sentence. If the sentence started with an independent clause, then you dont need a comma at all
+	- (dependent clause) > Although I was in the shopping center, I didn't buy the coat < (independent clause)
+	- I didnt buy the coat although I was in the shopping center (it started with an independent clause)
+
+- Use between 2 or more adjectives that describe the same noun
+	- I bought a tight, black dress
+
+- Use before the quote of a person
+	- According to a recent survey, a scientist claimed, "Many animal speciest have gon extinct in Africa"
 
 ## Full stop "."
 
