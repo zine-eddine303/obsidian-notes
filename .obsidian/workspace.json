@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/My essays/Untitled.md",
+                "file": "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Essays analysis"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/Discussion essays.md",
+                "file": "Study Notes/IELTS/Writing/Grammar and vocabulary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discussion essays"
+              "title": "Grammar and vocabulary"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/Discussion essays.md"
+                "file": "Study Notes/IELTS/Writing/Grammar and vocabulary.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Discussion essays"
+              "title": "Outline of Grammar and vocabulary"
             }
           }
         ],
@@ -194,9 +194,10 @@
   },
   "active": "724483ccf7c0a04a",
   "lastOpenFiles": [
-    "Study Notes/IELTS/Writing/Task 2/My essays/Untitled.md",
     "Study Notes/IELTS/Writing/Task 2/Discussion essays.md",
     "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
+    "Study Notes/IELTS/Writing/Grammar and vocabulary.md",
+    "Study Notes/IELTS/Writing/Task 2/My essays/Untitled.md",
     "Study Notes/IELTS/IELTS Structure.md",
     "Business/Domain name.md",
     "Study Notes/IELTS/Writing/Task 2/Double-question essays.md",
@@ -221,7 +222,6 @@
     "Habits/Learn about marketing, Sales and cold calling.md",
     "Tools/AI Tools.md",
     "Untitled.canvas",
-    "Habits/Work on portfolio.md",
     "Habits",
     "Study Notes/IELTS/Writing/Task 2",
     "Study Notes/IELTS/Writing",

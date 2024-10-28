@@ -52,3 +52,46 @@ Many people genuinely believe they are happier as adults than they were in their
 On the other hand, some argue that the happiness of teenage years is incomparable to that of adulthood. This is often attributed to the lack of responsibilities teenagers experience, or the fact that adults may no longer have time to engage in their passions. However, I believe these are inevitable consequences of growing up, and it is important to adapt to this reality. As mentioned earlier, adults have the freedom to shape their own lives, whereas teenagers are often under the control of their parents and lack the financial independence to fully pursue their interests. For instance, in my teenage years, I was not allowed to travel alone because I was not deemed mature enough, and even when I was allowed to, I could not afford the trips I longed for.
 
 In conclusion, the debate over the happiest phase of life is subjective, but I believe adulthood is more fulfilling than teenage years due to the freedom and control it provides. With hard work and effective time management, adults can enjoy life to the fullest, something that is often more challenging during the teenage years.
+
+---
+# Punctuation errors
+
+- **Lists**:
+    
+    - "For example, raising a family could bring a lot of happiness to your life, it is undoubtful that most parents love their children and are happy to watch them grow and succeed."
+        - This is a comma splice. You should either split this into two sentences or use a semicolon. Corrected:  
+            "For example, raising a family can bring a lot of happiness to your life. It is undoubtedly true that most parents love their children and are happy to watch them grow and succeed."
+- **After introductory phrases**:
+    
+    - **"For example"** and **"In conclusion"** should always be followed by a comma:
+        - "For example, raising a family..."
+        - "In conclusion, the happiest period of a person's lifetime..."
+    - "Inspite of the hardships" should be "In spite of the hardships" with a comma after "In spite."
+
+### 2. **Apostrophes**:
+
+- **Possession**:
+    - "A person's lifetime" is correct. Be sure you maintain consistent apostrophe use to indicate possession.
+
+### 3. **Semicolons**:
+
+- **Avoid comma splices** (combining two independent clauses with just a comma):
+    - "This makes him perform poorly on his tasks and would make fatal mistakes, which may hurt people and economy."  
+        This sentence combines two independent ideas, so it would be better to separate them using a semicolon or a period:  
+        "This makes him perform poorly on his tasks and could lead to fatal mistakes; this may hurt people and the economy."
+
+### 4. **Periods**:
+
+- **Run-on sentences**:
+    - "Being a teenager puts the person under the control of parents, and since he can't have a job, he wouldn't be financially sufficient and thus, he would be unable to practice his passions effectively."  
+        This sentence is long and would be clearer if split into two.  
+        "Being a teenager puts the person under the control of their parents. Since they can't have a job, they aren't financially independent, and thus would be unable to fully pursue their passions."
+
+### Suggestions:
+
+1. Use commas to break up longer sentences and to set off introductory phrases.  
+    Example: "However, many say that teenage years happiness is incomparable..." → "However, many say that the happiness of teenage years is incomparable..."
+    
+2. Avoid comma splices by using semicolons or breaking sentences into shorter, independent sentences.
+    
+3. Apostrophes are correctly used for possession, but double-check that they are consistently placed.
