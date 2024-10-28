@@ -42,6 +42,7 @@ My essays: [[How to be good members of society.]]
 - **For instance** : to give an example
 - **This essay believes that**
 - **is better suited for to fulfill this (role)**
+- **Therefore** : For that reason
 # Vocabulary
 - Upbringing = raising = tarbiya
 - Offspring = children 
