@@ -12,16 +12,19 @@ Summarise the information by selecting and reporting the main features, adn make
 - They are not asking for your opinion on this topic
 - Don't be very detailed in you analysis, they only need a superficial analysis. Remember, you are not a data analyst or an economist
 - Don't complicate it
+- Don't try to impress the writer
+- Don't say "this data is so simple, there must be something that I am not seeing" because you are wrong, they inentionally make data simple and obvious
 
 # Do's
 
 - They are asking you to ==understand== the data and ==report== it appropriately and make ==relevant comparisons==
 - They are asking you to "summarise", and select the most important features and report them
 - Keep it simple
+- Organise paragraphs logically ()
 
 # Steps to do before writing
 
-1. Think about the purpose of the chart to understand the data. for our example there are 2 purposes
+1. Think about the purpose of the data to understand the data. for our example there are 2 purposes
 	- A comparison between china and india in foreign direct investment
 	- A trend over time of foreign direct investment
 
@@ -36,16 +39,28 @@ Summarise the information by selecting and reporting the main features, adn make
 # Structure of essay
 
 1. **Introduction**
-	- Paraphrase the paragraph that introduces the chart 
-		- When you mention the topic (like in this case it's "foreign direct investment"), if you really know a synonym of it then use it, if not, DON'T. You are not obliged to know these topics
 	- It's always normally one sentence paragraph
+	- Paraphrase the paragraph that introduces the data 
+		- When you mention the topic (like in this case it's "foreign direct investment"), if you really know a synonym of it then use it, if not, DON'T. You are not obliged to know these topics
 
 2. **Overview** (1)
-	- Starts with "Overall"
-	- 
+	- The position of this paragraph doesn't matter, it could be the second paragraph or any other postion
+	- Always starts with "Overall,"
+	- Look at the data are report from 2 to 4 of the most important features without reporting any specific data
+	- Don't mention any values from any of the axis (in order to eleminate details)
 
+3. Detail paragraph #1
+	- Talk about one country (china for this case)
+	- Dive into details and values for the change in the data, but still don't report each and every single thing, only point out relevant points
 
+4. Detail paragraph #2
+	- Talk about the other country (India for this case)
+	- Dive into details like u did in the previous paragraph
+	- Compare this data with the previous one (China and India), 
 
+# Sample essay
+
+![[Pasted image 20241028145725.png]]
 
 # Definitions
 
