@@ -64,5 +64,9 @@ In conclusion, although social media sites have the potential to bring people cl
 ### Remarks
 
 1. Used new vocabulary and grammar
+	- Prevalance: something widespreading
+	- Critical opinion: disaproving opinion
+	- Weigh up its merits: 
+
 2. Used a good and obvious example
 3. I dont understand this?
