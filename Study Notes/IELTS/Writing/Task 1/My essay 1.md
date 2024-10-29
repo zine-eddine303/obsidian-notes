@@ -26,6 +26,22 @@ Aluminium cans were ==first== recycled in 1986, starting at about 5%, but this f
 
 Overall, the ==proportion== of paper and cardboard that was recycled was the highest of the four ==classes of material==, but this category experienced a decline after 1994, ==whereas== there was a ==continuing upward trend== in the recycling of the other materials.
 
+## Critic
+- **"have increased"**: In the second sentence of the introduction, "the recycling of aluminium cans and plastic **have** increased" should be "has increased" because "recycling" is singular.
+	- **Corrected**: "the recycling of aluminium cans and plastic has increased..."
+
+- "**went into a peak"**: This expression is incorrect. It should be "reached a peak."
+	- **Corrected**: "This trend reached a peak of 80% in 1994..."
+
+- **"started declining back to 70% till 2010"**: "Till" is informal. Use "until" in formal writing. Also, "declining back" is repetitive. It should just be "declining to 70%."
+	- **Corrected**: "and then started declining to 70% until 2010."
+
+- **aluminium cans recycling"**: This is awkward phrasing. It should be "the recycling of aluminium cans."
+	- **Corrected**: "The recycling of aluminium cans has been rapidly and constantly increasing..."
+
+**"have went"**: This is incorrect. The correct form is "has gone."
+	- **Corrected**: "Plastic recycling has gone through a slow increase of less than 10% from 1990 to 2010."
+
 
 # My improved essay
 
