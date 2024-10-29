@@ -32,3 +32,6 @@ In the IELTS (International English Language Testing System) exam, there are fou
     1. A general introduction and interview (4-5 minutes).
     2. A long turn where you speak on a specific topic (2 minutes).
     3. A discussion based on the topic in Part 2.
+
+
+![[IELTS-and-the-CEFR-06.jpeg]]
