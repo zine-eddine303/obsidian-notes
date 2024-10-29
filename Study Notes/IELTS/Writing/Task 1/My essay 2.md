@@ -6,6 +6,8 @@ In 2002, more than half of the general population has a computer, this trend inc
 
 
 
-Nowadays==,== people judge eachother's value by relying on materialistic measures. While in the past, they used rational metrics to value a person's worth. They relied on honor, trust and personality. This change could be caused by the change of morals 
+Nowadays==,== people judge eachother's value by relying on materialistic measures. While in the past, they used rational metrics to value a person's worth. They relied on honor, trust and personality. This change could be caused by the change of morals in the current day, our world became more materialistic where money and social position rule everything.
 
+People used to be honest and honorable in the past, if a person didn't adopt these qualities he would be considered an outcast, and a failure to society. However, today all these morals are negliged and replaced by greed, dishonesty and selfishness. Some individuals would do anything for money and power, hoping to climb the ladder of society and become better than everyone else. Indivuals like the latter are praised by society, and considered hard working and successfull despite of the ways they took to reach their goals. For instance, many celebrities are still loved and appreciated despite many evidences proving their awful crimes.
 
+In conclusion, today's society uses different values to measure someone's worth, basing their judgement on wealth and power. Our ancestors used rational values instead, such as honor and honesty. I believe that this change is caused by internal change in society's view of life.
