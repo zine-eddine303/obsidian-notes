@@ -103,3 +103,53 @@ In compound numbers and fractions
 - Fifty-six
 
 ==CAUTION: if you don't know how to use it, dont use it==
+
+
+# Double letters
+
+Struggling with double letters in words is a common issue, especially when they change forms, like from verbs to adjectives or adverbs. While English has many exceptions, there are some general rules that can help:
+
+### 1. **Doubling the final consonant (especially for adjectives and adverbs)**
+
+- When a word ends with a single vowel followed by a single consonant, and the final syllable is stressed, the final consonant is often doubled when adding a suffix (like -ing, -ed, -er, -est, or -ly).
+    - Examples:
+        - **Big** → **Bigger**
+        - **Thin** → **Thinner**
+        - **Run** → **Running**
+        - **Fit** → **Fittest**
+- However, if the stress is not on the final syllable, the consonant usually isn’t doubled.
+    - Example: **Visit** → **Visiting** (no doubling because the stress is on the first syllable).
+
+### 2. **Words ending in "L" (UK vs US spelling)**
+
+- In British English, words that end in "L" tend to double the "L" when adding suffixes like -ed or -ing. In American English, this is not always the case.
+    - UK: **Travel** → **Travelled**, **Travelling**
+    - US: **Travel** → **Traveled**, **Traveling**
+- When making an adverb from adjectives ending in “l,” you typically don’t need to add extra letters unless it ends with a double "l."
+    - Example: **Final** → **Finally**
+
+### 3. **Words ending in silent "E"**
+
+- If a word ends with a silent "e," you typically drop the "e" before adding a suffix starting with a vowel (e.g., -ing, -ed) but keep the "e" before suffixes starting with consonants (e.g., -ly, -ness).
+    - **Adore** → **Adoring**
+    - **Hope** → **Hoping**
+    - **Late** → **Lately**
+
+### 4. **Words ending in "Y"**
+
+- If a word ends in “y” preceded by a consonant, the "y" usually changes to "i" when adding suffixes like -ed, -es, or -er. However, before adding -ing, the "y" stays the same.
+    - **Happy** → **Happier**
+    - **Cry** → **Cried**
+    - **Cry** → **Crying** (no change)
+
+### 5. **Common Irregularities**
+
+- Some words just need to be memorized as exceptions (e.g., **Benefit** → **Benefited** without doubling, but **Fit** → **Fitted** with doubling).
+
+### 6. **Use the Base Word as a Guide**
+
+- If the base word has double letters, then it will keep those in the new form:
+    - **Full** → **Fully**
+    - **Skill** → **Skilled**
+
+Practicing with these rules in mind will help you develop a better instinct for when double letters appear. And of course, reading and exposure to more texts will reinforce them!
