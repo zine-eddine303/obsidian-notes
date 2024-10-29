@@ -48,6 +48,8 @@ Summarise the information by selecting and reporting the main features, adn make
 	- Always starts with "Overall,"
 	- Look at the data are report from 2 to 4 of the most important features without reporting any specific data
 	- Don't mention any values from any of the axis (in order to eleminate details)
+	- Try to group features (especially if there's more than 2 sets of data)
+		- For example: ==bread and buns== appear to have been more profitable than ==pies==
 
 3. Detail paragraph #1
 	- Talk about one country (china for this case)
