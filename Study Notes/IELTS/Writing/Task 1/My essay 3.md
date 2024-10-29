@@ -1,5 +1,10 @@
 # Task 1
 
+#### The graph below gives information about the sales of the three most commonly purchased items in a particular bakery for the year 2014.  
+  
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+![[Pasted image 20241029145535.png]]
 ## My essay
 
 The given chart illustrates the change of sales of 3 different items in a bakery, bread, buns and pies in 2014
@@ -39,16 +44,27 @@ The value of pies sold slowly increased from $10,000 in January to reach $20,000
 
 # Task 2
 
+#### _The internet has changed the way we communicate. Much communication today happens through social media. Some people support this and think it is a positive development. Others believe that social media have negative effects._  
+  
+Discuss both these views and give your own opinion.  
+  
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
 ## My essay
 
-The internet has revolutionised the way humans communicate with each other, allowing cross continent conversations, and instant access to information through platforms like social media and blogs. There has always been a debate on whethere it's a good or a bad technology for society. While the internet and social media could be used wrongfully, this essay believes that it is a useful tool if we use it responsibly.
+The internet has revolutionised the way humans communicate with each other, allowing cross continent conversations, and instant access to information through platforms like social media and blogs. There has always been a debate on ==whethere (1)== whether it's a good or a bad technology for society. While the internet and social media could be used wrongfully, this essay believes that it is a useful tool if we use it responsibly.
 
-Some individuals stand against this developement for security and health concerns. They think that social media cuts real communication between people and keeps them hooked to the digital world. In addition, they believe that it could be used to harm society in many ways: by spreading lies, stealing identities, scamming, hacking and more irresponsible actions. For example, a person used Elon Musk's identity on twitter, and convinced people to send him huge amounts of money as investment, and eventually scammed them and left them with no dime to their names. While the people who are against this technology have understandable concerns; I believe that if we use it cautiously, we can make a lot of advancements by utilising it's advantages.
+Some individuals stand against this ==developement (1)== development for security and health concerns. They think that social media cuts real communication between people and keeps them hooked to the digital world. In addition, they believe that it could be used to harm society in many ways: by spreading lies, stealing identities, scamming, hacking and more irresponsible actions. For example, a person used Elon Musk's identity on twitter, and convinced people to send him huge amounts of money as investment, and eventually scammed them and left them with no dime to their names. While the people who are against this technology have understandable concerns; I believe that if we use it cautiously, we can make a lot of advancements by utilising it's advantages.
 
-The internet has solved a lot of problems for our species, for instance it eliminated long distances, information from all around the globe became only one click away. It also provided us with a lot of work oppurtunities. To furthur support this; I for example, have worked with many individuals and companies from the United States and Canada from home. This would have been impossible without a tool like the internet.
+The internet has solved a lot of problems for our species, for instance it eliminated long distances, information from all around the globe became only one click away. It also provided us with a lot of work ==oppurtunities (1)== opportunities. To ==furthur (1)== further support this; I for example, have worked with many individuals and companies from the United States and Canada from home. This would have been impossible without a tool like the internet.
 If we literate ourselves on how to use the internet and social media safely, and avoid using it excessively, we would eliminate all the threats that it poses on society.
 
 In conclusion, the internet and social media platforms have radically changed communication. Like most other technologies, this one's also a double edged sword, which makes it have positive and negative effects on our lives. I believe that if we regulate and educate ourselves on how to use it safely and responsibly, the world will become a better place.
+
+### Critics
+
+1. Vocabulary errors
+
 
 
 ## Sample essay
