@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/Essay types/Opinion essays.md",
+                "file": "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opinion essays"
-            }
-          },
-          {
-            "id": "d47953f9a6a1fcfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/Essay types/Advantages and disadvantages essays.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advantages and disadvantages essays"
+              "title": "How to rephrase a question"
             }
           },
           {
@@ -92,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/IELTS/IELTS Structure.md",
+                "file": "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IELTS Structure"
+              "title": "Outgoing links from How to rephrase a question"
             }
           },
           {
@@ -210,14 +196,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/IELTS Structure.md"
+                "file": "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of IELTS Structure"
+              "title": "Outline of How to rephrase a question"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -287,16 +273,17 @@
       }
     ]
   },
-  "active": "d27e828e55c7332f",
+  "active": "a11c40bb95dcf8d9",
   "lastOpenFiles": [
-    "Study Notes/IELTS/Writing/My weak points.md",
-    "Study Notes/IELTS/Writing/Task 2/Essay types/Advantages and disadvantages essays.md",
+    "Study Notes/IELTS/IELTS Structure.md",
+    "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Opinion essays.md",
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Advantages and disadvantages essays.md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Double-question essays.md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Discussion essays.md",
-    "Study Notes/IELTS/IELTS Structure.md",
-    "opinion questions.md",
     "Study Notes/IELTS/Writing/Task 2/General Task 2 essay plan.md",
+    "Study Notes/IELTS/Writing/My weak points.md",
+    "opinion questions.md",
     "Study Notes/IELTS/Writing/Task 2/Essay types",
     "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/Opinion essay.md",
@@ -326,7 +313,6 @@
     "Untitled 1.md",
     "Auto entrepreneur.md",
     "Business/Hosting.md",
-    "Stuff I need to learn/Technical.md",
     "Untitled.canvas",
     "Habits",
     "Study Notes/IELTS/Writing/Task 2",

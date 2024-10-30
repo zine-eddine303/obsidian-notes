@@ -10,7 +10,7 @@
 
 ## Introduction
 
-- Rephrase the question
+- Rephrase the question [[How to rephrase a question]]
 - Outline the main ideas
 	- *Increased access to information and student freedom are the main advantages, whereas dependency on technology and decreasing levels of face-to-face contact are the main disadvantages.*
 

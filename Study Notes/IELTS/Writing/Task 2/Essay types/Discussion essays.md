@@ -5,7 +5,7 @@
 
 ## Introduction
 
-- Rephrase the question
+- Rephrase the question [[How to rephrase a question]]
 - Say your opinion (take a side of the debate), using a "while (viewpoint x feature) I believe that (viewpoint y) is (affirmation of viewpoint y)"
 	- **Example:** *Although being an adult means having enough money to enjoy many life activities, teenagers have an enormous amount of time to spend on leisure activities, and for this reason, I stand with the latter view.*
 

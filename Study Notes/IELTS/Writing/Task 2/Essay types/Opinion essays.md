@@ -1,5 +1,5 @@
 **Example question**:
-*ome people believe that unpaid community service should be compulsory in high school programmes (for example, working for a charity, improving the neighbourhood or teaching sports to younger children).*
+*Some people believe that unpaid community service should be compulsory in high school programs (for example, working for a charity, improving the neighborhood or teaching sports to younger children).*
 
 *Do you agree or disagree?*
 
@@ -7,7 +7,7 @@
 
 ## Introduction
 
-- Rephrase the question
+- Rephrase the question [[How to rephrase a question]]
 - Say your opinion 
 	- **Example:** *This essay agrees with that suggestion completely*
 - Outline the main ideas

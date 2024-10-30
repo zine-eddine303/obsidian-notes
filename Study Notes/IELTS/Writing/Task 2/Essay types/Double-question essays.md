@@ -95,7 +95,7 @@ _"Nowadays, more tasks at home and work are being performed by robots."_
 
 ### Structure of the Introduction
 
-1. **Paraphrase the question**: State the same ideas using synonyms and/or change the sentence structure.  
+1. **Paraphrase the question**: State the same ideas using synonyms and/or change the sentence structure.  [[How to rephrase a question]]
     Example: _"Nowadays, more tasks at home and work are being performed by robots."_ can become _"Robotics increasingly play a role both at home and in the workplace."_
 2. **Briefly answer both questions**:  
     Example: _"This is due to advancements in technology, and it should be seen as a positive development because it reduces a person’s workload."_
