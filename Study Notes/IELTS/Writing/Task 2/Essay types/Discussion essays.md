@@ -16,7 +16,7 @@
 - Discuss the viewpoint
 - Give reasons why you agree/disagree with this viewpoint
 - Give an example to support your view
-### Paragraph 1 
+### Paragraph 2
 
 - State the other viewpoint
 - Discuss the viewpoint
