@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md",
+                "file": "Study Notes/IELTS/Reading/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to rephrase a question"
+              "title": "Untitled"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md",
+                "file": "Study Notes/IELTS/Reading/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How to rephrase a question"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md"
+                "file": "Study Notes/IELTS/Reading/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of How to rephrase a question"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -275,8 +275,11 @@
   },
   "active": "a11c40bb95dcf8d9",
   "lastOpenFiles": [
-    "Study Notes/IELTS/IELTS Structure.md",
     "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md",
+    "Study Notes/IELTS/Reading/Untitled.md",
+    "Study Notes/IELTS/Reading",
+    "Study Notes/IELTS/Untitled.md",
+    "Study Notes/IELTS/IELTS Structure.md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Opinion essays.md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Advantages and disadvantages essays.md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Double-question essays.md",
@@ -311,8 +314,6 @@
     "Study Notes/IELTS/Writing/Task 2/My essays/Homework task.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/People who hate their jobs.md",
     "Untitled 1.md",
-    "Auto entrepreneur.md",
-    "Business/Hosting.md",
     "Untitled.canvas",
     "Habits",
     "Study Notes/IELTS/Writing/Task 2",
@@ -321,7 +322,6 @@
     "smart-chats",
     "Study Notes/IELTS",
     "Tools",
-    "Tasks/Websites on design",
     "Untitled 1.canvas"
   ]
 }
