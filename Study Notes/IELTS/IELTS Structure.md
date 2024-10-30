@@ -9,7 +9,7 @@ In the IELTS (International English Language Testing System) exam, there are fou
 ### 2. **Reading**
 
 - **Duration**: 60 minutes.
-- **Format**: Three sections, with texts that increase in difficulty.
+- **Format**: 3 sections, 40 questions, with texts that increase in difficulty.
 - **Academic Test**: Contains reading passages from books, journals, magazines, and newspapers.
 - **General Training Test**: Focuses on reading materials you encounter in everyday life (e.g., advertisements, instructions, and articles).
 
