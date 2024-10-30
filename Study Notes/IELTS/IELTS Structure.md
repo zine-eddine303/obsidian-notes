@@ -15,6 +15,7 @@ In the IELTS (International English Language Testing System) exam, there are fou
 
 ### 3. **Writing**
 
+- Must be formal
 - **Duration**: 60 minutes.
 - This section includes two tasks (commonly referred to as **Task 1** and **Task 2**):
     - **Task 1:** You’ll describe visual information (graphs, charts, maps, diagrams). you should spend around **20 minutes** on it

@@ -34,3 +34,6 @@
 - **z or s at the end of a word**: practice how to know how to use them (like colonize, localize...) 
 - **While**...... , ~~but~~ **I believe** ...
 - ==Need to learn how to link ideas more fluently==
+- Practice more articles
+- ==If you only eliminate very minor and stupid mistakes, you can improve your ban significantly by 1 or 1.5==
+- 
