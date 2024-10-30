@@ -21,7 +21,7 @@ In the IELTS (International English Language Testing System) exam, there are fou
     - **Task 1:** You’ll describe visual information (graphs, charts, maps, diagrams). you should spend around **20 minutes** on it
     - (3-5 minutes for planning, 150+ words, 33% of writing score).
     - **Task 2**: This is an essay. This is the longer of the two tasks (at least 250 words), and you should spend around **40 minutes** on it. (5 minutes for planning, 250+ words, 66% of writing score) You are asked to respond to:
-	    - Opinion : Do you aggree or disagree? Do you think x?
+	    - Opinion : Do you agree or disagree?/ Do you think x?/ to what extent do you agree or disagree?  
 	    - Discussion: Discuss both views and give your opinion
 	    - Causes/ problems and solutions: what are the causes of x? What are some possible solutions?
 	    - Advantages and disadvantages: What are the Advantages and disadvantage? Do the Advantages outweigh the disadvantages?
