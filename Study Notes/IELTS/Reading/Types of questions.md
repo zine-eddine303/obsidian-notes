@@ -4,11 +4,8 @@
 *Answer the questions. Use **NO MORE THAN THREE WORDS** from the text for each answer.*
 
 - *What is the term for the amount of material that could be lit around a fire? [ ]*
-
 - *When do wildfires burn at their fiercest? [ ]*
-
 - *What can travel in the wind to create fires at some distance from the initial fire? [ ]*
-
 - *What is the name of the additional fires that fire fighters use to control wild fires? [ ]*
 
 ## Common Problems
