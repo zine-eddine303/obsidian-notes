@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Reading/Types of questions.md",
+                "file": "Study Notes/IELTS/Reading/Essay types/Matching Sentence Endings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of questions"
+              "title": "Matching Sentence Endings"
             }
           },
           {
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/IELTS/Reading/Types of questions.md",
+                "file": "Study Notes/IELTS/Reading/Essay types/Matching Sentence Endings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Types of questions"
+              "title": "Outgoing links from Matching Sentence Endings"
             }
           },
           {
@@ -224,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/Reading/Types of questions.md"
+                "file": "Study Notes/IELTS/Reading/Essay types/Matching Sentence Endings.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Types of questions"
+              "title": "Outline of Matching Sentence Endings"
             }
           }
         ],
@@ -250,9 +250,17 @@
   },
   "active": "a11c40bb95dcf8d9",
   "lastOpenFiles": [
+    "Assets/complete-sentence-endings.png",
+    "Study Notes/IELTS/Reading/Essay types/Summary completion.md",
+    "Assets/ielts-reading-summary-completion-with-list.png",
+    "Assets/ielts-reading-summary-completion.png",
+    "Study Notes/IELTS/Reading/Essay types/Multiple choice.md",
+    "Study Notes/IELTS/Reading/Essay types/Short answer.md",
+    "Study Notes/IELTS/Reading/Types of questions.md",
+    "Study Notes/IELTS/Reading/Essay types/Matching Sentence Endings.md",
+    "Study Notes/IELTS/Reading/Essay types",
     "Assets/mcq-1.png",
     "Study Notes/IELTS/IELTS Structure.md",
-    "Study Notes/IELTS/Reading/Types of questions.md",
     "Study Notes/IELTS/Writing/My weak points.md",
     "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md",
     "Study Notes/IELTS/Reading",
@@ -280,15 +288,8 @@
     "Assets/Pasted image 20241028140046.png",
     "Assets/Pasted image 20240821171406.png",
     "Assets/Pasted image 20240822115505.png",
-    "Assets/Pasted image 20240825223928.png",
-    "Assets/Pasted image 20240825223953.png",
-    "Assets/Pasted image 20240825224012.png",
     "Study Notes/IELTS/Writing/Task 1",
     "Study Notes/IELTS/Writing/Task 2/My essays/Untitled.md",
-    "Business/Domain name.md",
-    "Study Notes/IELTS/Writing/Task 2/My essays/How to be good members of society..md",
-    "Study Notes/IELTS/Writing/Task 2/My essays/Homework task.md",
-    "Study Notes/IELTS/Writing/Task 2/My essays/People who hate their jobs.md",
     "Untitled.canvas",
     "Habits",
     "Study Notes/IELTS/Writing/Task 2",
@@ -296,7 +297,6 @@
     "Study Notes/IELTS/Writing/Task 2/My essays",
     "smart-chats",
     "Study Notes/IELTS",
-    "Tools",
     "Untitled 1.canvas"
   ]
 }
