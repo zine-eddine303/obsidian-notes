@@ -1,8 +1,15 @@
-For a web designer and graphic designer, a CV should showcase both creative and technical skills, along with relevant experience. Here’s a general structure you can follow:
+# Resources
+
+- https://resumegenius.com/resume-samples/web-designer-resume#articleswrap
+- https://www.reddit.com/r/jobs/comments/13xkyb9/how_to_create_an_outstanding_resume_in_2023/
+
+
+# Random Blocks of data for CV
 
 ### 1. **Personal Information**
 
-- [x] Full name
+- [x] Zine Eddine Abdallah El Hadj
+	- [ ] Whats the most pro way of writing the name and last name
 - [x] Contact information (Phone number, Email)
 	- [x] Use abdalahelhadj. Zineeddine@gmail. Com
 - [x] Website or online portfolio link
@@ -20,16 +27,16 @@ For a web designer and graphic designer, a CV should showcase both creative and 
 
 Break this into two categories:
 
-- [ ] **Design Skills**: 
-	- Web Design
-	- Web Development (HTML, CSS, JavaScript)
-	- Responsive Design
-	- User Experience (UX)
-	- Design Systems & UI Development
-	- Branding & Visual Identity (Logo Design, Color Systems, Guidelines)
-	- Photo Manipulation & Retouching
-	- Generative AI for Creative Projects
-	- Graphic Design (Social Media Posts, Printables, Packaging)
+
+- Web Design: Wireframing, Site Maps, Design Systems, Prototyping, Responsive Design, Mobile First Design 
+- Web Development: Design Tokens*, Wordpress, git, syncfusion, web hosting, woocommerce, LMS, webmaster, 
+- Responsive Design
+- User Experience (UX)
+- Design Systems & UI Development
+- Branding & Visual Identity (Logo Design, Color Systems, Guidelines)
+- Photo Manipulation & Retouching
+- Generative AI for Creative Projects
+- Graphic Design (Social Media Posts, Printables, Packaging)
 - [ ] **Technical Skills**: Adobe Creative Suite (Photoshop, Illustrator, InDesign, XD), Figma, HTML, CSS, JavaScript, WordPress, etc.
 
 ### 4. **Professional Experience**
@@ -71,3 +78,10 @@ List your relevant work experience in reverse chronological order. Include:
 - [ ] Mention that references are available upon request or include them if required.
 
 This structure ensures your CV is concise but also comprehensive, making it easy for potential employers or clients to see your capabilities and expertise.
+
+
+
+
+
+
+- [ ] Need to get some certifications
