@@ -41,14 +41,12 @@ Lots of students have argued with me during practice and said the statement is 
 4. There will be **at least one** of all three answers. If you don’t have at least one ‘true’, ‘false’ or ‘not given’ you have at least one answer wrong.
 5. Don’t skim and scan the text to find the final answer. You will have to read the appropriate part of the text very carefully in order to understand what the author means.
 6. Don’t look for words that exactly match those in the statements. You should also look for synonyms. Remember that you are **matching meaning, not words.**
-7. If you can’t find the information you are looking for, then it is probably ‘not given’. Don’t waste time looking for something that is not there.
-8. If you have no idea what the answer is put ‘not given’. You probably have no idea because the answer is not there.
-9. Answers are in the same order they appear in the text. Do not waste time going back. Keep on reading.
-10. YES/NO/NOT GIVEN questions are slightly different because they deal with **opinion**. TRUE/FALSE/NOT GIVEN questions deal with **facts**.
+7. ==If you can’t find the information you are looking for, then it is probably ‘not given’. ==Don’t waste time looking for something that is not there.
+8. ==If you have no idea what the answer is put ‘not given’.== You probably have no idea because the answer is not there.
+9. ==Answers are in the same order they appear in the text.== Do not waste time going back. Keep on reading.
+10. ==YES/NO/NOT GIVEN questions are slightly different because they deal with **opinion**. TRUE/FALSE/NOT GIVEN questions deal with **facts**.==
 
 ### **True, False, Not Given Strategy** 
-
-This is my suggested strategy. There are many different strategies and you should use the one you feel comfortable with. You can also adapt this strategy to what suits you.
 
 1. Always read the instructions carefully and make sure you know if it is a TRUE/FALSE/NOT GIVEN or YES/NO/NOT GIVEN question.
 2. Read all the statements carefully, trying to understand what the whole sentence means rather than simply highlighting keywords. Watch out for qualifying words such as _some or always._ 
