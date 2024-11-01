@@ -85,3 +85,19 @@ This structure ensures your CV is concise but also comprehensive, making it easy
 
 
 - [ ] Need to get some certifications
+
+
+
+# Resume best practices
+
+- Resumes with LinkedIn profiles get more chances of hiring, but only those with sophisticated profiles
+	- [LinkedIn profile tips](https://www.youtube.com/watch?v=BcfGWi8Qywk&list=PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW&index=2)
+- Including relevant soft skills is usually neglected. Here are some you can use, and look for more recent studies and sources.
+	- https://business.udemy.com/resources/5-workplace-learning-trends-2020/thanks/?utm_source=organic-social&utm_medium=youtube
+	- https://www.cnbc.com/2019/11/21/10-top-soft-skills-to-master-for-2020-if-you-want-a-raise-promotion-or-new-job.html
+- Include metrics in your accomplishments, use the XYZ formula: Accomplished X as measured by Y, by doing Z.
+	- For our case, since we have no real measurements, we can say:
+		  - Being in charge of [the visual aspect of the project] Lead to a [57%] increase in productivity for the development team, [beacause they could focus on what they do best]
+		  - A [57%] increase in productivity for the development team, by creating a consistent design system and guidelines
+		  - Increased user experience by [40%] by analyzing user flows and enhancing them and implementing consistent workflows (forms, navigation, correct phrasing, localization...)
+		  - Significant increase of software usability by testing and reporting issues,  errors and bugs, and proposing better approacheds 
