@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/CV.md",
+                "file": "Study Notes/IELTS/Writing/My weak points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CV"
+              "title": "Outgoing links from My weak points"
             }
           },
           {
@@ -224,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/CV.md"
+                "file": "Study Notes/IELTS/Writing/My weak points.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CV"
+              "title": "Outline of My weak points"
             }
           }
         ],
@@ -248,10 +248,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7670af084951a4df",
+  "active": "45a90c527a1cda66",
   "lastOpenFiles": [
-    "Study Notes/IELTS/Reading/General strategy for all types.md",
     "Business/CV.md",
+    "Study Notes/IELTS/Reading/General strategy for all types.md",
     "Study Notes/IELTS/Reading/Question types/Diagram labeling.md",
     "Assets/ielts-reading-beehive.png",
     "Assets/ielts-reading-diagram-completion.png",
