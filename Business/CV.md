@@ -23,21 +23,21 @@
 - [ ] A brief 2-3 sentence summary of your expertise, key skills, and what you bring to potential employers. Highlight specific tools, techniques, or industries you're experienced in.
 	- A versatile web and graphic designer with expertise in web design, development, responsive design, and user experience. With a strong background in both corporate and freelance environments, I have developed comprehensive design systems, branding, and UI/UX for software applications, including a full visual identity for an ERP system. Skilled in HTML, CSS, and generative AI tools, I bring a creative and technical approach to each project. Seeking to contribute innovative design solutions to agencies or corporate teams.
 
-### 3. **Skills**
-
-Break this into two categories:
-
+### 3. **Hard Skills**
 
 - Web Design: Wireframing, Site Maps, Design Systems, Prototyping, Responsive Design, Mobile First Design 
-- Web Development: Design Tokens*, Wordpress, git, syncfusion, web hosting, woocommerce, LMS, webmaster, 
-- Responsive Design
-- User Experience (UX)
-- Design Systems & UI Development
-- Branding & Visual Identity (Logo Design, Color Systems, Guidelines)
+- Web Development: Design Tokens*, Wordpress, git, syncfusion, web hosting, woocommerce, LMS, webmaster, SEO
+- Languages and libraries: HTML, CSS, Sass, JavaScript, Bootstrap, Tailwind, Material, 
+- Branding & Visual Identity (Logo Design, Color Systems, Guidelines, Social Media Posts, Printables, Packaging, Stationery)
 - Photo Manipulation & Retouching
-- Generative AI for Creative Projects
-- Graphic Design (Social Media Posts, Printables, Packaging)
-- [ ] **Technical Skills**: Adobe Creative Suite (Photoshop, Illustrator, InDesign, XD), Figma, HTML, CSS, JavaScript, WordPress, etc.
+- Generative AI 
+- **Tools**: Adobe Creative Suite (Photoshop, Illustrator, InDesign, XD), Figma, Make, ClaudeAI*, 
+
+### 4. Soft Skills
+Add measured metrics with each soft skill in order to make it not a buzzword
+- X
+- X
+- X
 
 ### 4. **Professional Experience**
 
@@ -92,12 +92,26 @@ This structure ensures your CV is concise but also comprehensive, making it easy
 
 - Resumes with LinkedIn profiles get more chances of hiring, but only those with sophisticated profiles
 	- [LinkedIn profile tips](https://www.youtube.com/watch?v=BcfGWi8Qywk&list=PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW&index=2)
+
 - Including relevant soft skills is usually neglected. Here are some you can use, and look for more recent studies and sources.
 	- https://business.udemy.com/resources/5-workplace-learning-trends-2020/thanks/?utm_source=organic-social&utm_medium=youtube
 	- https://www.cnbc.com/2019/11/21/10-top-soft-skills-to-master-for-2020-if-you-want-a-raise-promotion-or-new-job.html
+
 - Include metrics in your accomplishments, use the XYZ formula: Accomplished X as measured by Y, by doing Z.
 	- For our case, since we have no real measurements, we can say:
 		  - Being in charge of [the visual aspect of the project] Lead to a [57%] increase in productivity for the development team, [beacause they could focus on what they do best]
 		  - A [57%] increase in productivity for the development team, by creating a consistent design system and guidelines
 		  - Increased user experience by [40%] by analyzing user flows and enhancing them and implementing consistent workflows (forms, navigation, correct phrasing, localization...)
-		  - Significant increase of software usability by testing and reporting issues,  errors and bugs, and proposing better approacheds 
+		  - Significant increase of software usability by deep testing and reporting issues,  errors and bugs, and suggesting better approaches.
+		  - Increased brand awareness by creating consistent and standing out brand identity across all supports
+		  - Increase of understanding of design principles by developers by informing them
+
+- Make the resume length between 475 and 600 words
+
+- Don't use buzzwords or resume cliches (Motivated, creative thinker, Innovative...)
+	- Search google: buzzwords and resume cliches, and remove those from your resume 
+
+- Adapt your resume to each job you are applying for 
+
+- **Personal tip**: if I include my masters degree in electrical engineering, it might look like I am overqualified, and like I underestimated myself. Let that sink in...
+
