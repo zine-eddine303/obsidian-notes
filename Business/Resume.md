@@ -3,7 +3,6 @@
 - https://resumegenius.com/resume-samples/web-designer-resume#articleswrap
 - https://www.reddit.com/r/jobs/comments/13xkyb9/how_to_create_an_outstanding_resume_in_2023/
 
-
 # Random Blocks of data for CV
 
 ### 1. **Personal Information**
