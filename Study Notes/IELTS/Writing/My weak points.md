@@ -1,28 +1,29 @@
 
 # Misspellings
 
-| False           | Correct           | Remark                                                |     |
-| --------------- | ----------------- | ----------------------------------------------------- | --- |
-| Truelly         | Truly             |                                                       |     |
-| Oppurtunitinity | Opportunity       |                                                       |     |
-| Squirel         | Squirrel          |                                                       |     |
-| Whethere        | Whether           |                                                       |     |
-| developement    | Development       |                                                       |     |
-| Furthur         | Further           |                                                       |     |
-| Eachother       | Each other        |                                                       |     |
-| Negliged        | Neglected         |                                                       |     |
-| Successfull     | Successful        |                                                       |     |
-| Evidences       | Evidence          | The plural of evidence is evidence (uncountable word) |     |
-| Inspite         | In spite          |                                                       |     |
-| Layed           | Laid              |                                                       |     |
-| .==e==arth      | ==E==arth         |                                                       |     |
-| Synonim         | Synonym           |                                                       |     |
-| Coloni==s==ing  | Coloni==z==ing    |                                                       |     |
-| Sattelites      | Satellites        | Always check where the stress is located              |     |
-| Enviromental    | Enviro==n==mental |                                                       |     |
-| Fuel powered    | Fuel==-==powered  |                                                       |     |
-| Polution        | Pol==l==ution     |                                                       |     |
-| Decipline       | Discipline        |                                                       |     |
+| False           | Correct           | Remark                                                                      |
+| --------------- | ----------------- | --------------------------------------------------------------------------- |
+| Truelly         | Truly             |                                                                             |
+| Oppurtunitinity | Opportunity       |                                                                             |
+| Squirel         | Squirrel          |                                                                             |
+| Whethere        | Whether           |                                                                             |
+| developement    | Development       |                                                                             |
+| Furthur         | Further           |                                                                             |
+| Eachother       | Each other        |                                                                             |
+| Negliged        | Neglected         |                                                                             |
+| Successfull     | Successful        |                                                                             |
+| Evidences       | Evidence          | The plural of evidence is evidence (uncountable word)                       |
+| Inspite         | In spite          |                                                                             |
+| Layed           | Laid              |                                                                             |
+| .==e==arth      | ==E==arth         |                                                                             |
+| Synonim         | Synonym           |                                                                             |
+| Coloni==s==ing  | Coloni==z==ing    |                                                                             |
+| Sattelites      | Satellites        | Always check where the stress is located                                    |
+| Enviromental    | Enviro==n==mental |                                                                             |
+| Fuel powered    | Fuel==-==powered  |                                                                             |
+| Polution        | Pol==l==ution     |                                                                             |
+| Decipline       | Discipline        |                                                                             |
+| ==s==aturday    | ==S==aturday      | Days, months, and holidays are always capitalized as these are proper nouns |
 
 
 # Grammar
