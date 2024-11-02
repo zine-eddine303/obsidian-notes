@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Reading/Question types/True, false or not given.md",
+                "file": "Study Notes/IELTS/Reading/General strategy for all types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "True, false or not given"
+              "title": "General strategy for all types"
             }
           },
           {
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study Notes/IELTS/Reading/Question types/True, false or not given.md",
+                "file": "Study Notes/IELTS/Reading/General strategy for all types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from True, false or not given"
+              "title": "Outgoing links from General strategy for all types"
             }
           },
           {
@@ -224,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/Reading/Question types/True, false or not given.md"
+                "file": "Study Notes/IELTS/Reading/General strategy for all types.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of True, false or not given"
+              "title": "Outline of General strategy for all types"
             }
           }
         ],
@@ -250,6 +250,7 @@
   },
   "active": "45a90c527a1cda66",
   "lastOpenFiles": [
+    "Study Notes/IELTS/Reading/Question types/True, false or not given.md",
     "Study Notes/IELTS/Reading/Question types/Matching Information to Paragraphs.md",
     "Study Notes/IELTS/Reading/Question types/Matching headings.md",
     "Study Notes/IELTS/Reading/Question types/Diagram labeling.md",
@@ -262,7 +263,6 @@
     "Study Notes/IELTS/Reading/Question types/Multiple choice.md",
     "Study Notes/IELTS/Reading/Question types/Sentence completion.md",
     "Study Notes/IELTS/Reading/Question types/Short answer.md",
-    "Study Notes/IELTS/Reading/Question types/True, false or not given.md",
     "Study Notes/IELTS/Reading/Question types/Summary completion.md",
     "Study Notes/Video notes/Web Design Agency Beginners Guide in 2024 (5 hrs FULL Course).md",
     "Assets/ielts-matching-features.png",
