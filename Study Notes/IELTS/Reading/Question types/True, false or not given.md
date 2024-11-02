@@ -48,9 +48,9 @@ Lots of students have argued with me during practice and said the statement is 
 
 ### **True, False, Not Given Strategy** 
 
-1. Always read the instructions carefully and make sure you know if it is a TRUE/FALSE/NOT GIVEN or YES/NO/NOT GIVEN question.
+1. Read the instructions carefully and make sure you know if it is a TRUE/FALSE/NOT GIVEN or YES/NO/NOT GIVEN question.
 2. Read all the statements carefully, trying to understand what the whole sentence means rather than simply highlighting keywords. Watch out for qualifying words such as _some or always._ 
-3. Try to think of what synonyms might be in the text. This will help you identify the matching part of the text.
+3. Think of what synonyms might be in the text. This will help you identify the matching part of the text.
 4. Match the statement with the correct part of the text.
 5. Focus on the statement again and then carefully read the matching part of the text to establish if it is true or false. Remember the meaning should exactly match that of the statement if it is true.
 6. Underline the words that give you the answer, this will help you focus and you can check back later. Again, be careful there are no qualifying words in the text.
