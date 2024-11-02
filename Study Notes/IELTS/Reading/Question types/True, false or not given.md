@@ -11,13 +11,13 @@ This is probably the most difficult question on the reading paper.
 
 ### **Common Problems**
 
-The biggest problem here is the ‘not given’ option. Most students are not used to answering questions like this and it causes them lots of problems because they are not sure what to look for. They also spend too much time making sure that it is ‘not given’ and this affects the rest of their test.
+- The biggest problem here is the ‘not given’ option. Most students are not used to answering questions like this and it causes them lots of problems because they are not sure what to look for. They also spend too much time making sure that it is ‘not given’ and this affects the rest of their test.
 
-Students also fail to understand exactly what each statement means and therefore cannot identify if it is true or false. Many focus on keywords instead of understanding what the **statement as a whole** means.
+- Students also fail to understand exactly what each statement means and therefore cannot identify if it is true or false. Many focus on keywords instead of understanding what the **statement as a whole** means.
 
-Another common mistake is identifying keywords in the statements and then trying to find words that exactly match them in the text. You can do this, but more often the words will be synonyms.
+- Another common mistake is identifying keywords in the statements and then trying to find words that exactly match them in the text. You can do this, but more often the words will be synonyms.
 
-Finally, some students fail to understand exactly what true, false and not given actually mean and get confused.
+- Finally, some students fail to understand exactly what true, false and not given actually mean and get confused.
 
 ### **What do TRUE, FALSE and NOT GIVEN mean?** 
 
