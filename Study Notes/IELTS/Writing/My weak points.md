@@ -38,3 +38,14 @@
 - Practice more articles
 - ==If you only eliminate very minor and stupid mistakes, you can improve your ban significantly by 1 or 1.5==
 - Understand the difference between **[[Opinion essays]]** and **[[Discussion essays]]**
+- ==Need to be more detailed in Task 1.==
+- 
+
+# Better phrasing for task 1
+
+| ❌                                                                                                         | ✅                                                                                                                | Remark |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------ |
+| The graph demonstrates                                                                                    | The graph illustrates                                                                                            |        |
+| food *takes* 7% more than it takes for households with more than 150 thousand dollars of income per year. | Food *accounts for* 7% more than it takes for households with more than 150 thousand dollars of income per year. |        |
+| *valued* by only 3% of their low salaries                                                                 | *accounting for* only 3% of their low salaries.                                                                  |        |
+| Spending equally - proportion wise - ==to== the high income category in health and eating out.            | Spending equally *—proportion-wise—* *==as==* the high-income category on health and eating out.                 |        |
