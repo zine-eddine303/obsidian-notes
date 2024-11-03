@@ -55,8 +55,23 @@ Part 2 is sometimes called the ‘long turn’. You will be given a cue card, an
 - The examiner should understand what you're saying (pronounciation, grammar, vocabulary)
 ## Common problems
 
-1. Unable to speak for 2 mins
+- Unable to speak for 2 mins
 	- Lack of development: you should speak in detail about each bullet point, you have 2 minustes and you have to talk through them
+
+## Common mistakes
+
+- Talk about each bullet point in order
+	- It makes you run of ideas
+
+## Best strategy
+
+- Establish the main topic: Understand what it is
+- Think about each bullet point: decide which bullet points that you want to talk about, and the ones you dont want to talk about
+- Add a point that can help you talk about the topic
+- Think about what you want to say
+	- This might be hard to do all of this in a minute, but you can with practice 
+- Think naturally until the examiner stops you
+
 # Part 3 
 Part 3 is more abstract. This is your opportunity to really develop your answers and discuss the issues brought up by the examiner. ==The topic will be linked to the topic you discussed in Part 2==, which will last 4-5 minutes.
 
