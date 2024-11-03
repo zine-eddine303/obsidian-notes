@@ -8,105 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ae46b62bc630847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Notes/IELTS/Writing/Task 1/Tips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tips"
-            }
-          },
-          {
-            "id": "7670af084951a4df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Notes/IELTS/Reading/Question types/Matching headings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matching headings"
-            }
-          },
-          {
-            "id": "3760a7d34d8122c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Notes/IELTS/Reading/Question types/Diagram labeling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diagram labeling"
-            }
-          },
-          {
             "id": "45a90c527a1cda66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/IELTS Structure.md",
+                "file": "Study Notes/IELTS/Speaking/Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IELTS Structure"
-            }
-          },
-          {
-            "id": "d27e828e55c7332f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Notes/IELTS/IELTS Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IELTS Structure"
-            }
-          },
-          {
-            "id": "8df38300fd49c4aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/Essay types/Double-question essays.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Double-question essays"
-            }
-          },
-          {
-            "id": "492ada214c31612b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Notes/IELTS/Writing/Task 1/Types of questions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Types of questions"
+              "title": "Structure"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/IELTS Structure.md"
+                "file": "Study Notes/IELTS/Speaking/Structure.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of IELTS Structure"
+              "title": "Outline of Structure"
             }
           }
         ],
@@ -250,6 +165,9 @@
   },
   "active": "45a90c527a1cda66",
   "lastOpenFiles": [
+    "Study Notes/IELTS/IELTS Structure.md",
+    "Study Notes/IELTS/Speaking/Structure.md",
+    "Study Notes/IELTS/Speaking",
     "Study Notes/IELTS/Reading/General strategy for all types.md",
     "Study Notes/IELTS/Reading/Question types/True, false or not given.md",
     "Study Notes/IELTS/Reading/Question types/Matching Information to Paragraphs.md",
@@ -274,7 +192,6 @@
     "Assets/ielts-reading-summary-completion.png",
     "Study Notes/IELTS/Reading/Question types",
     "Assets/mcq-1.png",
-    "Study Notes/IELTS/IELTS Structure.md",
     "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md",
     "Study Notes/IELTS/Reading",
     "Study Notes/IELTS/Untitled.md",
@@ -287,7 +204,6 @@
     "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/Opinion essay.md",
     "Study Notes/IELTS/Writing/Task 1/Tips.md",
-    "Study Notes/IELTS/Writing/Task 1/My essay 2.md",
     "Assets/IELTS-and-the-CEFR-06.jpeg",
     "Study Notes/IELTS/Writing/Task 1",
     "Untitled.canvas",
@@ -296,7 +212,6 @@
     "Study Notes/IELTS/Writing",
     "Study Notes/IELTS/Writing/Task 2/My essays",
     "smart-chats",
-    "Study Notes/IELTS",
     "Untitled 1.canvas"
   ]
 }
