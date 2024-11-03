@@ -24,6 +24,7 @@
 | Polution        | Pol==l==ution     |                                                                             |
 | Decipline       | Discipline        |                                                                             |
 | ==s==aturday    | ==S==aturday      | Days, months, and holidays are always capitalized as these are proper nouns |
+| Caracteristic   | Characteristic    |                                                                             |
 
 
 # Grammar
@@ -43,9 +44,11 @@
 
 # Better phrasing for task 1
 
-| ❌                                                                                                         | ✅                                                                                                                | Remark |
-| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------ |
-| The graph demonstrates                                                                                    | The graph illustrates                                                                                            |        |
-| food *takes* 7% more than it takes for households with more than 150 thousand dollars of income per year. | Food *accounts for* 7% more than it takes for households with more than 150 thousand dollars of income per year. |        |
-| *valued* by only 3% of their low salaries                                                                 | *accounting for* only 3% of their low salaries.                                                                  |        |
-| Spending equally - proportion wise - ==to== the high income category in health and eating out.            | Spending equally *—proportion-wise—* *==as==* the high-income category on health and eating out.                 |        |
+| ❌                                                                                                         | ✅                                                                                                                | Remark                                                               |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| The graph demonstrates                                                                                    | The graph illustrates                                                                                            |                                                                      |
+| food *takes* 7% more than it takes for households with more than 150 thousand dollars of income per year. | Food *accounts for* 7% more than it takes for households with more than 150 thousand dollars of income per year. |                                                                      |
+| *valued* by only 3% of their low salaries                                                                 | *accounting for* only 3% of their low salaries.                                                                  |                                                                      |
+| Spending equally - proportion wise - ==to== the high income category in health and eating out.            | Spending equally *—proportion-wise—* *==as==* the high-income category on health and eating out.                 |                                                                      |
+| Will keep growing                                                                                         | Will continue to grow                                                                                            | more formal                                                          |
+| 50 million==s==                                                                                           | 50 million                                                                                                       | The plural form "millions" isn't used when a specific number follows |
