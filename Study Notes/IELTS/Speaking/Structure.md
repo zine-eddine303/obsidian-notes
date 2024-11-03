@@ -43,15 +43,20 @@ This part is ABOUT YOU, The examiner will ask you familiar, everyday questions a
 
 Answer > Explain > Example (not for all types of questions, only where it is relevant to give an example)
 
-
-
-
-
-
-
 # Part 2
-Part 2 is sometimes called the ‘long turn’. You will be given a cue card, and you will have 1 minute to prepare your answer. You will then be asked to speak for 1 to 2 minutes.
 
+Part 2 is sometimes called the ‘long turn’. You will be given a cue card, and you will have 1 minute to prepare your answer. You will then be asked to speak for 1 to 2 minutes.
+ 
+## what is the goal?
+- Speak fluently and coherently for up to 2 minutes about the topic
+	- Fluently: doesnt mean that you shouldn't stop or pause, it means that you should speak naturally and you can make natural pasues (to formulate ideas).
+	  Dont make unnatural pauses (pauses to think about grammar and verbs and such)
+	- Coherently; stick to the topic 
+- The examiner should understand what you're saying (pronounciation, grammar, vocabulary)
+## Common problems
+
+1. Unable to speak for 2 mins
+	- Lack of development: you should speak in detail about each bullet point, you have 2 minustes and you have to talk through them
 # Part 3 
 Part 3 is more abstract. This is your opportunity to really develop your answers and discuss the issues brought up by the examiner. ==The topic will be linked to the topic you discussed in Part 2==, which will last 4-5 minutes.
 
