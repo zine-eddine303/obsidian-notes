@@ -22,7 +22,7 @@ This part is ABOUT YOU, The examiner will ask you familiar, everyday questions a
 
 # Common answer mistakes
 
-- Too long (dont give too much info especially if you go out of the question's scope)
+- Too long (don't give too much info especially if you go out of the question's scope)
 - Too short (just answer the question and provide some extra detail)
 	- Example: *What do you do in your life?* 
 	  ❌ I'm a web designer. 
@@ -31,7 +31,19 @@ This part is ABOUT YOU, The examiner will ask you familiar, everyday questions a
 - Trying to impress the examiner
 - Robotic delivery
 - Memorize questions and answers (the examiners are trained to spot those)
-- 
+
+## Best practices
+
+- Be natural
+- Elaborate (give examples and general details)
+- Coherence (answer the actual question that you've been asked)
+- Be specific when you are asked about a specific thing, don't give general answers for them
+
+# How to answer
+
+Answer > Explain > Example (not for all types of questions, only where it is relevant to give an example)
+
+
 
 
 

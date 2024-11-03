@@ -8,4 +8,4 @@
 
 # Mistakes
 
-- I go outside the scope of the question. I should respond to the question directly and without adding irrelevant info, and also without explaining and elaborating too much if im not asked to do so.
+- I go outside the scope of the question
