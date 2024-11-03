@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Speaking/My weak points.md",
+                "file": "Study Notes/IELTS/Speaking/Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My weak points"
+              "title": "Structure"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/Speaking/My weak points.md"
+                "file": "Study Notes/IELTS/Speaking/Structure.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of My weak points"
+              "title": "Outline of Structure"
             }
           }
         ],
@@ -165,8 +165,8 @@
   },
   "active": "45a90c527a1cda66",
   "lastOpenFiles": [
-    "Study Notes/IELTS/Speaking/Structure.md",
     "Study Notes/IELTS/Speaking/My weak points.md",
+    "Study Notes/IELTS/Speaking/Structure.md",
     "Study Notes/IELTS/IELTS Structure.md",
     "Study Notes/IELTS/Speaking",
     "Study Notes/IELTS/Reading/General strategy for all types.md",

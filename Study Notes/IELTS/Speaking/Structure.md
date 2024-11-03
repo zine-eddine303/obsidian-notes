@@ -1,8 +1,41 @@
 Made of 3 different parts, each part had different questions and different answers.
 You should treat each part separately.
 
+## Don't worry about:
+
+- Body language
+- Hand gestures
+- Clothing
+- Eye contact
+- Greeting
+- The examiner
+
+## Worry about
+
+- Pronounciation
+- Vocuabulary
+- Fluency and cohernece
+- Grammar
+
 # Part 1
 This part is ABOUT YOU, The examiner will ask you familiar, everyday questions about your life. This will last around 4-5 minutes. See the links below for tips, sample questions and answers for Part 1.
+
+# Common answer mistakes
+
+- Too long (dont give too much info especially if you go out of the question's scope)
+- Too short (just answer the question and provide some extra detail)
+	- Example: *What do you do in your life?* 
+	  ❌ I'm a web designer. 
+	  ✅ I design websites and develop them for clients as a freelancer. 
+	  ✅ I'm a web designer, I create websites and develop them for business owners 
+- Trying to impress the examiner
+- Robotic delivery
+- Memorize questions and answers (the examiners are trained to spot those)
+- 
+
+
+
+
 
 # Part 2
 Part 2 is sometimes called the ‘long turn’. You will be given a cue card, and you will have 1 minute to prepare your answer. You will then be asked to speak for 1 to 2 minutes.
