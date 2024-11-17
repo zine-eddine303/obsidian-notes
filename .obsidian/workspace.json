@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "45945822f21664c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "f89020a1f0fb3e40",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "304fe1808d46c018",
+  "active": "45945822f21664c8",
   "lastOpenFiles": [
     "Study Notes/IELTS/Writing/Grammar and vocabulary.md",
     "Study Notes/IELTS/Writing/My weak points.md",
