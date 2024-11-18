@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Business/Resume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 5"
+              "title": "Resume"
             }
           }
         ],
@@ -127,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "start",
+                "query": "resum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,10 +214,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 5.md"
+                "file": "Business/Resume.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 5"
+              "title": "Outline of Resume"
             }
           }
         ],
@@ -238,7 +238,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f0ae35f7c767b885",
+  "active": "89b402b9bf102bd2",
   "lastOpenFiles": [
     "Untitled 5.md",
     "Untitled 4.md",
