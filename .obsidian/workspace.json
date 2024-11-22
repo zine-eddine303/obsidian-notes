@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Untitled 4"
             }
+          },
+          {
+            "id": "0496391a2a8c9c5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b27af1d504d718fe",
@@ -238,7 +251,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "89b402b9bf102bd2",
+  "active": "0496391a2a8c9c5b",
   "lastOpenFiles": [
     "Untitled 5.md",
     "Untitled 4.md",
