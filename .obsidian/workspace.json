@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles.md",
+                "file": "Articles and posts/Why we use 12 collumn grids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Articles"
+              "title": "Why we use 12 collumn grids"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles.md",
+                "file": "Articles and posts/Articles list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Articles"
+              "title": "Articles list"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles.md"
+                "file": "Articles and posts/Why we use 12 collumn grids.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Articles"
+              "title": "Outline of Why we use 12 collumn grids"
             }
           }
         ],
@@ -194,6 +194,10 @@
   },
   "active": "867e1b336e1349ad",
   "lastOpenFiles": [
+    "Assets/d4cfac35-d3c6-4ef5-b68b-312324b7eb9c-cover.png",
+    "Articles and posts/Articles list.md",
+    "Articles and posts/Why we use 12 collumn grids.md",
+    "Articles and posts",
     "Auto Entrepreneur/Impots g12.md",
     "Auto Entrepreneur/Impots.md",
     "Untitled 3.md",
@@ -203,7 +207,6 @@
     "Untitled.md",
     "opinion questions.md",
     "Auto entrepreneur.md",
-    "Articles.md",
     "Study Notes/IELTS/Writing/Grammar and vocabulary.md",
     "Study Notes/IELTS/Writing/My weak points.md",
     "Assets/Pasted image 20241103191554.png",
@@ -224,7 +227,6 @@
     "Study Notes/IELTS/Reading/Question types/Multiple choice.md",
     "Study Notes/IELTS/Reading/Question types/Sentence completion.md",
     "Study Notes/IELTS/Reading/Question types/Short answer.md",
-    "Study Notes/IELTS/Reading/Question types/Summary completion.md",
     "Assets/ielts-matching-features.png",
     "Assets/ielts-true-false-not-given-example.png",
     "Assets/ielts-reading-sentence-completion.png",
@@ -239,7 +241,6 @@
     "Habits",
     "Study Notes/IELTS/Writing/Task 2",
     "Study Notes/IELTS/Writing",
-    "Study Notes/IELTS/Writing/Task 2/My essays",
     "Untitled 1.canvas"
   ]
 }
