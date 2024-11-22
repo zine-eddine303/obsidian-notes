@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles and posts/Why we use 12 collumn grids.md"
+                "file": "Articles and posts/Articles list.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Why we use 12 collumn grids"
+              "title": "Outline of Articles list"
             }
           }
         ],
@@ -192,11 +192,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "867e1b336e1349ad",
+  "active": "8863ff458b41a6c2",
   "lastOpenFiles": [
+    "Articles and posts/Why we use 12 collumn grids.md",
     "Assets/d4cfac35-d3c6-4ef5-b68b-312324b7eb9c-cover.png",
     "Articles and posts/Articles list.md",
-    "Articles and posts/Why we use 12 collumn grids.md",
     "Articles and posts",
     "Auto Entrepreneur/Impots g12.md",
     "Auto Entrepreneur/Impots.md",
@@ -232,7 +232,6 @@
     "Assets/ielts-reading-sentence-completion.png",
     "Assets/complete-sentence-endings.png",
     "Assets/ielts-reading-summary-completion-with-list.png",
-    "Assets/ielts-reading-summary-completion.png",
     "Study Notes/IELTS/Reading/Question types",
     "Study Notes/IELTS/Reading",
     "Study Notes/IELTS/Writing/Task 2/Essay types",
