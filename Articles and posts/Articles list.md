@@ -1,5 +1,7 @@
-- [ ] Why use 12 collumn grids?
+- [ ] Why use 12 column grids?
 - [ ] What is a design system
+- [ ] What is a type scale
+- [ ] rem vs px
 - [ ] Talk about every user experience aspect and law https://lawsofux.com/
 - [ ] The Power of Custom Websites: Why Templates Might Not Be Enough
 - [ ] Evolution of web responsiveness
@@ -7,3 +9,4 @@
 - [ ] Share your story of becoming a graphic/web designer.
 - [ ] The Difference Between Graphic and Web Design (and Why You Might Need Both)
 - [ ] What Makes a Design Stand Out in a Saturated Market
+- [ ] Bento grids

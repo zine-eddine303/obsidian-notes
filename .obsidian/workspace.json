@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles and posts/Articles list.md"
+                "file": "Articles and posts/Why we use 12 collumn grids.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Articles list"
+              "title": "Outline of Why we use 12 collumn grids"
             }
           }
         ],
@@ -192,11 +192,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8863ff458b41a6c2",
+  "active": "867e1b336e1349ad",
   "lastOpenFiles": [
+    "Articles and posts/Articles list.md",
     "Articles and posts/Why we use 12 collumn grids.md",
     "Assets/d4cfac35-d3c6-4ef5-b68b-312324b7eb9c-cover.png",
-    "Articles and posts/Articles list.md",
     "Articles and posts",
     "Auto Entrepreneur/Impots g12.md",
     "Auto Entrepreneur/Impots.md",
