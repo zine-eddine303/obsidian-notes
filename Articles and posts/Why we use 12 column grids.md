@@ -77,7 +77,7 @@ Le nombre 12 est particulièrement intéressant en mathématiques car c'est un _
 
 Cette propriété rend le 12 très pratique pour créer des divisions égales. Par exemple :
 
-- Unités : 12÷1=12
+- Unités : 12 1=12
 - Moitiés : 12÷2=6
 - Tiers : 12÷3=4
 - Quarts : 12÷4=3
