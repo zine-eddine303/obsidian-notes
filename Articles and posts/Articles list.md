@@ -10,3 +10,4 @@
 - [ ] The Difference Between Graphic and Web Design (and Why You Might Need Both)
 - [ ] What Makes a Design Stand Out in a Saturated Market
 - [ ] Bento grids
+- [ ] Why algerian websites are ugly/confusing
