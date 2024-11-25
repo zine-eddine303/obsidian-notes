@@ -1,4 +1,4 @@
-- [ ] Why use 12 column grids?
+- [x] Why use 12 column grids?
 - [ ] What is a design system
 - [ ] What is a type scale
 - [ ] rem vs px

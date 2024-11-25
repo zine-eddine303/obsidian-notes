@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles and posts/Why we use 12 column grids.md",
+                "file": "Articles and posts/Design systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why we use 12 column grids"
+              "title": "Design systems"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles and posts/Why we use 12 column grids.md"
+                "file": "Articles and posts/Design systems.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Why we use 12 column grids"
+              "title": "Outline of Design systems"
             }
           }
         ],
@@ -195,6 +195,7 @@
   "active": "867e1b336e1349ad",
   "lastOpenFiles": [
     "Articles and posts/Articles list.md",
+    "Articles and posts/Design systems.md",
     "Articles and posts/Why we use 12 column grids.md",
     "Assets/d4cfac35-d3c6-4ef5-b68b-312324b7eb9c-cover.png",
     "Articles and posts",
