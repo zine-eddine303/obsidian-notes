@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "380496139f6bff31",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "8863ff458b41a6c2",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "867e1b336e1349ad",
+  "active": "380496139f6bff31",
   "lastOpenFiles": [
     "Articles and posts/Articles list.md",
     "Articles and posts/Why we use 12 column grids.md",
