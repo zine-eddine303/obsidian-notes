@@ -85,7 +85,7 @@
               "state": {
                 "file": "flowgics case study.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "flowgics case study"

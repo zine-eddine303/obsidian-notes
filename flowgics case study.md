@@ -70,24 +70,18 @@ When I joined KB Systems, **I had the opportunity to design and develop their br
 
 ## Challenges
 
-Their key goals were:
+To meet their business goals, KB Systems needed to overcome several challenges that stood in the way of effectively presenting their ERP software, Flowgics, and engaging with potential clients. These challenges included the following:
 
-- To create a **funnel** that would encourage potential clients to **make contact** or request an **invoice** for Flowgics.
-- To design and develop a **multilingual, accessible, and responsive website** that would effectively showcase Flowgics' features.
-- To ensure the website reflected the **brand identity** of the software.
-
-They also required seamless functionality:
-
-- A **dynamic invoice form** and a **contact form** with automated email redirection.
-- Support for **French and Arabic**, necessitating RTL design for the Arabic version of the website.
-
+- **Lack of an online presence:** They had no existing website to showcase their ERP software, Flowgics, or communicate its features effectively.
+- **Target audience engagement:** Creating a website that would resonate with the client segments and encourage them to take action, such as contacting the sales team or requesting an invoice.
+- **Technical complexity:** Developing a multilingual, accessible, and fully responsive website that could cater to both Arabic (RTL) and French-speaking audiences required intricate planning and execution.
 ## Objectives
 
 The main objectives of the project were to:
 
-1. **Build an intuitive and accessible website** to attract and convert potential clients.
-2. Create a seamless **contact and invoice request process** to connect users with the sales team.
-3. Use the software's **brand identity** and ensure high responsiveness across devices.
+1. **Develop an intuitive, accessible, and responsive website** to effectively showcase Flowgics and attract potential clients.
+2. **Implement a seamless process** for users to contact the sales team or request an invoice, ensuring ease of interaction.
+3. **Reflect the product's brand identity** consistently throughout the website to reinforce trust and professionalism.
 
 ## The Process
 
