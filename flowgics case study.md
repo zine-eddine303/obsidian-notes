@@ -139,52 +139,62 @@ This project helped me:
 
 # Personas
 
-## Persona 1: Small-to-Medium Business (SMB) Owner / Decision-Maker
-
 ### Persona 1: **Company Owner (General Persona)**
 
-- **Image:** A professional business owner, involved in day-to-day operations and decision-making.
+- **Image:** A busy business owner, juggling daily operations while planning for growth.
 - **Name:** Omar Al-Farsi
 - **Role:** Company Owner
 - **Age:** 35-50 years
 - **Income Level:** $60,000 - $150,000 annually
-- **Features:**
-    - Actively involved in managing the business’s growth and day-to-day operations.
-    - Focused on improving efficiency and reducing costs.
-    - Typically lacks in-depth technical knowledge but is interested in digital solutions that can simplify their business processes.
-    - Highly value-driven and seeks solutions that have clear ROI.
+- **Company Characteristics:**
+    - A medium-sized business with various operational challenges.
+    - Looking to streamline processes and gain better control over operations.
+    - Often overwhelmed with manual tasks and data management.
+    - Not deeply technical but understands the need for technology to help the business grow.
 - **Needs:**
-    - A user-friendly ERP system that is easy to understand and implement.
-    - A simple, clear, and engaging website that communicates the benefits of the software.
-    - An accessible, fast, and reliable way to get in touch with the sales team or request a demo.
+    - An easy-to-use ERP system that can automate processes and centralize information.
+    - Better insight into key business data to make informed decisions.
+    - Integration with accounting, inventory, and HR functions to save time.
 - **Motivation:**
-    - Aiming to scale the business, streamline operations, and save time.
-    - Looking for a system that helps them make informed decisions based on data.
+    - Interested in improving efficiency and scaling the business without increasing overhead.
+    - Seeks a solution that is simple to implement and can provide measurable results.
 - **Expectations:**
-    - A clear, accessible website that makes it easy for non-technical users to understand how the ERP can benefit their business.
-    - Straightforward contact forms and easy-to-find calls to action.
+    - A flexible ERP system that can adapt to their business size and complexity.
+    - Clear, intuitive interface that doesn’t require specialized technical knowledge.
+    - Affordable solution with good support and training.
+- **Attention to Website Functionality:**
+    - Before making a purchasing decision, Omar investigates the companies' branding thoroughly.
+    - He values clean, well-organized websites that reflect the company's professionalism and consistency.
+    - The website’s functionality and user experience are key indicators of the quality of the product or service he is considering.
+    - A website with a seamless, intuitive navigation, clear calls-to-action, and consistent branding will build trust in the ERP solution.
 
 ---
 
 ### Persona 2: **IT Director (General Persona)**
 
-- **Image:** An experienced IT director, responsible for overseeing all technical aspects of the company’s operations.
+- **Image:** A knowledgeable IT director, responsible for overseeing and optimizing the company’s IT infrastructure.
 - **Name:** Ahmed Zaki
 - **Role:** IT Director
 - **Age:** 40-55 years
 - **Income Level:** $100,000 - $200,000 annually
-- **Features:**
-    - In-depth technical knowledge, responsible for evaluating and implementing IT solutions within the company.
-    - Works with a team to ensure smooth system operations and integrations.
-    - Seeks reliable and scalable technology solutions that can improve efficiency and security.
-    - Prioritizes data integrity, system security, and technical support.
+- **Company Characteristics:**
+    - A company with more complex operations, requiring a scalable and robust ERP solution.
+    - Needs an ERP that integrates well with existing business systems (e.g., CRM, accounting, inventory).
+    - Concerned about data security, compliance, and IT system performance.
 - **Needs:**
-    - A flexible, scalable ERP system that integrates well with existing systems.
-    - A website that provides detailed technical specifications, security features, and integration capabilities.
-    - The ability to easily assess whether the ERP solution can meet the company’s long-term goals.
+    - A powerful ERP system with advanced capabilities and customizable features.
+    - A solution that integrates seamlessly with other tools and systems in place.
+    - High-level reporting, data analytics, and decision-making support.
 - **Motivation:**
-    - Aims to improve the company’s IT infrastructure and enhance decision-making through better data management and analytics.
-    - Wants a solution that simplifies operations while being secure and adaptable to future needs.
+    - Seeks to improve overall business efficiency by automating processes and improving data visibility.
+    - Aims to reduce IT overhead and maintenance costs through a centralized, easy-to-manage ERP solution.
 - **Expectations:**
-    - A website that highlights the ERP’s technical features, scalability, and integration capabilities.
-    - Clear information on how **Flowgics** can streamline workflows, improve reporting, and integrate with other systems.
+    - A secure, reliable ERP system that supports multi-department collaboration.
+    - Scalability to accommodate future business growth.
+    - Technical documentation and a strong support team to assist with implementation and troubleshooting.
+- **Attention to Website Functionality:**
+    - Ahmed looks for well-structured, professional websites that clearly communicate the technical capabilities and integration options of the ERP system.
+    - A responsive, well-functioning website that offers a seamless experience across devices is crucial for building confidence in the ERP solution.
+
+# Site map
+
