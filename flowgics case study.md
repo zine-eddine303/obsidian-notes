@@ -91,7 +91,7 @@ The main objectives of the project were to:
 
 ## The Process
 
-#### **Research & Planning**
+### Research & Planning
 
 Working closely with KB Systems, I became intimately familiar with Flowgics, its functionalities, and the challenges it solved for its users. This deep understanding shaped the foundation of the website.
 
@@ -100,14 +100,39 @@ Working closely with KB Systems, I became intimately familiar with Flowgics, its
 - **Visual Design & Design System:** Developed a design system for Flowgics, incorporating typography, color schemes, iconography, and UI components, ensuring the website was visually cohesive and aligned with the software's brand. 
   I used **Adobe Illustrator** and **Photoshop** to create custom visuals and illustrations tailored to Flowgics.
 
-#### **Design & Development**
+### Design & Development
 
 1. **Responsive Design:** Focused on mobile-first principles to ensure the site worked seamlessly across devices.
 2. **Custom Development:** Used **WordPress** with customizations in **HTML and CSS** to build the site.
 3. **Dynamic Features:** Integrated interactive forms that streamlined contact and invoice requests.
 4. **Multilingual Support:** Designed a dual-language interface with **RTL support for Arabic**, ensuring usability for both French and Arabic-speaking audiences.
 
-#### **Challenges & Solutions**
+## The Challenges
 
 - **Simplifying Technical Language:** Collaborated with the team to ensure the content was clear, concise, and accessible to non-technical users.
 - **RTL Compatibility:** Developed a custom approach to ensure proper alignment and functionality for Arabic text while maintaining design consistency.
+
+## The Solutions
+
+The finished website was:
+
+- **User-Friendly:** Clear CTAs, seamless navigation, and intuitive functionality.
+- **Responsive:** Optimized for desktops, tablets, and smartphones.
+- **Engaging:** Visually appealing, with professional illustrations and branding.
+- **Efficient:** Included a dynamic invoice form and email redirects, automating client interaction.
+- **Multilingual:** Fully supported both French and Arabic.
+
+
+## The Results
+
+- The website exceeded client expectations, generating **consistent daily traffic** and **invoice requests** shortly after launch.
+- KB Systems saw an increase in client inquiries, validating the site’s role as a lead generation tool.
+- Regular updates and performance enhancements further strengthened the client’s satisfaction.
+
+## Reflections & Takeaways
+
+This project helped me:
+
+- Deepen my understanding of the **ERP and IT industry**.
+- Hone my collaboration skills with non-design team members.
+- Perfect the art of balancing technical and design requirements in a project.
