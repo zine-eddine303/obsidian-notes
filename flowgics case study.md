@@ -136,3 +136,55 @@ This project helped me:
 - Deepen my understanding of the **ERP and IT industry**.
 - Hone my collaboration skills with non-design team members.
 - Perfect the art of balancing technical and design requirements in a project.
+
+# Personas
+
+## Persona 1: Small-to-Medium Business (SMB) Owner / Decision-Maker
+
+### Persona 1: **Company Owner (General Persona)**
+
+- **Image:** A professional business owner, involved in day-to-day operations and decision-making.
+- **Name:** Omar Al-Farsi
+- **Role:** Company Owner
+- **Age:** 35-50 years
+- **Income Level:** $60,000 - $150,000 annually
+- **Features:**
+    - Actively involved in managing the business’s growth and day-to-day operations.
+    - Focused on improving efficiency and reducing costs.
+    - Typically lacks in-depth technical knowledge but is interested in digital solutions that can simplify their business processes.
+    - Highly value-driven and seeks solutions that have clear ROI.
+- **Needs:**
+    - A user-friendly ERP system that is easy to understand and implement.
+    - A simple, clear, and engaging website that communicates the benefits of the software.
+    - An accessible, fast, and reliable way to get in touch with the sales team or request a demo.
+- **Motivation:**
+    - Aiming to scale the business, streamline operations, and save time.
+    - Looking for a system that helps them make informed decisions based on data.
+- **Expectations:**
+    - A clear, accessible website that makes it easy for non-technical users to understand how the ERP can benefit their business.
+    - Straightforward contact forms and easy-to-find calls to action.
+
+---
+
+### Persona 2: **IT Director (General Persona)**
+
+- **Image:** An experienced IT director, responsible for overseeing all technical aspects of the company’s operations.
+- **Name:** Ahmed Zaki
+- **Role:** IT Director
+- **Age:** 40-55 years
+- **Income Level:** $100,000 - $200,000 annually
+- **Features:**
+    - In-depth technical knowledge, responsible for evaluating and implementing IT solutions within the company.
+    - Works with a team to ensure smooth system operations and integrations.
+    - Seeks reliable and scalable technology solutions that can improve efficiency and security.
+    - Prioritizes data integrity, system security, and technical support.
+- **Needs:**
+    - A flexible, scalable ERP system that integrates well with existing systems.
+    - A website that provides detailed technical specifications, security features, and integration capabilities.
+    - The ability to easily assess whether the ERP solution can meet the company’s long-term goals.
+- **Motivation:**
+    - Aims to improve the company’s IT infrastructure and enhance decision-making through better data management and analytics.
+    - Wants a solution that simplifies operations while being secure and adaptable to future needs.
+- **Expectations:**
+    - A website that highlights the ERP’s technical features, scalability, and integration capabilities.
+    - Clear information on how **Flowgics** can streamline workflows, improve reporting, and integrate with other systems.
