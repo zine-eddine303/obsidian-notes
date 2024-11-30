@@ -66,11 +66,11 @@ Let me know if you’d like help organizing thizs information or if you want sug
 
 **KB Systems** specializes in delivering technological solutions to drive business growth, with their ERP software, **Flowgics**, at the core of their services. They also provide consulting and IT services, helping businesses streamline operations, digitize processes, and achieve their goals with efficiency and precision.
 
-When KB Systems embarked on their mission to provide ERP solutions through Flowgics, **I had the opportunity to design and develop their brand identity and design system from the ground up**, creating a consistent and professional visual presence across all platforms.
+When I joined KB Systems, **I had the opportunity to design and develop their brand identity and design system from the ground up**, creating a consistent and professional visual presence across all platforms.
 
-## The Challenge
+## Challenges
 
-When I joined KB Systems, they had no brand identity or website for their ERP software. Their key goals were:
+Their key goals were:
 
 - To create a **funnel** that would encourage potential clients to **make contact** or request an **invoice** for Flowgics.
 - To design and develop a **multilingual, accessible, and responsive website** that would effectively showcase Flowgics' features.
@@ -81,7 +81,7 @@ They also required seamless functionality:
 - A **dynamic invoice form** and a **contact form** with automated email redirection.
 - Support for **French and Arabic**, necessitating RTL design for the Arabic version of the website.
 
-## The Objectives
+## Objectives
 
 The main objectives of the project were to:
 
