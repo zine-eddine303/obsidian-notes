@@ -145,18 +145,14 @@ This project helped me:
     - Looking to streamline processes and gain better control over operations.
     - Often overwhelmed with manual tasks and data management.
     - Not deeply technical but understands the need for technology to help the business grow.
-- **Needs:**
-    - An easy-to-use ERP system that can automate processes and centralize information.
-    - Better insight into key business data to make informed decisions.
-    - Integration with accounting, inventory, and HR functions to save time.
 - **Motivation:**
     - Interested in improving efficiency and scaling the business without increasing overhead.
     - Seeks a solution that is simple to implement and can provide measurable results.
-- **Expectations:**
+- **Needs:**
     - A flexible ERP system that can adapt to their business size and complexity.
     - Clear, intuitive interface that doesn’t require specialized technical knowledge.
     - Affordable solution with good support and training.
-- **Attention to Website Functionality:**
+- **Additional info**
     - Before making a purchasing decision, Omar investigates the companies' branding thoroughly.
     - He values clean, well-organized websites that reflect the company's professionalism and consistency.
     - The website’s functionality and user experience are key indicators of the quality of the product or service he is considering.
@@ -186,7 +182,7 @@ This project helped me:
     - A secure, reliable ERP system that supports multi-department collaboration.
     - Scalability to accommodate future business growth.
     - Technical documentation and a strong support team to assist with implementation and troubleshooting.
-- **Attention to Website Functionality:**
+- **Additional info**
     - Ahmed looks for well-structured, professional websites that clearly communicate the technical capabilities and integration options of the ERP system.
     - A responsive, well-functioning website that offers a seamless experience across devices is crucial for building confidence in the ERP solution.
 
