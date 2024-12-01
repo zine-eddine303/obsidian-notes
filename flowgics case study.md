@@ -68,70 +68,7 @@ Let me know if you’d like help organizing thizs information or if you want sug
 
 When I joined KB Systems, **I had the opportunity to design and develop their brand identity and design system from the ground up**, creating a consistent and professional visual presence across all platforms.
 
-## Challenges
-
-To meet their business goals, KB Systems needed to overcome several challenges that stood in the way of effectively presenting their ERP software, Flowgics, and engaging with potential clients. These challenges included the following:
-
-- **Lack of an online presence:** They had no existing website to showcase their ERP software, Flowgics, or communicate its features effectively.
-- **Target audience engagement:** Creating a website that would resonate with the client segments and encourage them to take action, such as contacting the sales team or requesting an invoice.
-- **Technical complexity:** Developing a multilingual, accessible, and fully responsive website that could cater to both Arabic (RTL) and French-speaking audiences required intricate planning and execution.
-## Objectives
-
-The main objectives of the project were to:
-
-1. **Develop an intuitive, accessible, and responsive website** to effectively showcase Flowgics and attract potential clients.
-2. **Implement a seamless process** for users to contact the sales team or request an invoice, ensuring ease of interaction.
-3. **Reflect the product's brand identity** consistently throughout the website to reinforce trust and professionalism.
-
-## The Process
-
-### Research & Planning
-
-Working closely with KB Systems, I became intimately familiar with Flowgics, its functionalities, and the challenges it solved for its users. This deep understanding shaped the foundation of the website.
-
-- **Sitemap Development:** Created a comprehensive sitemap outlining the website structure, ensuring all critical features and pages were represented.
-- **Wireframing & Prototyping:** Designed wireframes and prototypes for each page, prioritizing user flow and simplicity.
-- **Design System:** Developed a design system for Flowgics, incorporating typography, color schemes, iconography, and UI components, ensuring the website was visually cohesive and aligned with the software's brand. 
-  I used **Adobe Illustrator** and **Photoshop** to create custom visuals and illustrations tailored to Flowgics.
-
-### Design & Development
-
-1. **Responsive Design:** Focused on mobile-first principles to ensure the site worked seamlessly across devices.
-2. **Custom Development:** Used **WordPress** with customizations in **HTML and CSS** to build the site.
-3. **Dynamic Features:** Integrated interactive forms that streamlined contact and invoice requests.
-4. **Multilingual Support:** Designed a dual-language interface with **RTL support for Arabic**, ensuring usability for both French and Arabic-speaking audiences.
-
-## The Challenges
-
-- **Simplifying Technical Language:** Collaborated with the team to ensure the content was clear, concise, and accessible to non-technical users.
-- **RTL Compatibility:** Developed a custom approach to ensure proper alignment and functionality for Arabic text while maintaining design consistency.
-
-## The Solutions
-
-The finished website was:
-
-- **User-Friendly:** Clear CTAs, seamless navigation, and intuitive functionality.
-- **Responsive:** Optimized for desktops, tablets, and smartphones.
-- **Engaging:** Visually appealing, with professional illustrations and branding.
-- **Efficient:** Included a dynamic invoice form and email redirects, automating client interaction.
-- **Multilingual:** Fully supported both French and Arabic.
-
-
-## The Results
-
-- The website exceeded client expectations, generating **consistent daily traffic** and **invoice requests** shortly after launch.
-- KB Systems saw an increase in client inquiries, validating the site’s role as a lead generation tool.
-- Regular updates and performance enhancements further strengthened the client’s satisfaction.
-
-## Reflections & Takeaways
-
-This project helped me:
-
-- Deepen my understanding of the **ERP and IT industry**.
-- Hone my collaboration skills with non-design team members.
-- Perfect the art of balancing technical and design requirements in a project.
-
-# Personas
+## Personas
 
 ### Persona 1: **Company Owner (General Persona)**
 
@@ -188,4 +125,71 @@ This project helped me:
 - An informative, well-structured website that presents Flowgics' technical features in detail.
 - Smooth navigation for accessing multilingual content.
 - Professional and consistent branding that reflects the software’s reliability.
+
+
+
+## Challenges
+
+To meet their business goals, KB Systems needed to overcome several challenges that stood in the way of effectively presenting their ERP software, Flowgics, and engaging with potential clients. These challenges included the following:
+
+- **Lack of an online presence:** They had no existing website to showcase their ERP software, Flowgics, or communicate its features effectively.
+- **Target audience engagement:** Creating a website that would resonate with the client segments and encourage them to take action, such as contacting the sales team or requesting an invoice.
+- **Technical complexity:** Developing a multilingual, accessible, and fully responsive website that could cater to both Arabic (RTL) and French-speaking audiences required intricate planning and execution.
+## Objectives
+
+The main objectives of the project were to:
+
+1. **Develop an intuitive, accessible, and responsive website** to effectively showcase Flowgics and attract potential clients.
+2. **Implement a seamless process** for users to contact the sales team or request an invoice, ensuring ease of interaction.
+3. **Reflect the product's brand identity** consistently throughout the website to reinforce trust and professionalism.
+
+## The Process
+
+### Design
+
+Working closely with KB Systems, I became intimately familiar with Flowgics, its functionalities, and the challenges it solved for its users. This deep understanding shaped the foundation of the website.
+
+- 1. **Design System:** Developed a design system for Flowgics, incorporating typography, color schemes, iconography, and UI components, ensuring the website was visually cohesive and aligned with the software's brand. 
+   I used **Adobe Illustrator** and **Photoshop** to create custom visuals and illustrations tailored to Flowgics.
+- 2. **Sitemap Development:** Created a comprehensive sitemap outlining the website structure, ensuring all critical features and pages were represented.
+- 3. **Wireframing & Prototyping:** Designed wireframes and prototypes for each page, prioritizing user flow and simplicity.
+- 4. ==**Final design**==
+ 
+
+### Development
+
+1. **Responsive Design:** Focused on mobile-first principles to ensure the site worked seamlessly across devices.
+2. **Custom Development:** Used **WordPress** with customizations in **HTML and CSS** to build the site.
+3. **Dynamic Features:** Integrated interactive forms that streamlined contact and invoice requests.
+4. **Multilingual Support:** Designed a dual-language interface with **RTL support for Arabic**, ensuring usability for both French and Arabic-speaking audiences.
+
+## The Challenges
+
+- **Simplifying Technical Language:** Collaborated with the team to ensure the content was clear, concise, and accessible to non-technical users.
+- **RTL Compatibility:** Developed a custom approach to ensure proper alignment and functionality for Arabic text while maintaining design consistency.
+
+## The Solutions
+
+The finished website was:
+
+- **User-Friendly:** Clear CTAs, seamless navigation, and intuitive functionality.
+- **Responsive:** Optimized for desktops, tablets, and smartphones.
+- **Engaging:** Visually appealing, with professional illustrations and branding.
+- **Efficient:** Included a dynamic invoice form and email redirects, automating client interaction.
+- **Multilingual:** Fully supported both French and Arabic.
+
+
+## The Results
+
+- The website exceeded client expectations, generating **consistent daily traffic** and **invoice requests** shortly after launch.
+- KB Systems saw an increase in client inquiries, validating the site’s role as a lead generation tool.
+- Regular updates and performance enhancements further strengthened the client’s satisfaction.
+
+## Reflections & Takeaways
+
+This project helped me:
+
+- Deepen my understanding of the **ERP and IT industry**.
+- Hone my collaboration skills with non-design team members.
+- Perfect the art of balancing technical and design requirements in a project.
 
