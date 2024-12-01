@@ -160,31 +160,32 @@ This project helped me:
 
 ---
 
-### Persona 2: **IT Director (General Persona)**
+### **Persona 2: Khaled Mansouri**
 
-- **Image:** A knowledgeable IT director, responsible for overseeing and optimizing the company’s IT infrastructure.
-- **Name:** Ahmed Zaki
-- **Role:** IT Director
-- **Age:** 40-55 years
-- **Income Level:** $100,000 - $200,000 annually
-- **Company Characteristics:**
-    - A company with more complex operations, requiring a scalable and robust ERP solution.
-    - Needs an ERP that integrates well with existing business systems (e.g., CRM, accounting, inventory).
-    - Concerned about data security, compliance, and IT system performance.
-- **Needs:**
-    - A powerful ERP system with advanced capabilities and customizable features.
-    - A solution that integrates seamlessly with other tools and systems in place.
-    - High-level reporting, data analytics, and decision-making support.
-- **Motivation:**
-    - Seeks to improve overall business efficiency by automating processes and improving data visibility.
-    - Aims to reduce IT overhead and maintenance costs through a centralized, easy-to-manage ERP solution.
-- **Expectations:**
-    - A secure, reliable ERP system that supports multi-department collaboration.
-    - Scalability to accommodate future business growth.
-    - Technical documentation and a strong support team to assist with implementation and troubleshooting.
-- **Additional info**
-    - Ahmed looks for well-structured, professional websites that clearly communicate the technical capabilities and integration options of the ERP system.
-    - A responsive, well-functioning website that offers a seamless experience across devices is crucial for building confidence in the ERP solution.
+**Role:** IT Director  
+**Age:** 38  
+**Income Level:** $3,000–$5,000/month
 
-# Site map
+#### **Features**
+
+- **Tech-Savvy:** Skilled at evaluating and implementing enterprise software.
+- **Problem-Solver:** Focuses on addressing inefficiencies in current systems.
+- **Analytical:** Evaluates solutions based on functionality, scalability, and integration potential.
+
+#### **Needs**
+
+- Detailed technical information about Flowgics' features and capabilities.
+- A clear understanding of how the ERP integrates with existing systems.
+- Easy access to contact the sales team for technical demonstrations or clarifications.
+
+#### **Motivation**
+
+- To recommend a reliable ERP solution to management that aligns with the company’s long-term goals.
+- To simplify IT processes and improve organizational efficiency.
+
+#### **Expectations**
+
+- An informative, well-structured website that presents Flowgics' technical features in detail.
+- Smooth navigation for accessing multilingual content.
+- Professional and consistent branding that reflects the software’s reliability.
 
