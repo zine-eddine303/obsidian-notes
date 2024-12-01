@@ -91,7 +91,7 @@ Working closely with KB Systems, I became intimately familiar with Flowgics, its
 
 - **Sitemap Development:** Created a comprehensive sitemap outlining the website structure, ensuring all critical features and pages were represented.
 - **Wireframing & Prototyping:** Designed wireframes and prototypes for each page, prioritizing user flow and simplicity.
-- **Visual Design & Design System:** Developed a design system for Flowgics, incorporating typography, color schemes, iconography, and UI components, ensuring the website was visually cohesive and aligned with the software's brand. 
+- **Design System:** Developed a design system for Flowgics, incorporating typography, color schemes, iconography, and UI components, ensuring the website was visually cohesive and aligned with the software's brand. 
   I used **Adobe Illustrator** and **Photoshop** to create custom visuals and illustrations tailored to Flowgics.
 
 ### Design & Development
