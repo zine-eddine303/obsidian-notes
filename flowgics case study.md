@@ -128,14 +128,14 @@ When I joined KB Systems, **I had the opportunity to design and develop their br
 
 
 
-## Challenges
+## problems
 
 To meet their business goals, KB Systems needed to overcome several challenges that stood in the way of effectively presenting their ERP software, Flowgics, and engaging with potential clients. These challenges included the following:
 
 - **Lack of an online presence:** They had no existing website to showcase their ERP software, Flowgics, or communicate its features effectively.
 - **Target audience engagement:** Creating a website that would resonate with the client segments and encourage them to take action, such as contacting the sales team or requesting an invoice.
 - **Technical complexity:** Developing a multilingual, accessible, and fully responsive website that could cater to both Arabic (RTL) and French-speaking audiences required intricate planning and execution.
-## Objectives
+## solutions
 
 The main objectives of the project were to:
 
