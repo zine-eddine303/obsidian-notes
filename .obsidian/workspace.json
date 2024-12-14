@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market research/Steps and guide.md"
+                "file": "Market research/Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Steps and guide"
+              "title": "Outline of Notes"
             }
           }
         ],
@@ -206,10 +206,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b739ea39c880544e",
+  "active": "c91f5fdb2443327c",
   "lastOpenFiles": [
-    "Market research/Notes.md",
     "Market research/Steps and guide.md",
+    "Market research/Notes.md",
     "Market research/Competitors.md",
     "Auto Entrepreneur/Impots.md",
     "Articles and posts/Design systems.md",
