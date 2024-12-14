@@ -1,0 +1,3 @@
+- Most of the competitors provide multiple services: web design and development, app development, marketing... And others that they most likely upsell with these services, like: SEO, ads... Example:  https://site.tassyir.net/
+- Niching down might be good (revolutionize a certain market with unused features) like real estate agencies...
+- 
