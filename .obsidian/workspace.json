@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,10 +206,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c91f5fdb2443327c",
+  "active": "d518dcc31fc350a8",
   "lastOpenFiles": [
-    "Market research/Steps and guide.md",
     "Market research/Notes.md",
+    "Market research/Steps and guide.md",
     "Market research/Competitors.md",
     "Auto Entrepreneur/Impots.md",
     "Articles and posts/Design systems.md",
