@@ -28,3 +28,5 @@ We’ll begin by identifying potential industries and businesses that _need_ web
 - hotels: reservations and menus
 - promotion/real estate agencies: sell houses
 - travel agencies: sell offers
+- Industrial services: To showcase services, experties and credibility, and contact
+- 

@@ -1,3 +1,12 @@
 - Most of the competitors provide multiple services: web design and development, app development, marketing... And others that they most likely upsell with these services, like: SEO, ads... Example:  https://site.tassyir.net/
+- Many websites of clients get neglected/down after being delivered
+	- https://www.algeriayp.com/company/13332/AMRIS_Consulting
+	- https://www.algeriayp.com/company/13313/ixpert_academy
+	- https://www.algeriayp.com/company/13228/Regal_Certification_Pvt_Ltd
+	- https://www.algeriayp.com/company/13049/enviconsult-bureau-d-etudes-environnementales
+	- https://www.algeriayp.com/company/13063/Entreprise_industrielle_de_fabrication_des_clous_STB
+- poor content population
+- poor customization of templates
+- poor/no maintenance
 - Niching down might be good (revolutionize a certain market with unused features) like real estate agencies...
 - 

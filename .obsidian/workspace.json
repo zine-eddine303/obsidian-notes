@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Market research/Untitled.md",
+                "file": "Market research/Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Checklist"
+            }
+          },
+          {
+            "id": "c91f5fdb2443327c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Market research/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "b739ea39c880544e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Market research/Steps and guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steps and guide"
+            }
+          },
+          {
+            "id": "d518dcc31fc350a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Market research/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market research/Untitled.md"
+                "file": "Market research/Steps and guide.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Steps and guide"
             }
           }
         ],
@@ -163,12 +206,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5ac250adc9e1c3a9",
+  "active": "b739ea39c880544e",
   "lastOpenFiles": [
-    "Market research/Steps and guide.md",
-    "Market research/Untitled.md",
-    "Market research/Competitors.md",
     "Market research/Notes.md",
+    "Market research/Steps and guide.md",
+    "Market research/Competitors.md",
+    "Auto Entrepreneur/Impots.md",
+    "Articles and posts/Design systems.md",
+    "Market research/Checklist.md",
     "Business/Competitors.md",
     "Business/Market research.md",
     "Market research",
@@ -177,10 +222,8 @@
     "mobilis redesign.md",
     "Assets/unnamed.png",
     "Assets/Screenshot 2024-11-27 at 19-40-09 Request Rejected.png",
-    "Articles and posts/Design systems.md",
     "How to make a landing page in wordpress woocommerce.md",
     "Articles and posts/Articles list.md",
-    "Auto Entrepreneur/Impots.md",
     "Articles and posts/Why we use 12 column grids.md",
     "Assets/d4cfac35-d3c6-4ef5-b68b-312324b7eb9c-cover.png",
     "Articles and posts",
