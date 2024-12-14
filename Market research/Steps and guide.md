@@ -1,3 +1,109 @@
+# **Step 0: Crafting a Survey Strategy**
+
+#### **A. Define Your Survey Goals**
+
+Your survey should address specific, actionable questions, such as:
+
+1. **Clients' Needs:** What are the main problems they want a website to solve?
+2. **Spending Mentality:** How much are they willing to invest in a website?
+3. **Decision Factors:** What influences their choice of a web designer? (e.g., cost, design quality, speed).
+4. **Competitor Insights:** What services do they currently use, and why?
+
+---
+
+#### **B. Determine Your Target Respondents**
+
+1. **Who to Survey:**
+    - Business owners in the identified industries.
+    - Decision-makers like operations managers or agency owners.
+2. **Where to Find Them:**
+    - LinkedIn for professionals (filter by location and industry).
+    - Facebook Groups for entrepreneurs in Algeria.
+    - Local business directories or networks.
+    - Your existing network (e.g., ask your past clients to share the survey).
+
+---
+
+#### **C. Design Your Survey Questions**
+
+To make your survey effective:
+
+1. **Keep it Short (5–10 minutes max):** People are more likely to respond if it's brief.
+2. **Use a Mix of Question Types:**
+    - **Multiple Choice:** Easy to answer and analyze.
+    - **Rating Scales (1–5):** Gauge preferences or importance.
+    - **Open-Ended Questions:** Gather detailed insights but limit to 1–2.
+
+---
+
+#### **D. Draft Survey Questions**
+
+Here’s a sample structure based on your goals:
+
+1. **Demographics:**
+    
+    - What type of business do you own? (Multiple choice: E-commerce, Industrial services, Travel agency, etc.).
+    - How long have you been in business? (Less than a year, 1–3 years, etc.).
+2. **Website Needs:**
+    
+    - Do you currently have a website? (Yes/No).
+    - If yes, what is your main issue with your current website? (Multiple choice: Outdated design, poor functionality, etc.).
+    - If no, why haven’t you built one yet? (Cost, don’t see the value, don’t know how to start, etc.).
+    - What is the primary purpose of your website? (Multiple choice: Sell products, showcase expertise, etc.).
+3. **Spending Mentality:**
+    
+    - How much are you willing to spend on a new website? (Multiple choice: <20,000 DA, 20,000–50,000 DA, etc.).
+    - What matters most when choosing a web designer? (Ranking question: Price, design quality, speed, etc.).
+4. **Competitor Insights:**
+    
+    - Have you worked with a web designer before? (Yes/No).
+    - If yes, what was your experience like? (Open-ended).
+
+---
+
+#### **E. Choose a Survey Platform**
+
+- **Google Forms:** Free, simple to use, and shareable.
+- **Typeform:** Great for a modern, user-friendly design.
+- **SurveyMonkey:** Offers more advanced analytics.
+
+---
+
+#### **F. Distribute Your Survey**
+
+1. **Direct Outreach:**
+    - Reach out to potential respondents on LinkedIn or via email.
+    - Use a friendly message to explain your purpose (e.g., “Hi, I’m conducting research to improve web design services for Algerian businesses. Your input would be incredibly valuable!”).
+2. **Social Media:**
+    - Post in relevant Facebook Groups for entrepreneurs or business owners in Algeria.
+    - Share on your own social media, asking for responses or referrals.
+3. **Networking:**
+    - Leverage local business events or forums to promote your survey.
+
+---
+
+#### **G. Analyze Survey Results**
+
+- After collecting responses, categorize answers based on your research goals:
+    - **Needs and priorities (high, medium, low):** Use this to refine your service offerings.
+    - **Spending mentality:** Use this to set competitive but realistic pricing.
+    - **Common complaints about competitors:** Highlight how your services solve these issues.
+
+---
+
+#### **Task for You:**
+
+1. Draft your survey using the structure above.
+2. Choose your platform (e.g., Google Forms).
+3. Create a distribution plan (list groups, contacts, or platforms to share).
+
+Once you’ve done this, share your draft survey or the link with me, and I’ll review and suggest any improvements!
+
+## Result
+
+form name: 
+
+
 # **Step 1: Understand the Market Needs**
 
 We’ll begin by identifying potential industries and businesses that _need_ websites as a necessity. This step will help you focus your efforts on high-demand areas.
@@ -163,8 +269,18 @@ Once you’ve gathered this data, share it, and I’ll help you refine your diff
 
 ## Results
 - Who are the main competitors targeting these industries in Algeria?
-  Mostly Digital agencies who offer a variety of digital services (web design and development, marketing, branding, SEO, social media marketing, content creation, advertising on social media) 
+  Mostly Digital agencies who offer a variety of digital services (web design and development, app design and development, web hosting and domain services, marketing, branding, SEO, social media marketing, content creation, advertising on social media) 
 - What do their websites or services lack?
   Poor UI and UX, Poor/no maintenance, some websites are down/not functionning correctly
-- 
+- How do they position themselves?
+  professional and reliable
+- What pricing models do they use?
+  ==???==
+- What industries they target?
+  They don't have a specific niche, but many of them have created ecommerce websites for their customers which is normal because most businesses who need websites are ecommerce businesses
+- How their designs compare to your strengths.
+  most of them use templates and modify on them, and most of the times they do a bad job in customizing them, they either under-customize them (the barely change anything in the templates) which makes the websites lack identity and originality. Or they customize them in a bad way and an inconsistent way.
+  Some others design them from scratch and make them very bad design and functionality
+  A very small minority (i only found 3 or 4) make good designs, and actually know what a good website should look like.  
+
 
