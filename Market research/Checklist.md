@@ -1,2 +1,0 @@
-- [ ] Make surveys (use linkedin)
-- [ ] 

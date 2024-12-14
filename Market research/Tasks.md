@@ -1,0 +1,2 @@
+- [ ] Make surveys to validate the research (use linkedin)
+- [ ] 

@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Market research/Checklist.md",
+                "file": "Market research/Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checklist"
-            }
-          },
-          {
-            "id": "c91f5fdb2443327c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Market research/Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Tasks"
             }
           },
           {
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market research/Notes.md"
+                "file": "Market research/Steps and guide.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of Steps and guide"
             }
           }
         ],
@@ -206,14 +192,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d518dcc31fc350a8",
+  "active": "b739ea39c880544e",
   "lastOpenFiles": [
     "Market research/Notes.md",
     "Market research/Steps and guide.md",
+    "Market research/Tasks.md",
     "Market research/Competitors.md",
     "Auto Entrepreneur/Impots.md",
     "Articles and posts/Design systems.md",
-    "Market research/Checklist.md",
     "Business/Competitors.md",
     "Business/Market research.md",
     "Market research",
