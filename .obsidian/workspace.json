@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Market research/Steps and guide.md",
+                "file": "Business/Domain name.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steps and guide"
+              "title": "Domain name"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market research/Steps and guide.md"
+                "file": "Business/Domain name.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Steps and guide"
+              "title": "Outline of Domain name"
             }
           }
         ],
@@ -194,8 +194,8 @@
   },
   "active": "b739ea39c880544e",
   "lastOpenFiles": [
-    "Market research/Notes.md",
     "Market research/Steps and guide.md",
+    "Market research/Notes.md",
     "Market research/Tasks.md",
     "Market research/Competitors.md",
     "Auto Entrepreneur/Impots.md",
