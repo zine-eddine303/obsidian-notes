@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Domain name.md",
+                "file": "Market research/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain name"
+              "title": "Notes"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Domain name.md"
+                "file": "Market research/Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Domain name"
+              "title": "Outline of Notes"
             }
           }
         ],
@@ -194,13 +194,17 @@
   },
   "active": "b739ea39c880544e",
   "lastOpenFiles": [
+    "Market research/Tasks.md",
+    "Auto Entrepreneur/Impots g12.md",
+    "Business/Prospect cold calling.md",
+    "Business/Hosting.md",
+    "Business/Competitors.md",
+    "Business/Domain name.md",
     "Market research/Steps and guide.md",
     "Market research/Notes.md",
-    "Market research/Tasks.md",
     "Market research/Competitors.md",
     "Auto Entrepreneur/Impots.md",
     "Articles and posts/Design systems.md",
-    "Business/Competitors.md",
     "Business/Market research.md",
     "Market research",
     "Business/Resume.md",
@@ -213,7 +217,6 @@
     "Articles and posts/Why we use 12 column grids.md",
     "Assets/d4cfac35-d3c6-4ef5-b68b-312324b7eb9c-cover.png",
     "Articles and posts",
-    "Auto Entrepreneur/Impots g12.md",
     "Untitled 3.md",
     "Auto Entrepreneur",
     "Untitled 2.md",
@@ -225,10 +228,7 @@
     "Assets/Pasted image 20241103191554.png",
     "Study Notes/IELTS/Speaking/My weak points.md",
     "Assets/Pasted image 20241103181216.png",
-    "Study Notes/IELTS/Speaking/Structure.md",
-    "Study Notes/IELTS/IELTS Structure.md",
     "Study Notes/IELTS/Speaking",
-    "Study Notes/IELTS/Reading/General strategy for all types.md",
     "Assets/ielts-reading-beehive.png",
     "Assets/ielts-reading-diagram-completion.png",
     "Assets/ielts-matching-features.png",
