@@ -20,8 +20,7 @@
 	- https://www.algeriayp.com/company/1229/MAMI_PROCOPHARM
 	- https://www.algeriayp.com/company/8801/TECHNO_TOP
 	- https://www.cristor-dz.com/
-	- https://www.algeriayp.com/company/1240/ACI_Agro_Consulting_International
-	- https://www.algeriayp.com/company/1034/AGROPLAST
+	- https://www.algeriayp.com/company/1240/ACI_Agro_Consulting_International (fixed)
 	- https://www.algeriayp.com/company/1212/CODIET
 	- https://www.algeriayp.com/company/1241/CODIF_Coop%C3%A9rative_de_D%C3%A9veloppement_Informatique
 	- https://www.algeriayp.com/company/7306/ECOMEUBLE

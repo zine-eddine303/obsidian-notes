@@ -35,8 +35,7 @@
               "title": "Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.51103591918945,
-    "collapsed": true
+    "width": 225.51103591918945
   },
   "right": {
     "id": "b23dd3dcc62647d1",
@@ -155,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market research/Notes.md"
+                "file": "Business/Website renovation Targets.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of Website renovation Targets"
             }
           }
         ],
@@ -180,10 +178,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d518dcc31fc350a8",
+  "active": "5ac250adc9e1c3a9",
   "lastOpenFiles": [
-    "Business/Website renovation Targets.md",
     "Market research/Notes.md",
+    "Business/Website renovation Targets.md",
     "Market research/Competitors.md",
     "Market research/Tasks.md",
     "Market research/Steps and guide.md",
