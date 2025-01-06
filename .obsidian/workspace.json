@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ac250adc9e1c3a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business/Website renovation Targets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Website renovation Targets"
-            }
-          },
-          {
             "id": "d518dcc31fc350a8",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Prospect cold calling"
+            }
+          },
+          {
+            "id": "5ac250adc9e1c3a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/Website renovation Targets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Website renovation Targets"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Prospect cold calling.md"
+                "file": "Business/Website renovation Targets.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Prospect cold calling"
+              "title": "Outline of Website renovation Targets"
             }
           }
         ],
@@ -179,15 +179,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d518dcc31fc350a8",
+  "active": "5ac250adc9e1c3a9",
   "lastOpenFiles": [
+    "Business/Prospect cold calling.md",
     "Market research/Notes.md",
     "Business/Website renovation Targets.md",
     "Market research/Competitors.md",
     "Market research/Tasks.md",
     "Market research/Steps and guide.md",
     "Business/Resume.md",
-    "Business/Prospect cold calling.md",
     "Business/Competitors.md",
     "Business/Upwork Bios.md",
     "Business/Inspiration.md",
