@@ -3,7 +3,7 @@
 - Many websites of clients get neglected/down after being delivered
 	- DISCLAMER: Some of these are down because they dont use the domain anymore, they currently use .dz, example: allianceassurances.com => allianceassurances.com.dz
 	- https://www.algeriayp.com/company/13332/AMRIS_Consulting
-	- https://www.algeriayp.com/company/13313/ixpert_academy
+	- https://www.algeriayp.com/company/13313/ixpert_academy (fixed)
 	- https://www.algeriayp.com/company/13228/Regal_Certification_Pvt_Ltd
 	- https://www.algeriayp.com/company/13049/enviconsult-bureau-d-etudes-environnementales
 	- https://www.algeriayp.com/company/13063/Entreprise_industrielle_de_fabrication_des_clous_STB
