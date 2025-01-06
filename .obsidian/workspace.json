@@ -35,7 +35,8 @@
               "title": "Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Website renovation Targets.md"
+                "file": "Market research/Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Website renovation Targets"
+              "title": "Outline of Notes"
             }
           }
         ],
@@ -178,10 +179,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5ac250adc9e1c3a9",
+  "active": "d518dcc31fc350a8",
   "lastOpenFiles": [
-    "Market research/Notes.md",
     "Business/Website renovation Targets.md",
+    "Market research/Notes.md",
     "Market research/Competitors.md",
     "Market research/Tasks.md",
     "Market research/Steps and guide.md",
