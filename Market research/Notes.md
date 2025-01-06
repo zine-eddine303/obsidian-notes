@@ -30,7 +30,6 @@
 	- https://www.algeriayp.com/company/1230/MEGADEM_Mega_D%C3%A9tergents_M%C3%A9nagers
 	- https://www.algeriayp.com/company/1211/MILLE_COUPOLES
 	- https://www.algeriayp.com/company/1245/SANICER_RASELOUED
-	- https://www.algeriayp.com/company/1219/SUILAIT
 	- https://www.algeriayp.com/company/1204/AL_TRANS
 	- https://www.algeriayp.com/company/1199/ALLIANCE_Assurances
 	- (virgin) https://www.algeriayp.com/company/13038/Herm%C3%A8s_Tourisme_Voyages
