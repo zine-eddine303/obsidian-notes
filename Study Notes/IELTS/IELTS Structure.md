@@ -5,7 +5,7 @@ In the IELTS (International English Language Testing System) exam, there are fou
 - **Duration**: 30 minutes (plus 10 minutes to transfer answers to the answer sheet).
 - **Format**: Four sections with ten questions each. You’ll listen to conversations and monologues.
 - **Topics**: General social interactions and academic discussions.
-- **Type:** Academic and general purpose are the same in this test. 
+- **Type:** This test is the same for both academic and general purpose tests. 
 
 ### 2. **Reading**
 
