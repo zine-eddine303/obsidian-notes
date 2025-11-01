@@ -25,6 +25,8 @@
 | Decipline       | Discipline        |                                                                             |
 | ==s==aturday    | ==S==aturday      | Days, months, and holidays are always capitalized as these are proper nouns |
 | Caracteristic   | Characteristic    |                                                                             |
+| Adress          | Address           |                                                                             |
+| Licence         | License           |                                                                             |
 
 
 # Grammar

@@ -10,7 +10,7 @@ Summarise the information by selecting and reporting the main features, adn make
 
 - You dont have to understand what the topic is, like here it's "foreign direct investment"
 - They are not asking for your opinion on this topic
-- Don't be very detailed in you analysis, they only need a superficial analysis. Remember, you are not a data analyst or an economist
+- Don't be very detailed in your analysis, they only need a superficial analysis. Remember, you are not a data analyst or an economist
 - Don't complicate it
 - Don't try to impress the writer
 - Don't say "this data is so simple, there must be something that I am not seeing" because you are wrong, they inentionally make data simple and obvious

@@ -4,51 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "19b914cdb06e824d",
+        "id": "983a943634ef9426",
         "type": "tabs",
         "children": [
           {
-            "id": "d518dcc31fc350a8",
+            "id": "2820c3459a6e194c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Prospect cold calling.md",
+                "file": "Study Notes/IELTS/Listening/Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prospect cold calling"
+              "title": "Structure"
             }
           },
           {
-            "id": "5ac250adc9e1c3a9",
+            "id": "e70c6a9cc75db5c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/Essay types/Advantages and disadvantages essays.md",
-                "mode": "preview",
+                "file": "Study Notes/IELTS/Writing/My weak points.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advantages and disadvantages essays"
-            }
-          },
-          {
-            "id": "5bfc59bd88f65f53",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "My weak points"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.51103591918945
+    "width": 225.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "b23dd3dcc62647d1",
@@ -193,37 +181,38 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5bfc59bd88f65f53",
+  "active": "2820c3459a6e194c",
   "lastOpenFiles": [
-    "Study Notes/IELTS/Writing/Task 1/Tips.md",
-    "Study Notes/IELTS/Writing/Task 1/My essay 3.md",
-    "Study Notes/IELTS/Writing/Task 1/My essay 2.md",
-    "Study Notes/IELTS/Writing/Task 1/My essay 1.md",
-    "Study Notes/IELTS/IELTS Structure.md",
-    "Business/Website renovation Targets.md",
+    "Study Notes/IELTS/Writing/My weak points.md",
+    "Study Notes/IELTS/Writing/Grammar and vocabulary.md",
+    "Study Notes/IELTS/Listening/Structure.md",
     "Business/Prospect cold calling.md",
-    "Market research/Notes.md",
-    "Market research/Competitors.md",
-    "Market research/Tasks.md",
-    "Market research/Steps and guide.md",
-    "Business/Resume.md",
-    "Business/Competitors.md",
-    "Business/Upwork Bios.md",
-    "Business/Inspiration.md",
-    "Auto Entrepreneur/Impots g12.md",
-    "Business/Hosting.md",
-    "Business/Domain name.md",
-    "Auto Entrepreneur/Impots.md",
-    "Articles and posts/Design systems.md",
-    "Business/Market research.md",
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Advantages and disadvantages essays.md",
+    "Study Notes/IELTS/IELTS Structure.md",
+    "Study Notes/IELTS/Reading/General strategy for all types.md",
+    "Study Notes/IELTS/Speaking/My weak points.md",
+    "Study Notes/IELTS/Listening",
+    "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md",
+    "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Opinion essays.md",
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Double-question essays.md",
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Discussion essays.md",
+    "Study Notes/IELTS/Writing/Task 1/My essay 1.md",
+    "Study Notes/IELTS/Writing/Task 1/Types of questions.md",
+    "Study Notes/IELTS/Writing/Task 1/Tips.md",
+    "Study Notes/IELTS/Speaking/Structure.md",
+    "Study Notes/IELTS/Reading/Question types/Matching headings.md",
+    "Study Notes/IELTS/Reading/Question types/True, false or not given.md",
+    "Study Notes/IELTS/Reading/Question types/Summary completion.md",
+    "Study Notes/IELTS/Reading/Question types/Short answer.md",
+    "Study Notes/IELTS/Reading/Question types/Sentence completion.md",
+    "Study Notes/IELTS/Reading/Question types/Multiple choice.md",
+    "Study Notes/IELTS/Reading/Question types/Matching Sentence Endings.md",
+    "Study Notes/IELTS/Reading/Question types/Matching Information to Paragraphs.md",
+    "Study Notes/IELTS/Reading/Question types/Diagram labeling.md",
     "Market research",
-    "flowgics case study.md",
-    "mobilis redesign.md",
     "Assets/unnamed.png",
     "Assets/Screenshot 2024-11-27 at 19-40-09 Request Rejected.png",
-    "How to make a landing page in wordpress woocommerce.md",
-    "Articles and posts/Articles list.md",
-    "Articles and posts/Why we use 12 column grids.md",
     "Assets/d4cfac35-d3c6-4ef5-b68b-312324b7eb9c-cover.png",
     "Articles and posts",
     "Auto Entrepreneur",
@@ -241,7 +230,6 @@
     "Study Notes/IELTS/Writing/Task 1",
     "Untitled.canvas",
     "Habits",
-    "Study Notes/IELTS/Writing/Task 2",
     "Untitled 1.canvas"
   ]
 }
