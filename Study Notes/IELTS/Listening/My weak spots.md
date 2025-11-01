@@ -1,0 +1,4 @@
+- I tend to forget/ignore including adjectives in the answer (detachable, around, more...)
+- I tend to ignore including prepositions in the answer (a, the...)
+- I have a problem with composite words like flashlight, fundraising....
+- I don't navigate effectively through the answers.

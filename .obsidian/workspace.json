@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Listening/Structure.md",
+                "file": "Study Notes/IELTS/Listening/My weak spots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structure"
+              "title": "My weak spots"
             }
           },
           {
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.51103591918945,
-    "collapsed": true
+    "width": 225.51103591918945
   },
   "right": {
     "id": "b23dd3dcc62647d1",
@@ -197,9 +196,10 @@
   },
   "active": "2820c3459a6e194c",
   "lastOpenFiles": [
-    "Study Notes/IELTS/Listening/Untitled",
-    "Study Notes/IELTS/Writing/My weak points.md",
     "Study Notes/IELTS/Listening/Structure.md",
+    "Study Notes/IELTS/Listening/My weak spots.md",
+    "Study Notes/IELTS/Writing/My weak points.md",
+    "Study Notes/IELTS/Listening/Untitled",
     "Study Notes/IELTS/IELTS Structure.md",
     "Assets/Pasted image 20251101110049.png",
     "Study Notes/IELTS/Writing/Grammar and vocabulary.md",
@@ -243,7 +243,6 @@
     "Study Notes/IELTS/Writing/Task 2/Essay types",
     "Study Notes/IELTS/Writing/Task 1",
     "Untitled.canvas",
-    "Habits",
     "Untitled 1.canvas"
   ]
 }

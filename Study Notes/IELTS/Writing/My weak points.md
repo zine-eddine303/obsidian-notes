@@ -29,6 +29,9 @@
 | Licence         | Licen==s==e        |                                                                             |
 | Transfering     | Transfer==r==ing   |                                                                             |
 | Beg==g==ining   | Begin==n==ing      |                                                                             |
+| Flash light     | Flashlight         |                                                                             |
+| Fund raising    | Fundraising        |                                                                             |
+| Marchendise     | Merchandise        |                                                                             |
 
 
 # Grammar

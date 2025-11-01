@@ -37,6 +37,7 @@ The listening test is the same in the general purpose and academic IELTS test.
 # Common traps and challenges
 - **Changing the answer:** The answer to a question could be changed later in the course of the recording as a correction for example.
 - **The employment of synonyms:** if you expect that the words that you listen to will be identical to the ones surrounding the answer, then you will be lost most of the time. you have to keep you mind open to synonyms. 
+- **Giving incomplete answers**: You have to provide complete answers in filling the blanks type answers. Don't ignore adjectives (detachable, remote...), uncertainty words (about, around...)
 - **Unusual spellings:** surnames or places for example. E.g. Brown => Browne. this usually comes in part 1 and the name will be spelled so you must pay attention to how they spell it.
 - **Double negatives:** E.g. not bad = good, not unusual = usual...
   The food wasn't bad = the food was good
