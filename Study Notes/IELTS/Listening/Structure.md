@@ -43,7 +43,15 @@ Labeling a map or plan
 - Focus on the current question that you are trying to answer and keep in the side of your brain the next question to use it as a flag that signals the end of the current question and the beginning of the next one.
 	- It's like having peripheral awareness when listening to be more precise and efficient while answering.
 
-- Always keep moving 
-- Always give an answer 
-	- If you don't know the answer, don't leave it blank.
-	- You can use the strategy of elimination if it's a choice answer
+- Always keep moving. Don't freeze when you are confused or have missed something.
+- Always give an answer. If you don't know the answer, don't leave it blank.
+	- You can use the strategy of elimination if it's a choice answer.
+
+# Common traps and challenges
+- **Changing the answer:** The answer to a question could be changed later in the course of the recording as a correction for example.
+- **The employment of synonyms:** if you expect that the words that you listen to will be identical to the ones surrounding the answer, then you will be lost most of the time. you have to keep you mind open to synonyms. 
+- **Unusual spellings:** surnames or places for example. E.g. Brown => Browne. this usually comes in part 1 and the name will be spelled so you must pay attention to how they spell it.
+- **Double negatives:** E.g. not bad = good, not unusual = usual...
+  The food wasn't bad = the food was good
+- **Using fake tests:** only use tests from these 4 free sources: IDP, british council, IELTS.org, Cambridge English. [Sources](https://www.ieltsadvantage.com/ielts-listening-practice-questions/?utm_source=youtube&utm_medium=organic&utm_campaign=get_band_9_after_using_these_listening_tips&utm_content=yt_video_description&utm_term=1842023)
+- 
