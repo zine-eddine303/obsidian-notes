@@ -33,5 +33,17 @@ Labeling a map or plan
 # Strategy
 
 - Read the questions and prepare for the answers before listening. You will have time to do this.
+	- Lock on the required word count
 	- Know the type of the question and the type of the answer needed and how many words are permitted before listening
-	- Read the title and subheadings that proceed questions to get a general idea about the listening and be mentally prepared for the topic.  
+	- Read the title to get a general idea about the listening and be mentally prepared for the topic.
+	- Read the subheadings to section the passage and to navigate through answers
+	- Predict the type of answers by reading the text around the blanks.
+	- Predict the possible answers by reading the text around the blanks.
+
+- Focus on the current question that you are trying to answer and keep in the side of your brain the next question to use it as a flag that signals the end of the current question and the beginning of the next one.
+	- It's like having peripheral awareness when listening to be more precise and efficient while answering.
+
+- Always keep moving 
+- Always give an answer 
+	- If you don't know the answer, don't leave it blank.
+	- You can use the strategy of elimination if it's a choice answer

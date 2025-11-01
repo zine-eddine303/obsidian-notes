@@ -28,6 +28,7 @@
 | Adress          | Ad==d==ress        |                                                                             |
 | Licence         | Licen==s==e        |                                                                             |
 | Transfering     | Transfer==r==ing   |                                                                             |
+| Beg==g==ining   | Begin==n==ing      |                                                                             |
 
 
 # Grammar
