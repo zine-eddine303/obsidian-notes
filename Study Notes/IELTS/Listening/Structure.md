@@ -17,23 +17,10 @@ The listening test is the same in the general purpose and academic IELTS test.
 - an educational/training setting conversation between up to 4 people. (e.g. A teacher discussing an assignment)
 # Part 4
 - an educational/training setting monologue (e.g. A university lecture)
+# General Strategy
 
-# Types of questions
-- There are many different types of questions. Each type of question tests your one or more of your listening skills.
-- Each type of question requires a strategy to answer it. Don't use a universal strategy to answer all types of questions 
-
-![[Pasted image 20251101110049.png]] 
-
-Summary Completion 
-Form filling
-Multiple choice question
-Labeling a map or plan
-
-
-# Strategy
-
-- Read the questions and prepare for the answers before listening. You will have time to do this.
-	- Lock on the required word count
+- Read the questions and prepare for the answers before the recording. For each part, you will have time to do this.
+	- Lock on the required word count![[Pasted image 20251101110049.png]]
 	- Know the type of the question and the type of the answer needed and how many words are permitted before listening
 	- Read the title to get a general idea about the listening and be mentally prepared for the topic.
 	- Read the subheadings to section the passage and to navigate through answers
@@ -54,4 +41,16 @@ Labeling a map or plan
 - **Double negatives:** E.g. not bad = good, not unusual = usual...
   The food wasn't bad = the food was good
 - **Using fake tests:** only use tests from these 4 free sources: IDP, british council, IELTS.org, Cambridge English. [Sources](https://www.ieltsadvantage.com/ielts-listening-practice-questions/?utm_source=youtube&utm_medium=organic&utm_campaign=get_band_9_after_using_these_listening_tips&utm_content=yt_video_description&utm_term=1842023)
-- 
+
+
+# Types of questions
+There are many different types of questions. Each type of question tests your one or more of your listening skills.
+Each type of question requires a strategy to answer it. Don't use a universal strategy to answer all types of questions 
+
+- Summary Completion 
+- Form filling
+- Multiple choice question 
+- Labeling a map or plan
+
+# Strategy by type of question
+## Map/plan
