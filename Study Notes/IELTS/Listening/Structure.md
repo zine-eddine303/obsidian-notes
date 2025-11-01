@@ -4,6 +4,8 @@ Consists of 4 Parts, the difficulty increases gradually.
 ==You must spend more time preparing for part 3 and 4== as they separate the low bands from the high bands.
 
 The listening test is the same in the general purpose and academic IELTS test.
+
+==Your job is to find the correct answers. You don't have to understand every word to answer correctly, especially for part 3 and 4.==
 # Part 1
 - A general/social setting conversation (between two or more people) 
 - Generally between two persons
@@ -20,8 +22,16 @@ The listening test is the same in the general purpose and academic IELTS test.
 - There are many different types of questions. Each type of question tests your one or more of your listening skills.
 - Each type of question requires a strategy to answer it. Don't use a universal strategy to answer all types of questions 
 
+![[Pasted image 20251101110049.png]] 
 
 Summary Completion 
 Form filling
 Multiple choice question
 Labeling a map or plan
+
+
+# Strategy
+
+- Read the questions and prepare for the answers before listening. You will have time to do this.
+	- Know the type of the question and the type of the answer needed and how many words are permitted before listening
+	- Read the title and subheadings that proceed questions to get a general idea about the listening and be mentally prepared for the topic.  
