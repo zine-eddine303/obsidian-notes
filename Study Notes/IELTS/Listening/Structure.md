@@ -55,3 +55,17 @@ Each type of question requires a strategy to answer it. Don't use a universal st
 
 # Strategy by type of question
 ## Map/plan
+
+1. Before the start of the recording
+	1. Understand what is the assignment (write text, write letters...)
+	2. Understand the map/plan features
+	3. Predict where the start of the map/plan might be (gate, entrance...)
+	4. Predict answers by intuition
+	5. Understand the relationships between locations (next to each other, opposing each other...)
+	6. Write down synonyms for answers (gate = entrance = door...)
+2. On the recording
+	1. Listen to the beginning of the talk very carefully
+	2. Find the initial position and the direction
+	3. Visualize walking though the map/plan
+	4. Be careful to the traps (e.g. : to the left there was the café but it was moved to the left...)
+	5. Identify signposting language (e.g.: lets start off the sought gate, take the left of the glass house, go back, finish off on the north gate...)
