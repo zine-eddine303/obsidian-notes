@@ -20,7 +20,7 @@ Summarise the information by selecting and reporting the main features, adn make
 - They are asking you to ==understand== the data and ==report== it appropriately and make ==relevant comparisons==
 - They are asking you to "summarise", and select the most important features and report them
 - Keep it simple
-- Organise paragraphs logically ()
+- Organise paragraphs logically
 
 # Steps to do before writing
 
@@ -46,7 +46,7 @@ Summarise the information by selecting and reporting the main features, adn make
 2. **Overview** (1)
 	- The position of this paragraph doesn't matter, it could be the second paragraph or any other postion
 	- Always starts with "Overall,"
-	- Look at the data are report from 2 to 4 of the most important features without reporting any specific data
+	- Look at the data and report from 2 to 4 of the most important features without reporting any specific data
 	- Don't mention any values from any of the axis (in order to eleminate details)
 	- Try to group features (especially if there's more than 2 sets of data)
 		- For example: ==bread and buns== appear to have been more profitable than ==pies==

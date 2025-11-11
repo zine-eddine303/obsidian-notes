@@ -1,6 +1,6 @@
 # General structure of all types
 
-- A paragraph that exlains what the chart is about
+- A paragraph that explains what the chart is about
 - A question (it's the same for all types and cases)
 - Data
 - This report needs to be at least 150 words and is worth 1/3 of your overall score for IELTS Writing.
