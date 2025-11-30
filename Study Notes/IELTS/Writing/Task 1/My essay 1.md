@@ -1,16 +1,5 @@
 ![[Pasted image 20241028185658.png]]
 
-
-
-
-
-
-
-
-
-
-
-
 # My essay 
 
 The graph illustrates the recycling rate of some materials in a country between 1982 and 2010.
@@ -63,3 +52,25 @@ From 1982 to 1990, the recycling of paper and cardboard fluctuated between 65% a
 Aluminium cans recycling has been rapidly and constantly increasing from 5% in 1986 when it was first recycled, to 45% in 2010. In contrast, plastic recycling have went though a slow increase of less than 10% from 1990, the first year plastic was recycled, to 2010.
 
 Overall, the propostion of paper and cardboard that was recycled was higher than the other material classes, but it started continually decreasing since 1994. On the other hand, recycling of the other materials have steadily increased throughout hte years.
+
+
+# My essay 2 
+
+The graph illustrates the recycling percentage of paper and cardboard, glass containers, aluminium cans and plastics in a particular country from 1982 to 2010.
+
+Overall, paper and cardboard were the most recylced material among the others throughout the studied years, while plastics were the least recyled, and undergoed the slightest change. Glass containers recycling came directly under paper and cardboard, and then came the recycling aluminium cans which showed the most dramatic increase. 
+
+More than 60% of paper and cardboard was recycled between 1982 and 2010, it had fluctuated around 65% from 1982 to 1990 before peaking to 80% on 1994, then it started decreasing steadily to reach 70% on 2010.
+The recycling of glass containers fell from 50% to 40% from 1982 to 1990 respectively, then it followed with an increase to 60% on 2010.
+Aluminium cans recycling significantly increased from less than 10% on 1982 to more than 45% on 2010.
+Plastic recycling barely undergoed any change, slightly increasing from 1990 to 2010 and staying below 10%.
+
+## Gemini band 9 essay
+
+The line graph illustrates the proportion of four selected materials—paper and cardboard, glass containers, aluminium cans, and plastics—that underwent recycling in a specific nation over a 28-year period, commencing in 1982 and concluding in 2010.
+
+Overall, paper and cardboard consistently accounted for the highest recycling rates throughout the period, whereas plastics remained marginal, recording by far the lowest figures. Notably, while most materials saw fluctuating rates, aluminium cans experienced the most substantial percentage gain across the timeframe, showing rapid, continuous growth.
+
+The recycling of paper and cardboard began at 65% in 1982, experiencing a brief dip to 65% in 1990 before surging to its peak of 80% in 1994. Following this maximum, the rate gradually eased back, stabilizing at 70% by the end of the survey in 2010. Glass containers followed a somewhat similar trajectory, declining from an initial 50% in 1982 to a minimum of 40% eight years later. This trend was subsequently reversed, however, with the rate climbing steadily to overtake its starting point and reach 60% in the final year.
+
+In stark contrast, the proportion of plastics recycled started at 0% in 1982 and showed minimal growth, barely increasing to 8% by 2010, cementing its position as the least recycled material. Despite this low standing, aluminium cans demonstrated the most impressive rise in processing efficiency. Starting below 5% in 1982, the rate saw a rapid, continuous upward trend, crossing the 20% mark by 1998 and ultimately finishing at approximately 45% in 2010, achieving a significant tenfold increase over the period.
