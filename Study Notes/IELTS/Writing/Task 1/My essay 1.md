@@ -1,5 +1,16 @@
 ![[Pasted image 20241028185658.png]]
 
+
+
+
+
+
+
+
+
+
+
+
 # My essay 
 
 The graph illustrates the recycling rate of some materials in a country between 1982 and 2010.
