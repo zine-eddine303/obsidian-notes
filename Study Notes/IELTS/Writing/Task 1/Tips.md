@@ -2,7 +2,7 @@ Example:
 
 The bar chart shows the amount of foreign direct investment in India and China from 2014 to 2019
 
-Summarise the information by selecting and reporting the main features, adn make comparisons where relevant.
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
 
 ![[Pasted image 20241028140046.png]]
 
@@ -13,14 +13,14 @@ Summarise the information by selecting and reporting the main features, adn make
 - Don't be very detailed in your analysis, they only need a superficial analysis. Remember, you are not a data analyst or an economist
 - Don't complicate it
 - Don't try to impress the writer
-- Don't say "this data is so simple, there must be something that I am not seeing" because you are wrong, they inentionally make data simple and obvious
+- Don't say "this data is so simple, there must be something that I am not seeing" because you are wrong, they intentionally make data simple and obvious
 
 # Do's
 
 - They are asking you to ==understand== the data and ==report== it appropriately and make ==relevant comparisons==
-- They are asking you to "summarise", and select the most important features and report them
+- They are asking you to "summarize", and select the most important features and report them
 - Keep it simple
-- Organise paragraphs logically
+- Organize paragraphs logically
 
 # Steps to do before writing
 
@@ -44,7 +44,7 @@ Summarise the information by selecting and reporting the main features, adn make
 		- When you mention the topic (like in this case it's "foreign direct investment"), if you really know a synonym of it then use it, if not, DON'T. You are not obliged to know these topics
 
 2. **Overview** (1)
-	- The position of this paragraph doesn't matter, it could be the second paragraph or any other postion
+	- The position of this paragraph doesn't matter, it could be the second paragraph or any other position
 	- Always starts with "Overall,"
 	- Look at the data and report from 2 to 4 of the most important features without reporting any specific data
 	- Don't mention any values from any of the axis (in order to eleminate details)
