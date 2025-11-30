@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "8a3cc988e843e324",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "e8e1fc621edaca6b",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "My weak points"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2820c3459a6e194c",
+  "active": "8a3cc988e843e324",
   "lastOpenFiles": [
     "Study Notes/IELTS/Speaking/My weak points.md",
     "Study Notes/IELTS/Writing/Grammar and vocabulary.md",
