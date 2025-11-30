@@ -62,14 +62,7 @@
               "icon": "lucide-file",
               "title": "My weak points"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7b37e4b4c4d91ef4",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "20090cc8e87a05c0",
             "type": "leaf",
@@ -84,7 +77,8 @@
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,10 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Website renovation Targets.md"
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Website renovation Targets"
+              "title": "Outline of Untitled"
             }
           }
         ],
