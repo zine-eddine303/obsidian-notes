@@ -14,4 +14,72 @@
 # Vocabulary
 
 - ~~Undergoed~~ → Underwent
-- 
+
+
+# Band 9 Vocabulary for IELTS Writing Task 1
+
+Achieving a Band 9 in Lexical Resource (Vocabulary) relies on using a wide range of academic, precise, and less common words that are used naturally and accurately.
+
+## 1. Overall Trends and Summary (The Overview)
+
+| Category         | Band 9 Phrases                                                                                  |
+| ---------------- | ----------------------------------------------------------------------------------------------- |
+| **Introduction** | The graph **illustrates/depicts/delineates** the proportion of...                               |
+| **Time Frame**   | ...over a **28-year period**, commencing in X and concluding in Y.                              |
+| **Main Feature** | **Overall, the most salient feature is that...** / **It is readily apparent that...**           |
+| **Dominance**    | X **consistently remained the dominant** material. / X **accounted for the highest share.**     |
+| **Marginality**  | Y **remained marginal/negligible** throughout the period. / Y **occupied the lowest position.** |
+| **Comparison**   | X **was inversely proportional to** Y. / ...in **stark contrast** to the figures for Y.         |
+| **Change**       | The most **substantial shift** was recorded in...                                               |
+| **Projection**   | **offering projections** for future growth up to 2050                                           |
+
+## 2. Describing Movement and Change (Verbs & Nouns)
+
+Using strong, varied verbs is crucial to avoid repetitive use of "increased" and "decreased."
+
+|Trend Type|Band 9 Verbs (Used as Past Tense)|Band 9 Nouns|
+|---|---|---|
+|**Big Increase**|surged, rocketed, escalated, soared, doubled/tripled|a surge, a rapid escalation, a sharp upswing|
+|**Small Increase**|climbed, grew, edged up, experienced moderate growth|a gradual rise, a moderate gain, a slow recovery|
+|**Big Decrease**|plummeted, collapsed, plunged, sharply declined|a dramatic slump, a collapse, a steep fall|
+|**Small Decrease**|eased back, diminished, dipped, contracted, marginally decreased|a slight drop, a marginal decline, a downturn|
+|**Reaching Max**|peaked at, reached a zenith of, hit its highest point|a peak, a maximum, the pinnacle|
+|**Reaching Min**|bottomed out at, recorded a minimum of, hit a trough|a minimum, a low point, a trough|
+
+## 3. Describing the Speed of Change (Adverbs)
+
+|Adverb|Meaning|Example Phrase|
+|---|---|---|
+|**Substantially**|Significantly|The figure **substantially** increased.|
+|**Dramatically**|Suddenly and greatly|The price **dramatically** plummeted.|
+|**Relentlessly**|Without stopping|The trend **relentlessly** climbed.|
+|**Gradually**|Slowly and steadily|Sales **gradually** diminished.|
+|**Steadily**|Consistent and continuous|The population **steadily** grew.|
+|**Marginally**|By a tiny amount|Output **marginally** increased.|
+
+## 4. Comparing Data Points
+
+|Function|Band 9 Phrases|
+|---|---|
+|**Highest/Lowest**|**The overwhelming majority** of... / **The smallest fraction** was recorded in...|
+|**Just Above/Below**|The figure for X was **just under/just over** that of Y.|
+|**Equal**|X was **on a par with** Y. / The figures **converged** in 2000.|
+|**Difference**|This figure **dwarfed** the proportion of Y. / X **outstripped** Y by a factor of three.|
+|**Approximation**|approximately, roughly, nearly, **close to**, **in the vicinity of**|
+
+## 5. Lexical Complexity (Academic Phrases)
+
+These phrases show a mature ability to report and link data, enhancing Coherence and Cohesion.
+
+|Phrase Type|Example|
+|---|---|
+|**Conditional Link**|The figure for X **followed a similar pattern to** that of Y.|
+|**Introducing Contrast**|**In stark contrast,** the figures for plastics remained flat. / **Conversely,** the trend was reversed for...|
+|**Focusing on Data**|The sales figure **stood at** 50% in 1982.|
+|**After the Change**|This was **subsequently followed by** a period of contraction.|
+|**Cause/Effect**|The initial surge was **attributed to** new policy changes. (Use sparingly and only if the data suggests it)|
+|**Maintaining Level**|The rate **stagnated/stabilized** for the remainder of the decade.|
+|**Before/After**|X peaked **prior to** the start of the recession.|
+|**Capturing the Trend**|The data **reflects a clear upward trajectory**.|
+
+Using a mix of these high-level terms, combined with accurate grammar and a coherent structure, is what elevates a summary to a Band 9 level.
