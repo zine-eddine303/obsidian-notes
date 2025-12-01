@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "My essay 1"
             }
+          },
+          {
+            "id": "b30785366f51a2d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "27ce5b7936b16da6",
+  "active": "b30785366f51a2d8",
   "lastOpenFiles": [
     "Untitled 1.md",
     "Study Notes/IELTS/Writing/Task 1/My essay 1.md",
