@@ -1,15 +1,15 @@
 - There is a striking difference between x and y
-- Almost half of young women devote no time at all to x ==while this applies to only about== a quarter of young men.
-- Almost 1 in 5 men between the ages of 16 and 24 play sport for 7 or more hours a week. ==The figure for== young women is only 5 per cent.
-- ==A closer examination of the figures== for young people who actually play sport ==reveals that the greatest proportion== dedicate between
+- Almost half of young women devote no time at all to x **while this applies to only about** a quarter of young men.
+- Almost 1 in 5 men between the ages of 16 and 24 play sport for 7 or more hours a week. **The figure for** young women is only 5 per cent.
+- **A closer examination of the figures** for young people who actually play sport **reveals that the greatest proportion** dedicate between
 - It is clear from the chart that x
-- There is a noticeable difference between x and y
-- About 10% of girls devote over an hour of their time three times a week to active leisure pursuits ==while this applies to== 50% of the boys.
-- ==A closer examination of the figures ==for young people who actually participated in physical activity ==reveals that the greatest proportion== dedicate at least x
-- Glass containers maintained the ==second-highest recycling rate==, ==followed by== aluminium cans, ==which exhibited the most dramatic percentage increase==.
+- There is a **noticeable** difference between x and y
+- About 10% of girls devote over an hour of their time three times a week to active leisure pursuits **while this applies to** 50% of the boys.
+- **A closer examination of the figures **for young people who actually participated in physical activity **reveals that the greatest proportion** dedicate at least x
+- Glass containers maintained the **second-highest recycling rate**, **followed by** aluminium cans, **which exhibited the most dramatic percentage increase**.
 - "decreasing steadily" → **"declining gradually"** or **"experiencing a steady drop."**
 - "followed with an increase" → **"subsequently rose"** or **"then saw a recovery to..."**
-- **Paper and cardboard** ==consistently held the highest== recycling rate
+- **Paper and cardboard** **consistently held the highest** recycling rate
 
 # Vocabulary
 
@@ -22,16 +22,16 @@ Achieving a Band 9 in Lexical Resource (Vocabulary) relies on using a wide range
 
 ## 1. Overall Trends and Summary (The Overview)
 
-| Category         | Band 9 Phrases                                                                                  |
-| ---------------- | ----------------------------------------------------------------------------------------------- |
-| **Introduction** | The graph **illustrates/depicts/delineates** the proportion of...                               |
-| **Time Frame**   | ...over a **28-year period**, commencing in X and concluding in Y.                              |
-| **Main Feature** | **Overall, the most salient feature is that...** / **It is readily apparent that...**           |
-| **Dominance**    | X **consistently remained the dominant** material. / X **accounted for the highest share.**     |
-| **Marginality**  | Y **remained marginal/negligible** throughout the period. / Y **occupied the lowest position.** |
-| **Comparison**   | X **was inversely proportional to** Y. / ...in **stark contrast** to the figures for Y.         |
-| **Change**       | The most **substantial shift** was recorded in...                                               |
-| **Projection**   | **offering projections** for future growth up to 2050                                           |
+| Category         | Band 9 Phrases                                                                                                                      |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Introduction** | The graph **illustrates/depicts/delineates** the proportion of...                                                                   |
+| **Time Frame**   | ...over a **28-year period**, commencing in X and concluding in Y.                                                                  |
+| **Main Feature** | **Overall, the most salient feature is that...** / **It is readily apparent that...**                                               |
+| **Dominance**    | X **consistently remained the dominant** material. / X **accounted for the highest share.**                                         |
+| **Marginality**  | Y **remained marginal/negligible** throughout the period. / Y **occupied the lowest position.**                                     |
+| **Comparison**   | X **was inversely proportional to** Y. / ...in **stark contrast** to the figures for Y.                                             |
+| **Change**       | The most **substantial shift** was recorded in...                                                                                   |
+| **Projection**   | - ..., **offering projections** for future growth up to 2050<br>- The graph offers a **forecast** of population figures until 2050. |
 
 ## 2. Describing Movement and Change (Verbs & Nouns)
 
@@ -71,15 +71,37 @@ Using strong, varied verbs is crucial to avoid repetitive use of "increased" and
 
 These phrases show a mature ability to report and link data, enhancing Coherence and Cohesion.
 
-|Phrase Type|Example|
-|---|---|
-|**Conditional Link**|The figure for X **followed a similar pattern to** that of Y.|
-|**Introducing Contrast**|**In stark contrast,** the figures for plastics remained flat. / **Conversely,** the trend was reversed for...|
-|**Focusing on Data**|The sales figure **stood at** 50% in 1982.|
-|**After the Change**|This was **subsequently followed by** a period of contraction.|
-|**Cause/Effect**|The initial surge was **attributed to** new policy changes. (Use sparingly and only if the data suggests it)|
-|**Maintaining Level**|The rate **stagnated/stabilized** for the remainder of the decade.|
-|**Before/After**|X peaked **prior to** the start of the recession.|
-|**Capturing the Trend**|The data **reflects a clear upward trajectory**.|
+| Phrase Type              | Example                                                                                                        |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| **Conditional Link**     | The figure for X **followed a similar pattern to** that of Y.                                                  |
+| **Introducing Contrast** | **In stark contrast,** the figures for plastics remained flat. / **Conversely,** the trend was reversed for... |
+| **Focusing on Data**     | The sales figure **stood at** 50% in 1982.                                                                     |
+| **After the Change**     | This was **subsequently followed by** a period of contraction.                                                 |
+| **Cause/Effect**         | The initial surge was **attributed to** new policy changes. (Use sparingly and only if the data suggests it)   |
+| **Maintaining Level**    | The rate **stagnated/stabilized** for the remainder of the decade.                                             |
+| **Before/After**         | X peaked **prior to** the start of the recession.                                                              |
+| **Capturing the Trend**  | The data **reflects a clear upward trajectory**.                                                               |
+| **Overtaking**           | India's population will soon **overtake** that of China.                                                       |
 
-Using a mix of these high-level terms, combined with accurate grammar and a coherent structure, is what elevates a summary to a Band 9 level.
+# How to use "figure"
+### Definition and Function
+
+In the context of graphs, charts, and statistics, "figure" is an academic noun that serves as a flexible replacement for:
+
+- **A specific number** (e.g., 60, 45%)
+- **A measurement** (e.g., dollars, units, kilograms)
+- **A numerical data point** (e.g., population count, sales amount)
+- **A percentage or proportion**
+
+**Crucially, it is used to avoid repeating the original data label.**
+
+### How to Use "Figure" Effectively (Band 9 Examples)
+
+#### 1. Singular Form (Referring to one point)
+
+Use "the figure" to refer to a single data point or one country's overall amount.
+
+|Scenario|Example Sentence|
+|---|---|
+|**Referencing a rise/fall**|The recycling rate for glass containers began at 50% in 1982, and **the figure** subsequently declined to 40% in 1990.|
+|**Referencing a comparison**|India's population is projected to reach 1.7 billion, a **figure** that will surpass China's total.|
