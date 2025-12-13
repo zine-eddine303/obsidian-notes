@@ -2,3 +2,15 @@
 - End with [[Matching Information to Paragraphs]], If you do other questions first, you will become familiar with the passage and this will help you identify the correct information more quickly and easily.
 
 
+
+| Order | Question type                                                                                                                              | Level of understanding | Answers in order? | First step                                              |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- | ----------------- | ------------------------------------------------------- |
+| First | [Maching headings](obsidian://open?vault=Web%20Developement&file=Study%20Notes%2FIELTS%2FReading%2FQuestion%20types%2FMatching%20headings) | Low                    | No                | Read text                                               |
+|       | Summary completion                                                                                                                         | Low                    | Often             | Eliminate incorrect words if you got a list of words    |
+|       | Diagram labeling                                                                                                                           | Low                    | Not always        | Identify type of word for answer                        |
+|       | Short answer                                                                                                                               | Low                    | Yes               | Read questions                                          |
+|       | Matching sentence ending                                                                                                                   | Medium                 | Yes               | Read the incomplete sentence first                      |
+|       | Multiple choice                                                                                                                            | Medium                 | Yes               | Read questions                                          |
+|       | Sentence completion                                                                                                                        | Medium                 | Yes               | Read the incomplete sentences first                     |
+|       | True, False, Not given                                                                                                                     | Very high              | Yes               | Identify qualifying verbs and words.                    |
+| Last  | Matching information to paragraph                                                                                                          | High                   | No                | Read questions first, think about synonyms of keywords. |

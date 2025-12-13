@@ -15,10 +15,10 @@
 
 ## Tips
 
-1. The answers appear in the same order as the text.
+1. ==The answers appear in the same order as the text==.
 2. Look at and understand the questions first before you start reading the text. What is the question actually asking?
 3. You will probably be given a word limit, for example **‘NO MORE THAN THREE WORDS AND/OR A NUMBER.’** Make sure you don’t go over this limit.
-4. As stated above, the answers do not need to be grammatically correct, just short answers.
+4. ==As stated above, the answers do not need to be grammatically correct, just short answers==.
 5. Keywords in the question will normally be nouns or noun phrases.
 6. When you find your keywords always think synonyms and paraphrases.
 

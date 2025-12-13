@@ -27,9 +27,9 @@ The **most important** thing to remember is what the words ‘true’, ‘false�
 - If the text contradicts or is the opposite to the information in the statement, the answer is **FALSE**
 - If there is no information or it is impossible to know, the answer is **NOT GIVEN**
 
-True means that the meaning is the **same**. It is just **similar** then it is **FALSE.** Remember that we are dealing with factual information so there is no room to say it is _similar or nearly the same._ 
+==True means that the meaning is the **same**. It is just **similar** then it is **FALSE.** Remember that we are dealing with factual information so there is no room to say it is _similar or nearly the same._ ==
 
-Lots of students have argued with me during practice and said the statement is true because it ‘kind of’ means the same. There is no ‘kind of’ with these questions, only facts.
+Lots of students have argued with me during practice and said the statement is true because it ‘kind of’ means the same.== There is no ‘kind of’ with these questions, only facts.==
 
 **Very important-** Just because an answer is **NOT GIVEN** does not mean there are no words in the statements that match words in the text. This is something that confuses people, if words match then it must be **TRUE** or **FALSE,** right? Not really. This is not a good way to think about these questions because there probably will be matching words for **NOT GIVEN** answers, they just don’t have enough information to answer the question **as a whole**.
 
@@ -38,7 +38,7 @@ Lots of students have argued with me during practice and said the statement is 
 1. Ignore anything you already know about the topic and don’t make assumptions. Base your answers on the text only.
 2. ==Identify any words that qualify the statement, for example, _some, all, mainly, often, always and occasionally._== These words are there to test if you have read the whole statement because they can change the meaning. For example, ‘Coca-Cola has **always** made its drinks in the U.S.A.’ has a different meaning from ‘Coca-Cola has **mainly** made its drinks in the U.S.A.’
 3. ==Be careful when you see verbs that qualify statements, such as _suggest, claim, believe and know._ ==For example, ‘The man **claimed** he was a British citizen,’ and ‘The man **is** a British citizen’ mean two different things.
-4. There will be **at least one** of all three answers. If you don’t have at least one ‘true’, ‘false’ or ‘not given’ you have at least one answer wrong.
+4. ==There will be **at least one** of all three answers.== If you don’t have at least one ‘true’, ‘false’ or ‘not given’ you have at least one answer wrong.
 5. Don’t skim and scan the text to find the final answer. You will have to read the appropriate part of the text very carefully in order to understand what the author means.
 6. Don’t look for words that exactly match those in the statements. You should also look for synonyms. Remember that you are **matching meaning, not words.**
 7. ==If you can’t find the information you are looking for, then it is probably ‘not given’. ==Don’t waste time looking for something that is not there.
