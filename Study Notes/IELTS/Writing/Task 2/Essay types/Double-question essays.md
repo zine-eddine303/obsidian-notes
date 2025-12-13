@@ -42,7 +42,6 @@ _"Nowadays, more tasks at home and work are being performed by robots. Why do yo
 4. **Conclusion**: Summarize your answers.
 
 ---
-
 ## How to Analyze a Question
 
 1. **Find the topic**: Identify the general subject (e.g., technology).

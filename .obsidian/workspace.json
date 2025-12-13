@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/Essay types/Discussion essays.md",
+                "file": "Study Notes/IELTS/Writing/Task 2/Band 9 essays dissection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discussion essays"
+              "title": "Band 9 essays dissection"
             }
           },
           {
@@ -75,26 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "Mock test 1"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c4b7f1aa344e8f70",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b90c6d4a98a19150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Notes/IELTS/Words.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Words"
             }
           }
         ]
@@ -216,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/Reading/Question types/Summary completion.md",
+                "file": "Study Notes/IELTS/Writing/Task 2/Band 9 essays dissection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Summary completion"
+              "title": "Outline of Band 9 essays dissection"
             }
           }
         ],
@@ -230,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,6 +226,18 @@
   },
   "active": "2820c3459a6e194c",
   "lastOpenFiles": [
+    "Assets/Pasted image 20251213200311.png",
+    "Assets/Pasted image 20251213200248.png",
+    "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
+    "Study Notes/IELTS/Writing/Task 2/Band 9 essays dissection.md",
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Agree or disagree essays.md",
+    "Study Notes/IELTS/Writing/Task 2/My essays/Untitled.md",
+    "Study Notes/IELTS/Writing/Task 2/My essays/People who hate their jobs.md",
+    "Study Notes/IELTS/Writing/Task 2/My essays/How to be good members of society..md",
+    "Study Notes/IELTS/Writing/Task 2/My essays/Homework task.md",
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Opinion essays.md",
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Double-question essays.md",
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Discussion essays.md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Advantages and disadvantages essays.md",
     "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md",
     "Study Notes/IELTS/Reading/General strategy for all types.md",
@@ -262,21 +253,10 @@
     "Study Notes/IELTS/Reading/Question types/True, false or not given.md",
     "Study Notes/IELTS/Reading/Question types/Short answer.md",
     "Study Notes/IELTS/Reading/Question types/Sentence completion.md",
-    "Study Notes/IELTS/Reading/Question types/Diagram labeling.md",
-    "Study Notes/IELTS/IELTS Structure.md",
-    "Study Notes/IELTS/Speaking/Structure.md",
-    "Mock test 1.md",
-    "Study Notes/IELTS/Writing/Task 1/Tips.md",
     "Untitled 2.base",
-    "Study Notes/IELTS/Writing/Task 1/My essay 1.md",
-    "2025-11-30.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
-    "Untitled.md",
-    "Study Notes/IELTS/Writing/Grammar and vocabulary.md",
-    "Study Notes/IELTS/Speaking/My weak points.md",
-    "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
     "Study Notes/IELTS/Listening/Untitled",
     "Assets/Pasted image 20251101110049.png",
     "Study Notes/IELTS/Listening",
@@ -292,7 +272,6 @@
     "Assets/ielts-reading-beehive.png",
     "Assets/ielts-reading-diagram-completion.png",
     "Assets/ielts-matching-features.png",
-    "Assets/ielts-true-false-not-given-example.png",
     "Study Notes/IELTS/Reading/Question types",
     "Untitled 1.canvas"
   ]
