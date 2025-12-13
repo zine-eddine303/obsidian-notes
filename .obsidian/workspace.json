@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Reading/Question types/Matching headings.md",
+                "file": "Study Notes/IELTS/Reading/General strategy for all types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matching headings"
+              "title": "General strategy for all types"
             }
           },
           {
@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Reading/Question types/True, false or not given.md",
+                "file": "Study Notes/IELTS/Reading/Question types/Summary completion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "True, false or not given"
+              "title": "Summary completion"
             }
           }
         ]
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Notes/IELTS/Reading/Question types/Matching headings.md",
+                "file": "Study Notes/IELTS/Reading/Question types/Summary completion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Matching headings"
+              "title": "Outline of Summary completion"
             }
           }
         ],
@@ -245,17 +245,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2820c3459a6e194c",
+  "active": "b90c6d4a98a19150",
   "lastOpenFiles": [
-    "Study Notes/IELTS/Reading/General strategy for all types.md",
+    "Study Notes/IELTS/Reading/Question types/Matching headings.md",
+    "Study Notes/IELTS/Reading/Question types/Matching Information to Paragraphs.md",
+    "Study Notes/IELTS/Reading/Question types/Matching Sentence Endings.md",
+    "Study Notes/IELTS/Reading/Question types/Multiple choice.md",
     "Study Notes/IELTS/Reading/Question types/True, false or not given.md",
+    "Study Notes/IELTS/Reading/General strategy for all types.md",
     "Study Notes/IELTS/Reading/Question types/Summary completion.md",
     "Study Notes/IELTS/Reading/Question types/Short answer.md",
     "Study Notes/IELTS/Reading/Question types/Sentence completion.md",
-    "Study Notes/IELTS/Reading/Question types/Multiple choice.md",
-    "Study Notes/IELTS/Reading/Question types/Matching Sentence Endings.md",
-    "Study Notes/IELTS/Reading/Question types/Matching Information to Paragraphs.md",
-    "Study Notes/IELTS/Reading/Question types/Matching headings.md",
     "Study Notes/IELTS/Reading/Question types/Diagram labeling.md",
     "Study Notes/IELTS/IELTS Structure.md",
     "Study Notes/IELTS/Speaking/Structure.md",
