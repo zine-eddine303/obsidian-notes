@@ -1,4 +1,3 @@
-
 Your job is to simply choose the correct answer from a list of possible choices.
 
 ![[mcq-1.png]]
@@ -18,7 +17,7 @@ When you do this it will seem like two or three of the options could be the corr
 	- This seems like an obvious one but it would shock you how many people don’t answer the question at all.
 
 - **Being tricked by the examiner**
-	- examiners love to try and trick you with ‘distractors’. Distractors are things that look like the correct answer but are actually incorrect. When you locate the correct section in the reading text, there will appear to be two or three plausible correct answers. A very common trick is matching lots of keywords from the question options to parts of the text. Just because there are lots of matching keywords doesn’t mean it is the correct answer. Also look at the context of the whole sentence and any qualifying words like _most, all, always, sometimes._ 
+	- examiners love to try and trick you with ‘distractors’. Distractors are things that look like the correct answer but are actually incorrect. When you locate the correct section in the reading text, there will appear to be two or three plausible correct answers. A very common trick is matching lots of keywords from the question options to parts of the text. Just because there are lots of matching keywords doesn’t mean it is the correct answer. Also look at the context of the whole sentence and any ==qualifying words== like _most, all, always, sometimes._ 
 
 - **Not reading the whole sentence**
 	- The first part of a sentence might look correct but the second half of it might change the meaning. Words like _but and however_ can change the meaning of a whole sentence. Examiners know you are trying to get the answers as quickly as possible and will try to trick you in this way.
@@ -28,25 +27,25 @@ When you do this it will seem like two or three of the options could be the corr
 
 # Top 10 Tips 
 
-1. The answers will be in the same order as the text.
+1. ==The answers will be in the same order as the text==.
 
-1. Read the questions before you read the text.
+2. Read the questions before you read the text.
 
-2. You will often be able to eliminate 2 of the four possible answers and this leaves you with two choices. Think about the difference in meaning between these two choices and this will help you get the correct answers.
+3. You will often be able to eliminate 2 of the four possible answers and this leaves you with two choices. Think about the difference in meaning between these two choices and this will help you get the correct answers.
 
-3. If you are unsure of what the difference is between two or three sentences, it can help to rephrase them in your own words.
+4. If you are unsure of what the difference is between two or three sentences, it can help to rephrase them in your own words.
 
-4. If you are running out of time or you really don’t know the answer, have a guess. You will not lose marks for wrong answers and you have a 25% chance of getting the correct answer just by guessing.
+5. If you are running out of time or you really don’t know the answer, have a guess. You will not lose marks for wrong answers and you have a 25% chance of getting the correct answer just by guessing.
 
-5. Don’t be tricked by the examiner’s ‘distractors’ especially keywords from the questions that look the same as the text.
+6. Don’t be tricked by the examiner’s ‘distractors’ especially keywords from the questions that look the same as the text.
 
-6. If you don’t know anything about the topic, don’t panic. It is a reading test, not a test of your knowledge.
+7. If you don’t know anything about the topic, don’t panic. It is a reading test, not a test of your knowledge.
 
-7. Try to predict the correct answer before you read the text. This will help you find the correct answer.
+8. Try to predict the correct answer before you read the text. This will help you find the correct answer.
 
-8. Before deciding on your answer, always go back and carefully read the questions before making your final decision.
+9. Before deciding on your answer, always go back and carefully read the questions before making your final decision.
 
-9. You might be asked about both facts and opinions. **Facts** are things that are always true or cannot be disproved, but **opinions** are just what people think.
+10. You might be asked about both facts and opinions. **Facts** are things that are always true or cannot be disproved, but **opinions** are just what people think.
 
 # Strategy 
 

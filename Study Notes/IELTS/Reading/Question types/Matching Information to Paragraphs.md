@@ -18,18 +18,18 @@ When you have found the words or phrases you think might give you the correct an
 
 # **Common Problems** 
 
-- The biggest problem is the fact that you need to look at the whole text. The answers could be anywhere in the text and they do not come in order, so it takes time.
+- The biggest problem is the fact that ==you need to look at the whole text==. The answers could be anywhere in the text and they do not come in order, so it takes time.
 
-- Also, the answers might not be the main idea of each paragraph. Normally paragraphs contain one main idea and reading the first and last lines of the paragraph can help you understand this. With these questions, the answer could be in any part of the paragraph and you cannot therefore just quickly skim to find it.
+- Also, ==the answers might not be the main idea of each paragraph==. Normally paragraphs contain one main idea and reading the first and last lines of the paragraph can help you understand this. With these questions, the answer could be in any part of the paragraph and you cannot therefore just quickly skim to find it.
 
 - There is also lots of irrelevant information that you do not need to consider. The strategy below will help you ignore much of this irrelevant information.
 
-- Finally, as stated above, not all paragraphs contain an answer and some paragraphs contain more than one answer.
+- Finally, as stated above, ==not all paragraphs contain an answer and some paragraphs contain more than one answer==.
 
 # **Tips** 
 
-1. Do this question last. If you do other questions first, you will become familiar with the passage and this will help you identify the correct information more quickly and easily.
-2. Try to find names, place names and numbers in the questions. These are often easier to find in the text.
+1. ==Do this question last==. If you do other questions first, you will become familiar with the passage and this will help you identify the correct information more quickly and easily.
+2. ==Try to find names, place names and numbers in the questions.== These are often easier to find in the text.
 3. Be aware that there may be synonyms. For example, ==you might see ‘_34%_‘ in the question but it might say ‘_just over a third_‘ or ‘_about a third_‘ in the text.==
 
 # **Strategy** 

@@ -13,21 +13,21 @@ For a more detailed look at paraphrasing and synonyms check out our post on [sen
 
 # Tips for Matching Sentence Endings
 
-1. The answers are in the same order in the text as they are in the questions, so the answer to question 2 will be after the answer to question 1 and so on. Locate question one first and then you know where to begin.
+1. ==The answers are in the same order in the text as they are in the questions,== so the answer to question 2 will be after the answer to question 1 and so on. Locate question one first and then you know where to begin.
 
-3. Try to predict how each sentence will end before you look at the endings.
+2. Try to predict how each sentence will end before you look at the endings.
 
-4. Start with the incomplete sentences first before you look at the endings or the text. There are more endings than required, so looking at all of these in detail is a waste of time.
+3. Start with the incomplete sentences first before you look at the endings or the text. There are more endings than required, so looking at all of these in detail is a waste of time.
 
-5. Think of synonyms and paraphrases that the examiners could be using instead of exactly the same words.
+4. Think of synonyms and paraphrases that the examiners could be using instead of exactly the same words.
 
-6. All of the sentence endings appear in the text, but you don’t need to read all of them, just the ones that you decide to match with the incomplete sentences.
+5. All of the sentence endings appear in the text, but you don’t need to read all of them, just the ones that you decide to match with the incomplete sentences.
 
-7. When highlighting keywords, it is often a good idea to highlight any names, including place names, or dates. These are often easy to find in the reading text.
+6. When highlighting keywords, it is often a good idea to highlight any names, including place names, or dates. These are often easy to find in the reading text.
 
-8. Don’t just match words. Make sure the meaning in the reading text matches.
+7. Don’t just match words. Make sure the meaning in the reading text matches.
 
-9. Spend more time on the first question because this is the most difficult. You have lots of different options for the first question and it will take you more time to work out the answer. The last question should take you much less time because you have fewer options to choose from.
+8. Spend more time on the first question because this is the most difficult. You have lots of different options for the first question and it will take you more time to work out the answer. The last question should take you much less time because you have fewer options to choose from.
 
 # Strategy for Matching Sentence Ending
 

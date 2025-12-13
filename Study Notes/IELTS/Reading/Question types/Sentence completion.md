@@ -4,7 +4,7 @@
 
 - Note that it says NO MORE THAN TWO WORDS from the text for each answer. This means that we can write one or two words only. If we write any more than this, we get the question wrong.
 
-- Also, note that it says ‘from the text’. This means that we can’t change the words from the text.
+- Also, note that it says ==‘from the text’==. This means that we can’t change the words from the text.
 
 - The word limit and whether we should use words from the text or not can change from question to question so read them carefully.
 
@@ -20,7 +20,7 @@ Finally, students often start reading the text before the question. This is conf
 
 1. Check how many words it asks you to write. If it says ‘no more than two’, you can write one or two words. If it says ‘no more than three’, you can write one, two or three words. Remember that numbers are written numerically, such as _72,_ count as one word and hyphenated words, such as _state-of-the-art_, count as one word.
 2. Sometimes the question will state ‘==using words from the text==’ or ‘from the text’. In this case, you should only use words from the text and not change them or use different forms of the words. If it does not say this, then you are allowed to change the words as long as the meaning is the same.
-3. The answers appear in the same order as the questions. The answer to number 1 will be above number 2, and the answer to number 3 will be below the answer to number 2.
+3. ==The answers appear in the same order as the questions==. The answer to number 1 will be above number 2, and the answer to number 3 will be below the answer to number 2.
 4. Remember that your answer should be grammatically correct. Check the type of word that fits in the space. Is it a verb, noun, adjective or adverb? This will help you answer the question correctly.
 5. When scanning for your answer, make sure you are thinking about paraphrasing and synonyms.
 6. Find where the answer is located in the text before you try to answer the question. Remember **where before what.**
@@ -29,7 +29,7 @@ Finally, students often start reading the text before the question. This is conf
 # **Sentence completion strategy** 
 
 1. Read the instructions carefully, noting how many words you can write and if they want you to include the exact words from the question or not.
-2. Read the incomplete sentences first. Think about what word form can be used and try to predict the answer. Also, think about keywords and how they could be represented by synonyms or paraphrasing.
+2. Read the incomplete sentences first. ==Think about what word form can be used== and try to predict the answer. Also, think about keywords and how they could be represented by synonyms or paraphrasing.
 3. Locate where the information is located by scanning quickly. If you can’t locate the answer quickly, move on.
 4. Read the incomplete sentence again.
 5. Study the reading text more carefully to establish the answer.
