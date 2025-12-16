@@ -1,2 +1,3 @@
 - conundrum = brain-teaser, enigma, riddle
 - culpability = responsibility for wrongdoing or failure
+- expenditure = the action of spending funds.
