@@ -27,3 +27,9 @@
 
 - Summary 
 - State which viewpoint that you agree with and explain why briefly
+
+# Comparison with [Opinion Essays (Agree - Disagree)](obsidian://open?vault=Web%20Developement&file=Study%20Notes%2FIELTS%2FWriting%2FTask%202%2FEssay%20types%2FOpinion%20essays%20(Agree%20-%20Disagree)
+
+- **Opinion (Agree/Disagree):** You can take a **one-sided approach**. You choose a side in the introduction and support it throughout. You don't _have_ to talk about the other side unless it helps prove your point.
+
+- **Discussion:** You **must** devote a full body paragraph to "View A" and a full body paragraph to "View B" before giving your opinion. If you don't discuss _both_ views equally, you fail the task requirements.

@@ -45,7 +45,7 @@
 - ==Need to learn how to link ideas more fluently==
 - Practice more articles
 - ==If you only eliminate very minor and stupid mistakes, you can improve your ban significantly by 1 or 1.5==
-- Understand the difference between **[[Opinion essays]]** and **[[Discussion essays]]**
+- Understand the difference between **[[Opinion essays (Agree - Disagree)]]** and **[[Discussion essays]]**
 - ==Need to be more detailed in Task 1.==
 - 
 
