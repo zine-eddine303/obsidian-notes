@@ -32,6 +32,8 @@
 | Flash light     | Flashlight         |                                                                             |
 | Fund raising    | Fundraising        |                                                                             |
 | Marchendise     | Merchandise        |                                                                             |
+| Satelites       | Satel==l==ites     |                                                                             |
+|                 |                    |                                                                             |
 
 
 # Grammar
