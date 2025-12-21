@@ -1,25 +1,21 @@
 # Linking words/Cohesive devices
 
-- **Although :** to introduce a contrast between two ideas. Needs to be followed by a clause (a part of a sentence with a subject + verb). **Although** + (subject + verb), (main idea). 
-  Example: **Although** he was tired, he finished his work.
-  He finished his work, **although** he was tired.
-- **Despite :** to introduce a contrast between two ideas. Needs to be followed by a noun. Despite + (noun/noun phrase/gerund), (main idea).
-  Example: Despite the rain, they continued playing.
-  They continued playing despite the rain.
-- **The latter**
-- **For example**
-- **Furthermore :** to add another idea to the current one, like **in addition**, **additionally** 
-  Example: The company’s profits have increased significantly. **Furthermore**, they have expanded into new markets.
-- **Thus :** to introduce a consequence or result
-- **I believe**
-- **In conclusion**
-- **While**
-- **However :** to introduce a contrast or exception to something previously mentioned. like **but, nevertheless, on the other hand.**
-- **For this reason**
-- **For instance** : to give an example
-- **This essay believes that**
-- **is better suited for to fulfill this (role)**
-- **Therefore** : For that reason
+| Device                        | Definition                                                                                                                                                              | Example                                                                                   |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Although                      | to introduce a contrast between two ideas. Needs to be followed by a clause (a part of a sentence with a subject + verb). **Although** + (subject + verb), (main idea). | **Although** he was tired, he finished his work.                                          |
+| Despite                       | to introduce a contrast between two ideas. Needs to be followed by a noun. Despite + (noun/noun phrase/gerund), (main idea).                                            | - Despite the rain, they continued playing.<br>- They continued playing despite the rain. |
+| The latter                    | Refers to the second of two things mentioned.                                                                                                                           | "The graph compares coal and gas; **the latter** was used less frequently."               |
+| Furthermore                   | to add another idea to the current one, like **in addition**, **additionally** <br>  Example: The company’s profits have increased significantly.                       | **Furthermore**, they have expanded into new markets.                                     |
+| Thus/Therefore                | to introduce a consequence or result                                                                                                                                    | "The city invested in trains; **therefore**, traffic decreased."                          |
+| I believe/This essay believes | Used to state a personal or central opinion.                                                                                                                            | "**I believe** that governments should tax plastic packaging."                            |
+| In conclusion                 | Signals the final summary of an essay.                                                                                                                                  | "**In conclusion**, the benefits of technology outweigh the risks."                       |
+| While                         | Shows contrast between two ideas in the same sentence.                                                                                                                  | "**While** profits rose in 2010, they dropped sharply in 2012."                           |
+| However                       | to introduce a contrast or exception to something previously mentioned. like **but, nevertheless, on the other hand.**                                                  | "The trend was upward. **However**, there was a slight dip in July."                      |
+| For this reason               | Explains the cause of a specific result                                                                                                                                 | "Automation is cheaper. **For this reason**, many factories have cut staff."              |
+| For instance/for example      | Introduces a specific case to support a point.                                                                                                                          | "Many cities are green. **For instance**, Vienna has many public parks."                  |
+
+
+
 # Vocabulary
 
 - Upbringing = raising = tarbiya

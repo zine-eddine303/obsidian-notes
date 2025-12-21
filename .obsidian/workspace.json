@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "punc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b23dd3dcc62647d1",
@@ -169,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
