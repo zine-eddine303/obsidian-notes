@@ -40,7 +40,7 @@
 ### Do's
 
 - Use it between a list of items
-	- example: I bought a coat, a hat and a shirt when I wasa at the mall
+	- example: I bought a coat, a hat and a shirt when I was at the mall
 
 -  Use after Linking words/Cohesive devices that are in the begining of the sentence
 	- **In conclusion**, I believe that ....
@@ -56,7 +56,7 @@
 		- ✅ We stopped a taxi, **and then** we went to the party.
 
 - Use before extra information in the sentence,  extra information is a part in the sentence that if you remove, the meaning of the sentence wont change
-	- The new bag==, which I bought yeaterday,== is extremely expensive in this city
+	- The new bag~~, which I bought yeaterday,~~ is extremely expensive in this city
 
 - Use after a **dependent clause** when they start a sentence. If the sentence started with an independent clause, then you dont need a comma at all
 	- (dependent clause) > Although I was in the shopping center, I didn't buy the coat < (independent clause)
@@ -66,7 +66,7 @@
 	- I bought a tight, black dress
 
 - Use before the quote of a person
-	- According to a recent survey, a scientist claimed, "Many animal speciest have gon extinct in Africa"
+	- According to a recent survey, a scientist claimed, "Many animal speciest have gone extinct in Africa"
 
 ## Full stop "."
 
@@ -75,7 +75,7 @@ To end a sentence
 ## Collon ":"
 
 To mention somthing in general and then expain it after the colon
-- example: They live in the best country in the world: canada
+- They live in the best country in the world: canada
 
 ## Semicolon ";"
 
@@ -111,7 +111,7 @@ Struggling with double letters in words is a common issue, especially when they 
 
 ### 1. **Doubling the final consonant (especially for adjectives and adverbs)**
 
-- When a word ends with a single vowel followed by a single consonant, and the final syllable is stressed, the final consonant is often doubled when adding a suffix (like -ing, -ed, -er, -est, or -ly).
+- When a word ends with a single vowel followed by a single consonant, and the final syllable is stressed, the final consonant is often doubled when adding a suffix (-ing, -ed, -er, -est, -ly).
     - Examples:
         - **Big** → **Bigger**
         - **Thin** → **Thinner**

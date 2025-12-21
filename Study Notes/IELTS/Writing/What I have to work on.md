@@ -1,4 +1,9 @@
+# Task 1
 
+- [ ] Cohesive device
+- [ ] Ideomatic language
+- [ ] Punctuation
+- [ ] 
 # Misspellings
 
 | False           | Correct            | Remark                                                                      |
