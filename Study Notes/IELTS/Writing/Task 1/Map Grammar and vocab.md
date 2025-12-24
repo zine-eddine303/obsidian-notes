@@ -1,0 +1,27 @@
+# Words bucket
+
+- Urabnized
+- Demolish
+- Infrastructure
+- Residential
+- Rural
+- Agricultural
+- Modernized
+- Extended
+- Facility
+- Commercial Zone
+- Striking (adjective)
+- Notheastern
+- Northwestern
+- Southeastern
+- Southeastern
+- Two buildings were ==erected==
+- The woodland area ==has been cleared to facilitate== the construction of...
+- ...in their place now ==stands== a cinema...
+- cutting through the landscape
+- ... its role as a primary transport crossing appears ==diminished== by the railway.
+- ... have also undergone extensive redevelopment...
+- occupied
+- a cluster of small houses
+-  historical landmarks
+- expansive

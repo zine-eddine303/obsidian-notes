@@ -1,9 +1,9 @@
 # Task 1
 
-- [ ] Cohesive device
-- [ ] Ideomatic language
-- [ ] Punctuation
-- [ ] 
+- [x] Cohesive device
+- [x] Ideomatic language
+- [x] Punctuation
+- [ ] Map strategy
 # Misspellings
 
 | False           | Correct            | Remark                                                                      |
@@ -38,7 +38,7 @@
 | Fund raising    | Fundraising        |                                                                             |
 | Marchendise     | Merchandise        |                                                                             |
 | Satelites       | Satel==l==ites     |                                                                             |
-|                 |                    |                                                                             |
+| Raleway         | Ra==i==lway        |                                                                             |
 
 
 # Grammar
