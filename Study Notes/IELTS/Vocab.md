@@ -1,0 +1,17 @@
+- conundrum = brain-teaser, enigma, riddle
+- culpability = responsibility for wrongdoing or failure
+- expenditure = the action of spending funds.
+- **Inherent (Adjective):** Something that is a permanent, essential, or natural part of someone or something.
+	- _Usage:_ A passion that isn't learned, but feels like it has always been part of your personality.
+- **Intricate (Adjective):** Very complicated or detailed. It is a higher-level synonym for "complex."
+	- _Usage:_ Use this for systems, code, or problems with many moving parts.
+- **Streamline (Verb):** To make an organization or system more efficient and effective by employing faster or simpler working methods.
+	- _Usage:_ Instead of "making a job easier," you "streamline the process."
+- **Relentless (Adjective):** Oppressively constant; incessant. Something that never stops or slows down.
+	- _Why use it:_ Perfect for describing how fast technology moves.
+- **Volatile (Adjective):** Liable to change rapidly and unpredictably, especially for the worse.
+	- _Why use it:_ In a tech context, it describes an environment where things don't stay the same for long.
+- **Obsolete (Adjective):** No longer produced or used; out of date.
+	- _Why use it:_ This is the professional way to say "old" or "useless" software/hardware.
+- **Teeming**: To be full of or swarming with something. It suggests a high level of activity, movement, and density, in a positive way. alternative to "crowded" or "full of."
+- 
