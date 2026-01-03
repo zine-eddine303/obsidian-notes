@@ -14,4 +14,15 @@
 - **Obsolete (Adjective):** No longer produced or used; out of date.
 	- _Why use it:_ This is the professional way to say "old" or "useless" software/hardware.
 - **Teeming**: To be full of or swarming with something. It suggests a high level of activity, movement, and density, in a positive way. alternative to "crowded" or "full of."
-- 
+- **Grappling (Verb):** To struggle with or work hard to deal with or overcome a difficulty or challenge.
+	- _Why use it:_ It paints a much more "vivid" (clear/intense) picture than just saying "trying to learn."
+- Foster: To actively encourage or promote the development of something, usually an intangible quality (like an emotion, a habit, or a relationship).
+	- - **Examples:**
+    - "Living abroad **fosters** independence." (It helps independence grow in you).
+    - "The teacher tried to **foster** a love of reading in her students."
+- **Unforeseen (Adjective):** Not anticipated or predicted; unexpected.
+	- _Why use it:_ It is the professional way to describe "surprising" problems or events.
+- **Anecdote (Noun):** A short, amusing, or interesting story about a real incident or person.
+	- _Why use it:_ It’s more precise than "story." It implies a funny memory you tell people later.
+- **Mundane (Adjective):** Lacking interest or excitement; dull or repetitive.
+	- _Usage:_ This is a perfect C2 word to describe boring tasks like filing papers, cleaning, or basic data entry.
