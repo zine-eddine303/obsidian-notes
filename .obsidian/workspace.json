@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "b23dd3dcc62647d1",
@@ -170,8 +169,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2820c3459a6e194c",
+  "active": "89b402b9bf102bd2",
   "lastOpenFiles": [
+    "Assets/Screenshot 2026-01-03 at 19-03-57 SmallTalk2Me AI English Speaking Practice & Assessment.png",
     "Study Notes/IELTS/Speaking/Structure.md",
     "Study Notes/IELTS/Speaking/My weak points.md",
     "Study Notes/IELTS/Writing/Task 1/Types of questions.md",
@@ -198,7 +198,6 @@
     "Study Notes/IELTS/Writing/Task 2/Essay types/Double-question essays (Direct question).md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Problem (or Casue) - Solution (or Effect).md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Discussion essays.md",
-    "Study Notes/IELTS/Writing/Task 2/Essay types/Advantages and disadvantages essays.md",
     "Assets/Pasted image 20251213200311.png",
     "Assets/Pasted image 20251213200248.png",
     "Untitled 2.base",
