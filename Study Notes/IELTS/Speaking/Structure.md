@@ -9,6 +9,7 @@ You should treat each part separately.
 - Eye contact
 - Greeting
 - The examiner
+- The formality of the speech
 
 ## Worry about
 
@@ -70,7 +71,7 @@ Part 2 is sometimes called the ‘long turn’. You will be given a cue card, an
 - Add a point that can help you talk about the topic
 - Think about what you want to say
 	- This might be hard to do all of this in a minute, but you can with practice 
-- Think naturally until the examiner stops you
+- Speak naturally until the examiner stops you
 
 # Part 3 
 Part 3 is more abstract. This is your opportunity to really develop your answers and discuss the issues brought up by the examiner. ==The topic will be linked to the topic you discussed in Part 2==, which will last 4-5 minutes.
