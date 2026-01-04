@@ -10,6 +10,7 @@ You should treat each part separately.
 - Greeting
 - The examiner
 - The formality of the speech
+- Talking about all the bullet points in part 2
 
 ## Worry about
 
@@ -57,10 +58,11 @@ Part 2 is sometimes called the ‘long turn’. You will be given a cue card, an
 ## Common problems
 
 - Unable to speak for 2 mins
-	- Lack of development: you should speak in detail about each bullet point, you have 2 minustes and you have to talk through them
+	- Lack of development
 
 ## Common mistakes
-
+- Talk anout all bullet points
+	- These points are there to help you speak for 2 minutes and do not oblige you to use them at all.
 - Talk about each bullet point in order
 	- It makes you run of ideas
 
