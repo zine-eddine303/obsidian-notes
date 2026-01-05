@@ -5,7 +5,7 @@
 - It is clear from the chart that x
 - There is a **noticeable** difference between x and y
 - About 10% of girls devote over an hour of their time three times a week to active leisure pursuits **while this applies to** 50% of the boys.
-- **A closer examination of the figures **for young people who actually participated in physical activity **reveals that the greatest proportion** dedicate at least x
+- **A closer examination of the figures** for young people who actually participated in physical activity **reveals that the greatest proportion** dedicate at least x
 - Glass containers maintained the **second-highest recycling rate**, **followed by** aluminium cans, **which exhibited the most dramatic percentage increase**.
 - "decreasing steadily" → **"declining gradually"** or **"experiencing a steady drop."**
 - "followed with an increase" → **"subsequently rose"** or **"then saw a recovery to..."**
