@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 1/My essay 8.md",
+                "file": "Study Notes/IELTS/Writing/Task 2/My essays/My essay 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My essay 8"
+              "title": "My essay 1"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "b23dd3dcc62647d1",
@@ -185,14 +186,17 @@
   },
   "active": "2820c3459a6e194c",
   "lastOpenFiles": [
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Double-question essays (Direct question).md",
+    "Study Notes/IELTS/Writing/Task 1/Numerical data Grammar and vocab.md",
+    "Study Notes/IELTS/Writing/Task 2/My essays/My essay 1.md",
+    "Study Notes/IELTS/Writing/Task 2/My essays/Task 2 - 1.md",
+    "Study Notes/IELTS/Writing/Task 1/My essay 8.md",
     "Study Notes/IELTS/Writing/Task 1/My essay 7.md",
     "Assets/Test-25-ACW.af~lock~",
     "Assets/Test-25-ACW.af",
-    "Study Notes/IELTS/Writing/Task 1/My essay 8.md",
     "Assets/Pasted image 20260105214218.png",
     "Assets/Pasted image 20260105213906.png",
     "Assets/Pasted image 20260105213850.png",
-    "Study Notes/IELTS/Writing/Task 1/Numerical data Grammar and vocab.md",
     "Assets/Test-25-ACW.png",
     "Study Notes/IELTS/Writing/Task 1/Tips.md",
     "Study Notes/IELTS/Writing/Task 1/Types of questions.md",
@@ -209,7 +213,6 @@
     "Assets/Pasted image 20251221175312.png",
     "Study Notes/IELTS/Writing/Task 1/My essay 4.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/Science experiments on animals.md",
-    "Study Notes/IELTS/Writing/Task 2/My essays/Task 2 - 1.md",
     "Study Notes/IELTS/Writing/Task 2/Sample essays (IELTS ADVANTAGE).md",
     "Study Notes/IELTS/Writing/Task 2/How to rephrase a question.md",
     "Study Notes/IELTS/Writing/Task 2/Essays analysis.md",
@@ -217,7 +220,6 @@
     "Study Notes/IELTS/Writing/Task 2/My essays/People who hate their jobs.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/How to be good members of society..md",
     "Study Notes/IELTS/Writing/Task 2/My essays/Homework task.md",
-    "Study Notes/IELTS/Writing/Task 2/Essay types/Double-question essays (Direct question).md",
     "Assets/Pasted image 20251213200311.png",
     "Assets/Pasted image 20251213200248.png",
     "Untitled 2.base",
