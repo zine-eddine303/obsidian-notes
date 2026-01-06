@@ -19,7 +19,7 @@ Maintaining a small local business can be challenging due to the aggressive ==co
 	You have to also mention the answer to the two questions that you were asked in the introduction
 
 
-A few large supermarkets and online shops have already ==consumed the market== and formed a monopoly, making them the only options available for consumers. This is due to many factors that tipped the economy to their side; for instance, they establish contracts with important companies like ==notorious brands== and suppliers. Furthermore, these monopolies are likely to possess some huge capitals, which allow them to invest heavily in ==tradition== and digital marketing, expansions and ==aquiremnts==, hence crushing small competitors easily. In stark contrast, small shops generally have limited ==ressoures== and connections which prohibits them from expanding and gaining traction against their big competitors.
+A few large supermarkets and online shops have already ==consumed the market== and formed a monopoly, making them the only options available for consumers. This is due to many factors that tipped the economy to their side; for instance, they establish contracts with important companies like ~~==notorious brands==~~ renowned brands and suppliers. Furthermore, these monopolies are likely to possess some huge capitals, which allow them to invest heavily in ==tradition== and digital marketing, expansions and ==aquiremnts==, hence crushing small competitors easily. In stark contrast, small shops generally have limited ==ressoures== and connections which prohibits them from expanding and gaining traction against their big competitors.
 
 	"Notorious" means famous for something bad (like a criminal)
 
@@ -58,3 +58,13 @@ You have several recurring spelling mistakes. In a Band 8.0+ essay, spelling err
 - **"Notorious brands"**: In English, **notorious** means famous for something _bad_ (like a criminal). For big companies, use **well-known**, **renowned**, or **prominent**.
 - **"Consume the market"**: A more natural way to say this is **dominate the market**.
 - **"Invest heavily in tradition marketing"**: You mean **traditional** marketing (TV, radio, newspapers).
+
+# Band 9 essay example
+
+The rise of large supermarkets and online retailers presents significant challenges for small local shops, affecting communities in multiple ways. This shift can lead to economic decline, reduced social cohesion, and a loss of cultural identity. However, several steps can be taken to address this issue and support small businesses.  
+  
+One major impact is the economic downturn in local areas. When independent shops struggle to compete, they often close, leading to job losses and reduced income circulation. Instead of money staying within the local economy, it is directed to large corporations, which may not reinvest locally. Additionally, the closure of small shops reduces social interaction, as these businesses often serve as community hubs where residents engage with one another. This weakens the sense of belonging and community spirit. Furthermore, the decline of local businesses leads to a loss of cultural diversity, as family-run stores offering unique products are replaced by generic chain retailers.  
+  
+To counter these negative effects, both government intervention and consumer awareness are essential. Authorities could provide financial incentives, such as tax breaks or grants, to help small businesses remain competitive. Promoting local markets, implementing stricter regulations on large retailers, and launching campaigns to encourage people to shop locally could also be effective. On an individual level, consumers can support their communities by prioritizing independent shops over multinational companies.  
+  
+In conclusion, the decline of small shops impacts local economies, social connections, and cultural diversity. However, with government policies and conscious consumer choices, small businesses can thrive, ensuring a more balanced and sustainable community.
