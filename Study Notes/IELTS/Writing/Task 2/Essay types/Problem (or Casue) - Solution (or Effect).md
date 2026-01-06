@@ -9,3 +9,25 @@ In many countries, the tradition of families eating meals together is disappeari
  
 
 > **Warning:** If you provide solutions when the prompt only asked for "effects," you lose marks for Task Response. Read the last sentence of the prompt twice!
+
+
+# structure
+
+**Introduction** 
+- Paraphrase Question
+- Outline Sentence
+
+**Main Body Paragraph 1**
+- State Problems
+- Explain First Problem
+- Explain Second Problem
+- Example of Second Problem
+
+**Main Body Paragraph 2**
+- State Solutions
+- Explain First Solution
+- Explain Second Solution
+- Example of Second Solution
+
+**Cnclusion** 
+- Summary

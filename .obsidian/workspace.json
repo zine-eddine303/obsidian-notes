@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Notes/IELTS/Writing/Task 2/Essay types/Problem (or Casue) - Solution (or Effect).md",
+                "file": "Study Notes/IELTS/Writing/Task 2/My essays/My essay 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problem (or Casue) - Solution (or Effect)"
+              "title": "My essay 2"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "b23dd3dcc62647d1",
@@ -171,11 +172,13 @@
   },
   "active": "2820c3459a6e194c",
   "lastOpenFiles": [
+    "Study Notes/IELTS/Writing/Grammar and vocabulary.md",
+    "Study Notes/IELTS/Writing/Task 2/My essays/My essay 2.md",
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Problem (or Casue) - Solution (or Effect).md",
+    "Study Notes/IELTS/Writing/Task 2/Essay types/Advantages and disadvantages essays.md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Discussion essays.md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Opinion essays (Agree - Disagree).md",
-    "Study Notes/IELTS/Writing/Task 2/Essay types/Advantages and disadvantages essays.md",
     "Study Notes/IELTS/Writing/Task 2/Essay types/Double-question essays (Direct question).md",
-    "Study Notes/IELTS/Writing/Grammar and vocabulary.md",
     "Study Notes/IELTS/Writing/Task 1/Numerical data Grammar and vocab.md",
     "Study Notes/IELTS/Vocab.md",
     "Study Notes/IELTS/Writing/What I have to work on.md",
@@ -186,7 +189,6 @@
     "Study Notes/IELTS/IELTS Structure.md",
     "Study Notes/IELTS/Writing/Task 2/Sample essays (IELTS ADVANTAGE).md",
     "Study Notes/IELTS/Writing/Task 2/Band 9 essays dissection.md",
-    "Study Notes/IELTS/Writing/Task 2/My essays/My essay 2.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/My essay 1.md",
     "Study Notes/IELTS/Writing/Task 2/My essays/Task 2 - 1.md",
     "Study Notes/IELTS/Writing/Task 1/My essay 8.md",
@@ -204,7 +206,6 @@
     "Study Notes/IELTS/Writing/Task 1/My essay 6.md",
     "Study Notes/IELTS/Writing/Task 1/My essay 5.md",
     "Assets/Pasted image 20251221175312.png",
-    "Study Notes/IELTS/Writing/Task 1/My essay 4.md",
     "Assets/Pasted image 20251213200311.png",
     "Assets/Pasted image 20251213200248.png",
     "Untitled 2.base",
