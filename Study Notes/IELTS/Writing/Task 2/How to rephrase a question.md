@@ -16,4 +16,4 @@ Teachers =
 In the classroom = in class, teaching
 
 
-In the near future, AI will take the role of teachers.
+In the near future, AI will take the role of teachers in class.

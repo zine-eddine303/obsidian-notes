@@ -2,7 +2,7 @@
 *Some people believe that unpaid community service should be compulsory in high school programs (for example, working for a charity, improving the neighborhood or teaching sports to younger children).*
 *Do you agree or disagree?*
 
-**Governments should spend more money on education than on recreation and sports.** Do you agree or disagree?**
+**Governments should spend more money on education than on recreation and sports.** Do you agree or disagree?
 
 **Most high-level positions in companies are filled by men even though the workforce in many developed countries is more than 50 per cent female. Companies should be required to allocate a certain percentage of these positions to women.** Do you agree?
 

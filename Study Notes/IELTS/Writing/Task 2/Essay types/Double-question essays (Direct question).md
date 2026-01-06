@@ -36,7 +36,7 @@ _"Nowadays, more tasks at home and work are being performed by robots. Why do yo
 ---
 ### Double-Question Essay Structure
 
-1. **Introduction**: Introduce the topic (_"Nowadays, more tasks at home and work are being performed by robots."_).
+1. **Introduction**: Introduce the topic (_"Nowadays, more tasks at home and work are being performed by robots."_). + give a preview of the answers of the two questions.
 2. **Main Body 1**: Answer the first question (_"I think this is happening because..."_).
 3. **Main Body 2**: Answer the second question (_"I believe this is a positive/negative development because..."_).
 4. **Conclusion**: Summarize your answers.
@@ -141,17 +141,15 @@ _"Nowadays, more tasks at home and work are being performed by robots."_
 	- What are the problems and solutions?
 	- is it a positive or a negtive developement?
 - This is where we **summarise our main ideas**
-- 
-
 ### Structure of a conclusion
 
 1. **Linking word**:
     - In conclusion
     - To conclude
 2. **Opinion**:
-    - Don't worry about repeating your main ideas again
-    - Take the main ideas from the intorduction and paraphrase them
+    - ==Don't worry about repeating your main ideas again==
+    - ==Take the main ideas from the intorduction and paraphrase them==
     - This makes you have a clear position throughout the essay
 3. **Summary of main ideas**:
     - Someone should be able to read your conclusion only and tell what your main ideas are
-    - Don't worry about repeating your main ideas but paraphrase
+    - ==Don't worry about repeating your main ideas but paraphrase==
