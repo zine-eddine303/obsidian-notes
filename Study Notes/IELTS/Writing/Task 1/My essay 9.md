@@ -4,7 +4,7 @@ The pie chart shows average monthly student expenditure in the UK in 2016. The b
 ![[Pasted image 20260107224222.png]]
 # My essay
 
-The pie chart illustrates the student's average monthly spending in the United Kingdom in year 2016, while the bar chart represents the sources of the income of students in the same year.
+The pie chart illustrates ~~the~~ ~~==student's==~~ students' average monthly spending in the United Kingdom in year 2016, while the bar chart represents the sources of the income of students in the same year.
 
 Overall, housing takes as much as all what the other expenses combined take in the monthly spending of students. Furthermore, most source of income for these individuals is though student loans, while grants and fundings are the least common means of income.
 

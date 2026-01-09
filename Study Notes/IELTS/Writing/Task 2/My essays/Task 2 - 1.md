@@ -1,4 +1,4 @@
-	Some people think that the teenage years are the happiest time of most people’s lives. Others think that adult life brings more happiness, in spite of greater responsibility. Discuss both views and give your own opinion.
+Some people think that the teenage years are the happiest time of most people’s lives. Others think that adult life brings more happiness, in spite of greater responsibility. Discuss both views and give your own opinion.
 
 ---
 

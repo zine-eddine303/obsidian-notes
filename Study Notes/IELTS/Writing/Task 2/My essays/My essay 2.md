@@ -1,3 +1,8 @@
+_**In many countries, childhood obesity is a growing problem.**_
+
+_**What are the reasons for this and what can individuals and governments do to tackle the problem?**_
+
+
 cause 1: junk food
 cause 2: inactivity
 
