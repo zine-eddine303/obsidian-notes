@@ -26,3 +26,4 @@
 	- _Why use it:_ It’s more precise than "story." It implies a funny memory you tell people later.
 - **Mundane (Adjective):** Lacking interest or excitement; dull or repetitive.
 	- _Usage:_ This is a perfect C2 word to describe boring tasks like filing papers, cleaning, or basic data entry.
+- prevalent=predominant

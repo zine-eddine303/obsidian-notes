@@ -21,7 +21,7 @@ Australia
 
 Marital status in Canada and Australia is reported by the two given pie charts.
 
-Overall, it is apparent that separation takes more than half in the statistics of marital status in Canada and more than a quarter of Canadians are married. On the other hand, separation is significantly less prevelant in Autralia than it is on Canada, and almost half of the citizens are married.
+Overall, it is apparent that separation takes more than half in the statistics of marital status in Canada and more than a quarter of Canadians are married. On the other hand, separation is significantly less ~~==prevelant==~~ prevalent in Autralia than it is on Canada, and almost half of the citizens are married.
 
 Separation without divorce is the most common status in Canada with a figure of 53% and 29% are married. The remaining 18% is shared by singles, widows, divorced and same sex marriages with 7%, 7%, 1% and 3% respectively.
 
