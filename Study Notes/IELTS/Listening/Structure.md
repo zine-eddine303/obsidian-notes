@@ -69,3 +69,8 @@ Each type of question requires a strategy to answer it. Don't use a universal st
 	3. Visualize walking though the map/plan
 	4. Be careful to the traps (e.g. : to the left there was the café but it was moved to the left...)
 	5. Identify signposting language (e.g.: lets start off the sought gate, take the left of the glass house, go back, finish off on the north gate...)
+
+
+
+
+
