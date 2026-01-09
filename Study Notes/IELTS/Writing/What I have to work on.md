@@ -39,6 +39,8 @@
 | Marchendise     | Merchandise        |                                                                             |
 | Satelites       | Satel==l==ites     |                                                                             |
 | Raleway         | Ra==i==lway        |                                                                             |
+| Noticable       | Notic==e==able     |                                                                             |
+|                 |                    |                                                                             |
 
 
 # Grammar

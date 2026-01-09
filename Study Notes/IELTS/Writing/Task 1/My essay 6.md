@@ -1,5 +1,15 @@
 # Attempt 1
 
+
+**_The two maps below show the changes that have taken place in the town of Westley since 1815._**
+
+**_Summarise the information by selecting and reporting the main features, and make comparisons where relevant._**
+
+You should write at least 150 words.
+
+
+![[Pasted image 20260109104053.png]]
+
 The two maps represent the change that Westley town went through since year 1815.
 
 Overall, it is starkly apparent that a significant amount of changes were applied to Westly since 1815, transforming from a town to a city. Notably, Lenton woods, houses, and fields were all replaced by residential and business establishments.

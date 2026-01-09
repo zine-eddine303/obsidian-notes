@@ -25,3 +25,5 @@
 - a cluster of small houses
 -  historical landmarks
 - expansive
+- relocation: process of moving to a new physical place
+- ~~At the center~~ In the center
